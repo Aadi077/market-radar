@@ -102,12 +102,21 @@ def is_true(value):
     return (value or "").lower() in ("1", "true")
 
 
+_index_listings = {}
+
+
 def form4_filings(day):
     """Map accession number -> archive path for every Form 4 filed on `day`, or None if no index exists."""
-    qtr = (day.month - 1) // 3 + 1
-    raw = sec_get(f"https://www.sec.gov/Archives/edgar/daily-index/{day.year}/QTR{qtr}/form.{day:%Y%m%d}.idx")
-    if raw is None:
+    # EDGAR answers 403 (not 404) for days without an index, so check the quarter's directory listing first.
+    base = f"https://www.sec.gov/Archives/edgar/daily-index/{day.year}/QTR{(day.month - 1) // 3 + 1}"
+    if base not in _index_listings:
+        listing = sec_get(f"{base}/index.json")
+        items = json.loads(listing)["directory"]["item"] if listing else []
+        _index_listings[base] = {item["name"] for item in items}
+    name = f"form.{day:%Y%m%d}.idx"
+    if name not in _index_listings[base]:
         return None
+    raw = sec_get(f"{base}/{name}")
     filings = {}
     for line in raw.decode("latin-1").splitlines():
         if not line.startswith("4 "):
@@ -314,10 +323,10 @@ def update_market(now):
 def bar_chart(title, values):
     """Horizontal diverging bar chart as a standalone SVG."""
     items = sorted(values.items(), key=lambda kv: kv[1], reverse=True)
-    width, label_w, row_h, top = 640, 190, 26, 44
+    width, label_w, value_w, row_h, top = 640, 190, 70, 26, 44
     height = top + row_h * len(items) + 16
     max_abs = max((abs(v) for _, v in items), default=1) or 1
-    plot_w = width - label_w - 70
+    plot_w = width - label_w - value_w - 20
     zero_x = label_w + plot_w / 2
     scale = (plot_w / 2) / max_abs
     parts = [
@@ -331,12 +340,10 @@ def bar_chart(title, values):
         w = max(abs(v) * scale, 1)
         x = zero_x if v >= 0 else zero_x - w
         color = "#2da44e" if v >= 0 else "#cf222e"
-        value_x = zero_x + w + 6 if v >= 0 else zero_x - w - 6
-        anchor = "start" if v >= 0 else "end"
         parts += [
             f'<text x="{label_w - 10}" y="{y + 16}" text-anchor="end" fill="#8b949e">{label}</text>',
             f'<rect x="{x:.1f}" y="{y + 4}" width="{w:.1f}" height="{row_h - 8}" rx="3" fill="{color}"/>',
-            f'<text x="{value_x:.1f}" y="{y + 16}" text-anchor="{anchor}" fill="#8b949e">{v:+.2f}%</text>',
+            f'<text x="{width - 12}" y="{y + 16}" text-anchor="end" fill="{color}" font-weight="600">{v:+.2f}%</text>',
         ]
     parts.append("</svg>\n")
     return "\n".join(parts)
