@@ -4,6 +4,20 @@ A daily, automatically updated record of **insider trading** (SEC Form 4 open-ma
 
 **Last updated:** 2026-09-14
 
+## Market close · 2026-09-11
+
+| Index | Close | Change |
+|---|---:|---:|
+| S&P 500 (SPY) | 764.29 | +0.85% |
+| Nasdaq 100 (QQQ) | 714.88 | +0.87% |
+| Dow 30 (DIA) | 525.79 | +0.97% |
+| Russell 2000 (IWM) | 288.89 | +0.41% |
+
+![Sector performance](charts/sectors-daily.svg)
+
+**Top large-cap gainers:** **CSCO** +4.37% · **IBM** +3.96% · **INTC** +2.61% · **AMD** +2.49% · **CRM** +1.94%  
+**Top large-cap decliners:** **UNH** -2.37% · **ORCL** -1.74% · **LLY** -0.65% · **MRK** -0.54% · **JNJ** -0.29%
+
 ## Biggest insider buys · filed 2026-09-11
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
