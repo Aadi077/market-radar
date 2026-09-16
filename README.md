@@ -2,48 +2,48 @@
 
 A daily, automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, with a weekly recap every Sunday. Collected by GitHub Actions.
 
-**Last updated:** 2026-09-14
+**Last updated:** 2026-09-15
 
-## Market close · 2026-09-11
+## Market close · 2026-09-14
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 764.29 | +0.85% |
-| Nasdaq 100 (QQQ) | 714.88 | +0.87% |
-| Dow 30 (DIA) | 525.79 | +0.97% |
-| Russell 2000 (IWM) | 288.89 | +0.41% |
+| S&P 500 (SPY) | 760.88 | -0.45% |
+| Nasdaq 100 (QQQ) | 709.18 | -0.80% |
+| Dow 30 (DIA) | 524.49 | -0.25% |
+| Russell 2000 (IWM) | 287.91 | -0.34% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **CSCO** +4.37% · **IBM** +3.96% · **INTC** +2.61% · **AMD** +2.49% · **CRM** +1.94%  
-**Top large-cap decliners:** **UNH** -2.37% · **ORCL** -1.74% · **LLY** -0.65% · **MRK** -0.54% · **JNJ** -0.29%
+**Top large-cap gainers:** **ADBE** +5.30% · **CRM** +4.73% · **NFLX** +3.77% · **PLTR** +3.64% · **GOOGL** +3.22%  
+**Top large-cap decliners:** **INTC** -5.59% · **BAC** -5.14% · **AVGO** -4.77% · **AMD** -4.40% · **ORCL** -3.65%
 
-## Biggest insider buys · filed 2026-09-11
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **GPI** GROUP 1 AUTOMOTIVE INC | Conifer Management, L.L.C. | 10% Owner | $23.7M | 84,000 | $281.78 | [Form 4](https://www.sec.gov/Archives/edgar/data/1773994/000090514826004138/0000905148-26-004138-index.htm) |
-| **GREE** Vulcan Infrastructure & Power Inc. | Rogers George Ted III | Director | $5.0M | 2,923,976 | $1.71 | [Form 4](https://www.sec.gov/Archives/edgar/data/1881667/000162828026061590/0001628280-26-061590-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $4.6M | 136,466 | $33.78 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526389292/0001193125-26-389292-index.htm) |
-| **ANGX** Angel Studios, Inc. | Sarowitz Steven I | Director | $2.5M | 488,637 | $5.19 | [Form 4](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000085/0001865200-26-000085-index.htm) |
-| **USLM** UNITED STATES LIME & MINERALS INC | Candou Holdings Ltd. | 10% Owner | $2.2M | 20,000 | $110.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2022891/000121390026099266/0001213900-26-099266-index.htm) |
-| **CYBN** CYBIN INC. | Glavine Paul | Chief Growth Officer | $1.2M | 100,000 | $12.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1833141/000091228226001263/0000912282-26-001263-index.htm) |
-| **CYBN** CYBIN INC. | So Eric H. L. | Executive Chair, Director | $1.2M | 100,000 | $12.39 | [Form 4](https://www.sec.gov/Archives/edgar/data/1833141/000091228226001261/0000912282-26-001261-index.htm) |
-| **PVH** PVH CORP. /DE/ | Larsson Stefan | Chief Executive Officer, Director | $1.0M | 14,179 | $70.53 | [Form 4](https://www.sec.gov/Archives/edgar/data/1558755/000112329226001286/0001123292-26-001286-index.htm) |
-| **RLMD** RELMADA THERAPEUTICS, INC. | Shenouda Maged | Chief Financial Officer | $844.0K | 200,000 | $4.22 | [Form 4](https://www.sec.gov/Archives/edgar/data/1553643/000121390026098970/0001213900-26-098970-index.htm) |
-| **RLMD** RELMADA THERAPEUTICS, INC. | TRAVERSA SERGIO | Chief Executive Officer, Director | $828.0K | 200,000 | $4.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/1553643/000121390026098969/0001213900-26-098969-index.htm) |
-
-## Biggest insider sales · filed 2026-09-11
+## Biggest insider buys · filed 2026-09-14
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **HGTY** Hagerty, Inc. | Hagerty Holding Corp. | 10% Owner | $122.0M | 10,637,500 | $11.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1899295/000110465926107145/0001104659-26-107145-index.htm) |
-| **DELL** Dell Technologies Inc. | Silver Lake Partners IV, L.P., Silver Lake Technology Associates IV, L.P., SLTA IV (GP), L.L.C., Silver Lake Group, L.L.C., Durban Egon | Director, 10% Owner | $29.5M | 54,608 | $540.18 | [Form 4](https://www.sec.gov/Archives/edgar/data/1571996/000119312526389498/0001193125-26-389498-index.htm) |
-| **DELL** Dell Technologies Inc. | SL SPV-2, L.P., SLTA SPV-2, L.P., SLTA SPV-2 (GP), L.L.C., Silver Lake Group, L.L.C., Durban Egon | Director, 10% Owner | $26.0M | 48,097 | $540.39 | [Form 4](https://www.sec.gov/Archives/edgar/data/1571996/000119312526389488/0001193125-26-389488-index.htm) |
-| **PBF** PBF Energy Inc. | Control Empresarial de Capitales S.A. de C.V. | 10% Owner | $24.8M | 319,270 | $77.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/1273693/000114036126036396/0001140361-26-036396-index.htm) |
-| **HNGE** Hinge Health, Inc. | Perez Daniel Antonio | CEO & Co-Founder, Director, 10% Owner | $22.4M | 250,000 | $89.45 | [Form 4](https://www.sec.gov/Archives/edgar/data/1673743/000206323626000014/0002063236-26-000014-index.htm) |
+| **RSG** REPUBLIC SERVICES, INC. | CASCADE INVESTMENT, L.L.C., GATES WILLIAM H III | 10% Owner | $129.3M | 580,810 | $222.63 | [Form 4](https://www.sec.gov/Archives/edgar/data/1052192/000110465926107592/0001104659-26-107592-index.htm) |
+| **PMTS** CPI Card Group Inc. | Tricor PMT25 Holdings Inc., Tricor Pacific Capital Inc. | 10% Owner | $11.3M | 525,000 | $21.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/1641614/000110465926107610/0001104659-26-107610-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $6.0M | 176,300 | $34.01 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526390651/0001193125-26-390651-index.htm) |
+| **DGICA** DONEGAL GROUP INC | DONEGAL MUTUAL INSURANCE CO | 10% Owner | $1.1M | 54,725 | $19.23 | [Form 4](https://www.sec.gov/Archives/edgar/data/800457/000093559626000026/0000935596-26-000026-index.htm) |
+| **ECL** ECOLAB INC. | Green Eric Mark | Director | $1.0M | 3,690 | $276.64 | [Form 4](https://www.sec.gov/Archives/edgar/data/31462/000162828026061859/0001628280-26-061859-index.htm) |
+| **ANGX** Angel Studios, Inc. | Sarowitz Steven I | Director | $472.6K | 88,647 | $5.33 | [Form 4](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000087/0001865200-26-000087-index.htm) |
+| **CROX** Crocs, Inc. | SMACH THOMAS J | Director | $437.5K | 4,000 | $109.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/1334036/000119410626000012/0001194106-26-000012-index.htm) |
+| **PMTS** CPI Card Group Inc. | Riley H Sanford | Director | $300.0K | 13,953 | $21.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/1641614/000131740626000006/0001317406-26-000006-index.htm) |
+| **PMTS** CPI Card Group Inc. | Peters Nicholas | Director | $250.0K | 11,628 | $21.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/1641614/000165477026000004/0001654770-26-000004-index.htm) |
+| **ECVT** Ecovyst Inc. | Humble Patti A. | Director | $250.0K | 24,875 | $10.05 | [Form 4](https://www.sec.gov/Archives/edgar/data/1708035/000170803526000099/0001708035-26-000099-index.htm) |
 
-Full list: [`data/insider/2026/09/2026-09-11.md`](data/insider/2026/09/2026-09-11.md)
+## Biggest insider sales · filed 2026-09-14
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **INGM** Ingram Micro Holding Corp | PLATINUM EQUITY, LLC, Platinum Equity Investment Holdings, LLC, Platinum Equity Investment Holdings IC (Cayman), LLC, Platinum Equity InvestCo, L.P., Platinum Equity Investment Holdings V, LLC, Platinum Equity Partners V, LLC, Platinum Equity Partners V, L.P., Imola JV Holdings, L.P., Ingram Holdco, LLC, Gores Tom | 10% Owner | $356.8M | 13,125,000 | $27.19 | [Form 4](https://www.sec.gov/Archives/edgar/data/1471783/000110465926107514/0001104659-26-107514-index.htm) |
+| **PMTS** CPI Card Group Inc. | Parallel49 Equity, ULC, Tricor Pacific Capital Partners (Fund IV) U.S., LP, Tricor Pacific Capital Partners (Fund IV), LP | 10% Owner | $54.9M | 2,687,921 | $20.43 | [Form 4](https://www.sec.gov/Archives/edgar/data/1641614/000165514826000004/0001655148-26-000004-index.htm) |
+| **AMD** ADVANCED MICRO DEVICES INC | Su Lisa T | Chair, President & CEO, Director | $48.1M | 95,000 | $506.80 | [Form 4](https://www.sec.gov/Archives/edgar/data/2488/000000248826000178/0000002488-26-000178-index.htm) |
+| **HNGE** Hinge Health, Inc. | Mecklenburg Gabriel M.I. | Director | $22.2M | 250,000 | $88.97 | [Form 4](https://www.sec.gov/Archives/edgar/data/1673743/000206278126000022/0002062781-26-000022-index.htm) |
+| **CHYM** Chime Financial, Inc. | CAROLAN SHAWN T | Director | $19.2M | 579,313 | $33.13 | [Form 4](https://www.sec.gov/Archives/edgar/data/1376066/000137606626000007/0001376066-26-000007-index.htm) |
+
+Full list: [`data/insider/2026/09/2026-09-14.md`](data/insider/2026/09/2026-09-14.md)
 
 ## How it works
 
