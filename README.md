@@ -2,7 +2,7 @@
 
 A daily, automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, with a weekly recap every Sunday. Collected by GitHub Actions.
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 
 ## Market close · 2026-09-18
 
@@ -44,6 +44,10 @@ A daily, automatically updated record of **insider trading** (SEC Form 4 open-ma
 | **DELL** Dell Technologies Inc. | SL SPV-2, L.P., SLTA SPV-2, L.P., SLTA SPV-2 (GP), L.L.C., Silver Lake Group, L.L.C., Durban Egon | Director, 10% Owner | $26.7M | 46,994 | $567.88 | [Form 4](https://www.sec.gov/Archives/edgar/data/1571996/000119312526395616/0001193125-26-395616-index.htm) |
 
 Full list: [`data/insider/2026/09/2026-09-18.md`](data/insider/2026/09/2026-09-18.md)
+
+## Latest weekly recap
+
+[2026-W38](data/weekly/2026-W38.md)
 
 ## How it works
 
