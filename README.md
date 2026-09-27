@@ -2,48 +2,48 @@
 
 A daily, automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, with a weekly recap every Sunday. Collected by GitHub Actions.
 
-**Last updated:** 2026-09-25
+**Last updated:** 2026-09-26
 
-## Market close · 2026-09-24
+## Market close · 2026-09-25
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 767.18 | -0.08% |
-| Nasdaq 100 (QQQ) | 741.10 | -0.01% |
-| Dow 30 (DIA) | 512.68 | -0.31% |
-| Russell 2000 (IWM) | 281.66 | -0.09% |
+| S&P 500 (SPY) | 771.35 | +0.54% |
+| Nasdaq 100 (QQQ) | 744.50 | +0.46% |
+| Dow 30 (DIA) | 517.49 | +0.94% |
+| Russell 2000 (IWM) | 281.97 | +0.11% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **META** +4.50% · **INTC** +3.91% · **LLY** +2.68% · **AMD** +2.38% · **DIS** +2.03%  
-**Top large-cap decliners:** **ORCL** -3.47% · **WMT** -2.66% · **IBM** -2.45% · **PEP** -1.56% · **HD** -1.53%
+**Top large-cap gainers:** **MSFT** +3.66% · **COST** +2.93% · **GE** +2.29% · **AAPL** +1.53% · **JPM** +1.33%  
+**Top large-cap decliners:** **INTC** -3.45% · **META** -3.33% · **CRM** -1.76% · **ORCL** -1.75% · **TSLA** -1.54%
 
-## Biggest insider buys · filed 2026-09-24
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $10.2M | 296,868 | $34.31 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526401049/0001193125-26-401049-index.htm) |
-| **GSHD** Goosehead Insurance, Inc. | Durable Capital Partners LP | 10% Owner | $7.1M | 150,000 | $47.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/1798849/000119312526401141/0001193125-26-401141-index.htm) |
-| Blackstone Multi-Strategy Hedge Fund L.P. | Querrey Kimberly K. | Director | $7.0M | 274,080 | $25.54 | [Form 4](https://www.sec.gov/Archives/edgar/data/2095486/000119312526401358/0001193125-26-401358-index.htm) |
-| Blackstone Private Real Estate Credit & Income Fund | Blackstone Private Multi-Asset Credit & Income Fund, Blackstone Private Credit Strategies LLC, Blackstone Intermediary Holdco L.L.C., BLACKSTONE SECURITIES PARTNERS L.P., Blackstone Advisory Services L.L.C., Blackstone Private Real Estate Credit & Income Fund (Offshore Strategic Feeder Fund) L.P., BREC Offshore Feeder GP, L.L.C. | 10% Owner | $5.0M | 191,695 | $26.17 | [Form 4](https://www.sec.gov/Archives/edgar/data/792326/000121390026103145/0001213900-26-103145-index.htm) |
-| Blackstone Private Real Estate Credit & Income Fund | Blackstone Holdings IV L.P., Blackstone Holdings IV GP L.P., Blackstone Holdings IV GP Management (Delaware) L.P., Blackstone Holdings IV GP Management L.L.C., Blackstone Holdings I L.P., Blackstone Holdings I/II GP L.L.C., Blackstone Inc., Blackstone Group Management L.L.C., SCHWARZMAN STEPHEN A | 10% Owner | $5.0M | 191,695 | $26.17 | [Form 4](https://www.sec.gov/Archives/edgar/data/1404071/000121390026103146/0001213900-26-103146-index.htm) |
-| **NYAX** Nayax Ltd. | Nechmad Yair | CEO, Co Founder & Chairman | $4.6M | 104,511 | $44.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/1901279/000197640826000865/0001976408-26-000865-index.htm) |
-| Blackstone Multi-Strategy Hedge Fund L.P. | Collins Philip Daniel | Director | $2.0M | 78,309 | $25.54 | [Form 4](https://www.sec.gov/Archives/edgar/data/2095486/000119312526401374/0001193125-26-401374-index.htm) |
-| **HHH** Howard Hughes Holdings Inc. | GRANDISSON MARC | Executive Chairman, Vantage, Director | $1.6M | 25,000 | $64.12 | [Form 4](https://www.sec.gov/Archives/edgar/data/1286007/000110465926110505/0001104659-26-110505-index.htm) |
-| **DKS** DICK'S SPORTING GOODS, INC. | Gupta Navdeep | EVP, Chief Financial Officer | $1000.0K | 7,707 | $129.75 | [Form 4](https://www.sec.gov/Archives/edgar/data/1089063/000177240926000009/0001772409-26-000009-index.htm) |
-| **UXIN** Uxin Ltd | Li Bin (William) | Director | $996.9K | 104,931,794 | $0.01 | [Form 4](https://www.sec.gov/Archives/edgar/data/2115037/000110465926110226/0001104659-26-110226-index.htm) |
-
-## Biggest insider sales · filed 2026-09-24
+## Biggest insider buys · filed 2026-09-25
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **ASPN** ASPEN AEROGELS INC | Wood River Capital, LLC, Koch, Inc. | 10% Owner | $58.1M | 12,280,426 | $4.73 | [Form 4](https://www.sec.gov/Archives/edgar/data/1145986/000119312526401380/0001193125-26-401380-index.htm) |
-| **SPCX** SPACE EXPLORATION TECHNOLOGIES CORP | Shotwell Gwynne | President and COO, Director | $52.5M | 342,170 | $153.57 | [Form 4](https://www.sec.gov/Archives/edgar/data/1181412/000162828026063378/0001628280-26-063378-index.htm) |
-| **HOOD** Robinhood Markets, Inc. | Tenev Vladimir | Chief Executive Officer, Director | $30.2M | 240,834 | $125.33 | [Form 4](https://www.sec.gov/Archives/edgar/data/1783879/000187100626000010/0001871006-26-000010-index.htm) |
-| **CRWV** CoreWeave, Inc. | Intrator Michael N | CEO and President, Director, 10% Owner | $26.7M | 307,692 | $86.82 | [Form 4](https://www.sec.gov/Archives/edgar/data/1769628/000176962826000435/0001769628-26-000435-index.htm) |
-| **P** Everpure, Inc. | Colgrove John | Chief Visionary Officer, Director | $22.7M | 200,000 | $113.26 | [Form 4](https://www.sec.gov/Archives/edgar/data/1651902/000147443226000094/0001474432-26-000094-index.htm) |
+| **LEN** LENNAR CORP /NEW/ | BERKSHIRE HATHAWAY INC, BUFFETT WARREN E | 10% Owner | $136.4M | 1,679,700 | $81.19 | [Form 4](https://www.sec.gov/Archives/edgar/data/1067983/000119312526403089/0001193125-26-403089-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $7.5M | 219,273 | $34.13 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526402895/0001193125-26-402895-index.htm) |
+| Calamos Aksia Hedged Strategies Fund | Calamos Aksia Hedged Strategies Fund (Offshore), Ltd. | 10% Owner | $7.5M | 714,183 | $10.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/2063706/000212577326000013/0002125773-26-000013-index.htm) |
+| **CX** CEMEX SAB DE CV | Zambrano Lozano Rogelio | Director | $6.9M | 400,800 | $17.28 | [Form 4](https://www.sec.gov/Archives/edgar/data/1076378/000203524426000009/0002035244-26-000009-index.htm) |
+| **KBDC** Kayne Anderson BDC, Inc. | ROBO JAMES L | Director | $1.4M | 105,000 | $13.05 | [Form 4](https://www.sec.gov/Archives/edgar/data/1747172/000118325426000007/0001183254-26-000007-index.htm) |
+| **NCT** Intercont (Cayman) Ltd | Zhu Muchun | CEO and Chairman, Director | $650.0K | 1,625,000 | $0.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/2018529/000149315226044229/0001493152-26-044229-index.htm) |
+| **HRGN** Harvard Apparatus Regenerative Technology, Inc. | He Junli | CEO, Director | $394.5K | 368,630 | $1.07 | [Form 4](https://www.sec.gov/Archives/edgar/data/1563665/000143774926031181/0001437749-26-031181-index.htm) |
+| **MX** MAGNACHIP SEMICONDUCTOR Corp | LEE CHAE | Chief Executive Officer, Director | $318.5K | 100,000 | $3.18 | [Form 4](https://www.sec.gov/Archives/edgar/data/1548322/000119312526402849/0001193125-26-402849-index.htm) |
+| **MSC** STUDIO CITY INTERNATIONAL HOLDINGS Ltd | HO LAWRENCE YAU LUNG | Director | $206.3K | 1,043,600 | $0.20 | [Form 4](https://www.sec.gov/Archives/edgar/data/1958709/000119312526401498/0001193125-26-401498-index.htm) |
+| **ANIX** Anixa Biosciences Inc | Titterton Lewis H jr | Director | $131.9K | 49,036 | $2.69 | [Form 4](https://www.sec.gov/Archives/edgar/data/715446/000149315226044250/0001493152-26-044250-index.htm) |
 
-Full list: [`data/insider/2026/09/2026-09-24.md`](data/insider/2026/09/2026-09-24.md)
+## Biggest insider sales · filed 2026-09-25
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **AVGO** Broadcom Inc. | SAMUELI HENRY | Director | $250.0M | 702,190 | $356.04 | [Form 4](https://www.sec.gov/Archives/edgar/data/1730168/000110465926110983/0001104659-26-110983-index.htm) |
+| **CRWD** CrowdStrike Holdings, Inc. | Podbere Burt W. | CHIEF FINANCIAL OFFICER | $125.5M | 480,000 | $261.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/1535527/000177861026000024/0001778610-26-000024-index.htm) |
+| **MEDP** Medpace Holdings, Inc. | Troendle August J. | President & CEO, Director, 10% Owner | $27.4M | 43,916 | $624.01 | [Form 4](https://www.sec.gov/Archives/edgar/data/1668397/000162205826000018/0001622058-26-000018-index.htm) |
+| **FSLY** Fastly, Inc. | Bergman Artur | Chief Technology Officer, Director | $11.4M | 379,602 | $30.16 | [Form 4](https://www.sec.gov/Archives/edgar/data/1769490/000151741326000298/0001517413-26-000298-index.htm) |
+| **DDOG** Datadog, Inc. | Le-Quoc Alexis | Chief Technology Officer, Director | $10.9M | 43,224 | $252.17 | [Form 4](https://www.sec.gov/Archives/edgar/data/1561550/000156155026000320/0001561550-26-000320-index.htm) |
+
+Full list: [`data/insider/2026/09/2026-09-25.md`](data/insider/2026/09/2026-09-25.md)
 
 ## Latest weekly recap
 
