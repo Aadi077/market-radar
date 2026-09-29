@@ -1,37 +1,37 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="640" height="346" viewBox="0 0 640 346" font-family="-apple-system,Segoe UI,Helvetica,Arial,sans-serif" font-size="13">
-<text x="16" y="26" font-size="15" font-weight="600" fill="#8b949e">Sector performance · 2026-09-25</text>
+<text x="16" y="26" font-size="15" font-weight="600" fill="#8b949e">Sector performance · 2026-09-28</text>
 <line x1="370.0" y1="38" x2="370.0" y2="334" stroke="#8b949e" stroke-opacity="0.5"/>
-<text x="180" y="60" text-anchor="end" fill="#8b949e">Industrials</text>
-<rect x="370.0" y="48" width="180.0" height="18" rx="3" fill="#2da44e"/>
-<text x="628" y="60" text-anchor="end" fill="#2da44e" font-weight="600">+0.95%</text>
-<text x="180" y="86" text-anchor="end" fill="#8b949e">Technology</text>
-<rect x="370.0" y="74" width="151.6" height="18" rx="3" fill="#2da44e"/>
-<text x="628" y="86" text-anchor="end" fill="#2da44e" font-weight="600">+0.80%</text>
-<text x="180" y="112" text-anchor="end" fill="#8b949e">Financials</text>
-<rect x="370.0" y="100" width="108.0" height="18" rx="3" fill="#2da44e"/>
-<text x="628" y="112" text-anchor="end" fill="#2da44e" font-weight="600">+0.57%</text>
-<text x="180" y="138" text-anchor="end" fill="#8b949e">Health Care</text>
-<rect x="370.0" y="126" width="92.8" height="18" rx="3" fill="#2da44e"/>
-<text x="628" y="138" text-anchor="end" fill="#2da44e" font-weight="600">+0.49%</text>
-<text x="180" y="164" text-anchor="end" fill="#8b949e">Consumer Staples</text>
-<rect x="370.0" y="152" width="83.4" height="18" rx="3" fill="#2da44e"/>
-<text x="628" y="164" text-anchor="end" fill="#2da44e" font-weight="600">+0.44%</text>
+<text x="180" y="60" text-anchor="end" fill="#8b949e">Health Care</text>
+<rect x="370.0" y="48" width="37.6" height="18" rx="3" fill="#2da44e"/>
+<text x="628" y="60" text-anchor="end" fill="#2da44e" font-weight="600">+0.33%</text>
+<text x="180" y="86" text-anchor="end" fill="#8b949e">Consumer Staples</text>
+<rect x="370.0" y="74" width="30.8" height="18" rx="3" fill="#2da44e"/>
+<text x="628" y="86" text-anchor="end" fill="#2da44e" font-weight="600">+0.27%</text>
+<text x="180" y="112" text-anchor="end" fill="#8b949e">Energy</text>
+<rect x="370.0" y="100" width="11.4" height="18" rx="3" fill="#2da44e"/>
+<text x="628" y="112" text-anchor="end" fill="#2da44e" font-weight="600">+0.10%</text>
+<text x="180" y="138" text-anchor="end" fill="#8b949e">Real Estate</text>
+<rect x="311.9" y="126" width="58.1" height="18" rx="3" fill="#cf222e"/>
+<text x="628" y="138" text-anchor="end" fill="#cf222e" font-weight="600">-0.51%</text>
+<text x="180" y="164" text-anchor="end" fill="#8b949e">Materials</text>
+<rect x="294.8" y="152" width="75.2" height="18" rx="3" fill="#cf222e"/>
+<text x="628" y="164" text-anchor="end" fill="#cf222e" font-weight="600">-0.66%</text>
 <text x="180" y="190" text-anchor="end" fill="#8b949e">Utilities</text>
-<rect x="370.0" y="178" width="72.0" height="18" rx="3" fill="#2da44e"/>
-<text x="628" y="190" text-anchor="end" fill="#2da44e" font-weight="600">+0.38%</text>
-<text x="180" y="216" text-anchor="end" fill="#8b949e">Materials</text>
-<rect x="370.0" y="204" width="45.5" height="18" rx="3" fill="#2da44e"/>
-<text x="628" y="216" text-anchor="end" fill="#2da44e" font-weight="600">+0.24%</text>
-<text x="180" y="242" text-anchor="end" fill="#8b949e">Consumer Discretionary</text>
-<rect x="370.0" y="230" width="41.7" height="18" rx="3" fill="#2da44e"/>
-<text x="628" y="242" text-anchor="end" fill="#2da44e" font-weight="600">+0.22%</text>
-<text x="180" y="268" text-anchor="end" fill="#8b949e">Real Estate</text>
-<rect x="328.3" y="256" width="41.7" height="18" rx="3" fill="#cf222e"/>
-<text x="628" y="268" text-anchor="end" fill="#cf222e" font-weight="600">-0.22%</text>
-<text x="180" y="294" text-anchor="end" fill="#8b949e">Energy</text>
-<rect x="201.4" y="282" width="168.6" height="18" rx="3" fill="#cf222e"/>
-<text x="628" y="294" text-anchor="end" fill="#cf222e" font-weight="600">-0.89%</text>
+<rect x="294.8" y="178" width="75.2" height="18" rx="3" fill="#cf222e"/>
+<text x="628" y="190" text-anchor="end" fill="#cf222e" font-weight="600">-0.66%</text>
+<text x="180" y="216" text-anchor="end" fill="#8b949e">Technology</text>
+<rect x="268.6" y="204" width="101.4" height="18" rx="3" fill="#cf222e"/>
+<text x="628" y="216" text-anchor="end" fill="#cf222e" font-weight="600">-0.89%</text>
+<text x="180" y="242" text-anchor="end" fill="#8b949e">Industrials</text>
+<rect x="259.5" y="230" width="110.5" height="18" rx="3" fill="#cf222e"/>
+<text x="628" y="242" text-anchor="end" fill="#cf222e" font-weight="600">-0.97%</text>
+<text x="180" y="268" text-anchor="end" fill="#8b949e">Financials</text>
+<rect x="234.4" y="256" width="135.6" height="18" rx="3" fill="#cf222e"/>
+<text x="628" y="268" text-anchor="end" fill="#cf222e" font-weight="600">-1.19%</text>
+<text x="180" y="294" text-anchor="end" fill="#8b949e">Consumer Discretionary</text>
+<rect x="209.4" y="282" width="160.6" height="18" rx="3" fill="#cf222e"/>
+<text x="628" y="294" text-anchor="end" fill="#cf222e" font-weight="600">-1.41%</text>
 <text x="180" y="320" text-anchor="end" fill="#8b949e">Communication Services</text>
-<rect x="199.5" y="308" width="170.5" height="18" rx="3" fill="#cf222e"/>
-<text x="628" y="320" text-anchor="end" fill="#cf222e" font-weight="600">-0.90%</text>
+<rect x="190.0" y="308" width="180.0" height="18" rx="3" fill="#cf222e"/>
+<text x="628" y="320" text-anchor="end" fill="#cf222e" font-weight="600">-1.58%</text>
 </svg>
