@@ -2,21 +2,21 @@
 
 A daily, automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, with a weekly recap every Sunday. Collected by GitHub Actions.
 
-**Last updated:** 2026-09-27
+**Last updated:** 2026-09-28
 
-## Market close · 2026-09-25
+## Market close · 2026-09-28
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 771.35 | +0.54% |
-| Nasdaq 100 (QQQ) | 744.50 | +0.46% |
-| Dow 30 (DIA) | 517.49 | +0.94% |
-| Russell 2000 (IWM) | 281.97 | +0.11% |
+| S&P 500 (SPY) | 765.61 | -0.74% |
+| Nasdaq 100 (QQQ) | 736.53 | -1.07% |
+| Dow 30 (DIA) | 514.02 | -0.67% |
+| Russell 2000 (IWM) | 280.02 | -0.69% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **MSFT** +3.66% · **COST** +2.93% · **GE** +2.29% · **AAPL** +1.53% · **JPM** +1.33%  
-**Top large-cap decliners:** **INTC** -3.45% · **META** -3.33% · **CRM** -1.76% · **ORCL** -1.75% · **TSLA** -1.54%
+**Top large-cap gainers:** **PG** +1.91% · **NVDA** +1.68% · **XOM** +1.20% · **CVX** +0.94% · **ABBV** +0.73%  
+**Top large-cap decliners:** **INTC** -5.67% · **META** -4.79% · **TSLA** -3.94% · **AMD** -3.61% · **ORCL** -3.28%
 
 ## Biggest insider buys · filed 2026-09-25
 
