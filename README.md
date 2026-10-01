@@ -2,48 +2,48 @@
 
 A daily, automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, with a weekly recap every Sunday. Collected by GitHub Actions.
 
-**Last updated:** 2026-09-29
+**Last updated:** 2026-09-30
 
-## Market close · 2026-09-28
+## Market close · 2026-09-29
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 765.61 | -0.74% |
-| Nasdaq 100 (QQQ) | 736.53 | -1.07% |
-| Dow 30 (DIA) | 514.02 | -0.67% |
-| Russell 2000 (IWM) | 280.02 | -0.69% |
+| S&P 500 (SPY) | 764.20 | -0.18% |
+| Nasdaq 100 (QQQ) | 737.93 | +0.19% |
+| Dow 30 (DIA) | 512.88 | -0.22% |
+| Russell 2000 (IWM) | 279.01 | -0.36% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **PG** +1.91% · **NVDA** +1.68% · **XOM** +1.20% · **CVX** +0.94% · **ABBV** +0.73%  
-**Top large-cap decliners:** **INTC** -5.67% · **META** -4.79% · **TSLA** -3.94% · **AMD** -3.61% · **ORCL** -3.28%
+**Top large-cap gainers:** **ORCL** +3.91% · **META** +3.24% · **AVGO** +1.58% · **NFLX** +1.55% · **ADBE** +0.94%  
+**Top large-cap decliners:** **AAPL** -2.66% · **WMT** -1.78% · **JNJ** -1.61% · **TSLA** -1.29% · **ABBV** -1.12%
 
-## Biggest insider buys · filed 2026-09-28
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **GPI** GROUP 1 AUTOMOTIVE INC | Conifer Management, L.L.C. | 10% Owner | $31.5M | 126,288 | $249.62 | [Form 4](https://www.sec.gov/Archives/edgar/data/1773994/000090514826004278/0000905148-26-004278-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $8.8M | 258,878 | $33.85 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526405404/0001193125-26-405404-index.htm) |
-| **LLYVK** Liberty Live Holdings, Inc. | MALONE JOHN C | 10% Owner | $2.9M | 28,333 | $102.53 | [Form 4](https://www.sec.gov/Archives/edgar/data/2078416/000122520826007970/0001225208-26-007970-index.htm) |
-| **QVCG** QVC Group, Inc. | GOLDENTREE ASSET MANAGEMENT LP, GoldenTree Asset Management LLC, Tananbaum Steven A. | 10% Owner | $1.1M | 80,000 | $14.35 | [Form 4](https://www.sec.gov/Archives/edgar/data/1278951/000149315226044626/0001493152-26-044626-index.htm) |
-| **INBX** Inhibrx Biosciences, Inc. | Lappe Mark | Chief Executive Officer, Director | $998.8K | 10,000 | $99.88 | [Form 4](https://www.sec.gov/Archives/edgar/data/2007919/000136607426000004/0001366074-26-000004-index.htm) |
-| **HDSN** HUDSON TECHNOLOGIES INC /NY | Hartree Partners, LP | 10% Owner | $604.4K | 118,549 | $5.10 | [Form 4](https://www.sec.gov/Archives/edgar/data/925528/000092189526002658/0000921895-26-002658-index.htm) |
-| **LILA** Liberty Latin America Ltd. | MALONE JOHN C | 10% Owner | $458.7K | 22,442 | $20.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/1712184/000093779726000032/0000937797-26-000032-index.htm) |
-| **INR** INFINITY NATURAL RESOURCES, INC. | Baetz Cary D | EVP and CFO | $300.0K | 22,316 | $13.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/1331940/000202911826000113/0002029118-26-000113-index.htm) |
-| **AOMR** Angel Oak Mortgage REIT, Inc. | Fierman Michael | Director, 10% Owner | $290.5K | 38,726 | $7.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/1766478/000176647826000056/0001766478-26-000056-index.htm) |
-| **ACOG** Alpha Cognition Inc. | Opaleye Management Inc. | 10% Owner | $270.8K | 31,763 | $8.53 | [Form 4](https://www.sec.gov/Archives/edgar/data/1655923/000149315226044690/0001493152-26-044690-index.htm) |
-
-## Biggest insider sales · filed 2026-09-28
+## Biggest insider buys · filed 2026-09-29
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **GTLB** Gitlab Inc. | Sijbrandij Sytse | Director | $101.1M | 2,116,200 | $47.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/1653482/000165348226000170/0001653482-26-000170-index.htm) |
-| **INNV** InnovAge Holding Corp. | IGNITE AGGREGATOR LP, APAX X (GUERNSEY) USD AIV LP, IGNITE GP INC., Apax X EUR L.P., Apax X USD L.P., Apax X GP Co. Ltd | 10% Owner | $92.5M | 10,000,000 | $9.25 | [Form 4](https://www.sec.gov/Archives/edgar/data/1848852/000119312526405347/0001193125-26-405347-index.htm) |
-| **INNV** InnovAge Holding Corp. | TCO GROUP HOLDINGS, L.P. | 10% Owner | $92.5M | 10,000,000 | $9.25 | [Form 4](https://www.sec.gov/Archives/edgar/data/1834376/000119312526405348/0001193125-26-405348-index.htm) |
-| **CBRS** Cerebras Systems Inc. | Lie Sean | Chief Technology Officer | $25.1M | 120,000 | $208.97 | [Form 4](https://www.sec.gov/Archives/edgar/data/2021728/000162828026063713/0001628280-26-063713-index.htm) |
-| **META** Meta Platforms, Inc. | Zuckerberg Mark | COB and CEO, Director, 10% Owner | $21.4M | 27,474 | $777.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/1326801/000095010326014647/0000950103-26-014647-index.htm) |
+| **ADRX** ADARx Pharmaceuticals, Inc. | George Simeon | Director, 10% Owner | $27.2M | 1,600,000 | $17.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1802369/000119312526408061/0001193125-26-408061-index.htm) |
+| **ADRX** ADARx Pharmaceuticals, Inc. | SR ONE CAPITAL MANAGEMENT, LLC | 10% Owner | $27.2M | 1,600,000 | $17.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1802369/000119312526408064/0001193125-26-408064-index.htm) |
+| **COUR** Coursera, Inc. | Pale Fire Capital SE, Pale Fire Capital SICAV a.s., Pale Fire Capital investicni spolecnost a.s., Senkypl Dusan, Barta Jan | 10% Owner | $11.4M | 2,332,742 | $4.87 | [Form 4](https://www.sec.gov/Archives/edgar/data/1892479/000092189526002677/0000921895-26-002677-index.htm) |
+| **GME** GameStop Corp. | Cohen Ryan | President, CEO and Chairman, Director | $10.6M | 450,000 | $23.48 | [Form 4](https://www.sec.gov/Archives/edgar/data/1767470/000092189526002670/0000921895-26-002670-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $6.2M | 178,840 | $34.52 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526407701/0001193125-26-407701-index.htm) |
+| **PAM** Pampa Energy Inc. | Mariani Gustavo | Vicepresident | $2.0M | 25,000 | $78.26 | [Form 4](https://www.sec.gov/Archives/edgar/data/2028917/000202891726000003/0002028917-26-000003-index.htm) |
+| **PRTA** PROTHENA CORP PUBLIC LTD CO | SCULLY WILLIAM P | 10% Owner | $889.9K | 103,500 | $8.60 | [Form 4](https://www.sec.gov/Archives/edgar/data/1559053/000104546326000017/0001045463-26-000017-index.htm) |
+| **HGBL** Heritage Global Inc. | Burnham William L | Director | $399.0K | 300,000 | $1.33 | [Form 4](https://www.sec.gov/Archives/edgar/data/1248150/000119312526407271/0001193125-26-407271-index.htm) |
+| **CRAFX** Cascade Real Assets Fund | Williams Paul Jay | Director | $300.0K | 30,000 | $10.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2114459/000121390026104418/0001213900-26-104418-index.htm) |
+| **QTEX** QTREX Quantum Ltd. | Ben-Noon Dagi Shahar | Chief Executive Officer, Director | $119.5K | 168,894 | $0.71 | [Form 4](https://www.sec.gov/Archives/edgar/data/1911928/000118518526004397/0001185185-26-004397-index.htm) |
 
-Full list: [`data/insider/2026/09/2026-09-28.md`](data/insider/2026/09/2026-09-28.md)
+## Biggest insider sales · filed 2026-09-29
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **BEKE** KE Holdings Inc. | Peng Yongdong | Chief Executive Officer, Director | $84.6M | 16,033,983 | $5.27 | [Form 4](https://www.sec.gov/Archives/edgar/data/1809587/000119312526405896/0001193125-26-405896-index.htm) |
+| **CRDO** Credo Technology Group Holding Ltd | Lam Yat Tung | Chief Operating Officer, Director | $20.6M | 100,000 | $206.29 | [Form 4](https://www.sec.gov/Archives/edgar/data/1807794/000162828026063815/0001628280-26-063815-index.htm) |
+| **BRK.A** BERKSHIRE HATHAWAY INC | Jain Ajit | Vice Chairman, Director | $20.0M | 39,700 | $503.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/1067983/000172845126000004/0001728451-26-000004-index.htm) |
+| **ANET** Arista Networks, Inc. | Ullal Jayshree | CEO and Chairperson, Director | $13.2M | 62,622 | $211.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/1596532/000159653226000234/0001596532-26-000234-index.htm) |
+| **P** Everpure, Inc. | Colgrove John | Chief Visionary Officer, Director | $12.5M | 100,000 | $124.63 | [Form 4](https://www.sec.gov/Archives/edgar/data/1651902/000147443226000096/0001474432-26-000096-index.htm) |
+
+Full list: [`data/insider/2026/09/2026-09-29.md`](data/insider/2026/09/2026-09-29.md)
 
 ## Latest weekly recap
 
