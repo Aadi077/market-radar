@@ -2,7 +2,7 @@ name: Daily update
 
 on:
   schedule:
-    - cron: "17 22 * * *"   # every day at 22:17 UTC, after the US market close
+    - cron: "17 22 * * 1-5"   # weekdays at 22:17 UTC, after the US market close
   workflow_dispatch:         # run manually from the Actions tab
 
 permissions:

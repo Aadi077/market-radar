@@ -356,9 +356,9 @@ def load_json(path):
 
 
 def update_weekly(today):
-    if today.weekday() != 6:
+    if today.weekday() != 0:  # Mondays, recapping the week that just ended
         return None
-    week_days = [today - timedelta(days=6 - i) for i in range(5)]  # Mon..Fri
+    week_days = [today - timedelta(days=7 - i) for i in range(5)]  # Mon..Fri
     year, week, _ = week_days[-1].isocalendar()
     path = DATA / "weekly" / f"{year}-W{week:02d}.md"
     if path.exists():
@@ -418,8 +418,8 @@ def latest(pattern):
 def write_readme(today):
     parts = [
         "# 📊 Market Radar\n",
-        "A daily, automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) "
-        "and **US market performance**, with a weekly recap every Sunday. Collected by GitHub Actions.\n",
+        "An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) "
+        "and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.\n",
         f"**Last updated:** {today}\n",
     ]
 
@@ -452,12 +452,13 @@ def write_readme(today):
 
     parts.append(
         "## How it works\n\n"
-        "- [`scripts/update.py`](scripts/update.py) (Python stdlib only) runs daily via "
+        "- [`scripts/update.py`](scripts/update.py) (Python stdlib only) runs every weekday via "
         "[`.github/workflows/daily.yml`](.github/workflows/daily.yml).\n"
         "- **Insider trades:** reads SEC EDGAR's daily index, parses every Form 4, and keeps open-market "
         "purchases (code `P`) and sales (code `S`).\n"
         "- **Market:** closing prices for major index ETFs, the 11 S&P sector ETFs, and 40 large-cap stocks.\n"
-        "- **Weekly recap:** every Sunday, including cluster buys (multiple insiders buying the same company).\n"
+        "- **Weekly recap:** every Monday, covering the week just ended, including cluster buys "
+        "(multiple insiders buying the same company).\n"
         "- Raw JSON lives in [`data/`](data) for anyone who wants to analyze it.\n\n"
         f"{DISCLAIMER}\n"
     )
