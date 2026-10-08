@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-06
+**Last updated:** 2026-10-07
 
-## Market close · 2026-10-06
+## Market close · 2026-10-07
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 779.09 | +0.55% |
-| Nasdaq 100 (QQQ) | 759.66 | +0.46% |
-| Dow 30 (DIA) | 514.56 | +0.48% |
-| Russell 2000 (IWM) | 281.34 | -0.72% |
+| S&P 500 (SPY) | 777.22 | -0.24% |
+| Nasdaq 100 (QQQ) | 757.73 | -0.25% |
+| Dow 30 (DIA) | 511.02 | -0.69% |
+| Russell 2000 (IWM) | 277.70 | -1.29% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **CSCO** +4.54% · **AVGO** +3.67% · **AMD** +2.80% · **WMT** +2.03% · **HD** +1.97%  
-**Top large-cap decliners:** **INTC** -3.18% · **TMO** -2.98% · **CRM** -2.09% · **UNH** -0.60% · **META** -0.41%
+**Top large-cap gainers:** **LLY** +2.70% · **ABBV** +1.75% · **NFLX** +1.47% · **JNJ** +1.44% · **AMZN** +1.42%  
+**Top large-cap decliners:** **META** -2.38% · **ADBE** -2.25% · **GE** -1.86% · **PEP** -1.58% · **WFC** -1.53%
 
-## Biggest insider buys · filed 2026-10-05
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **LEN** LENNAR CORP /NEW/ | BERKSHIRE HATHAWAY INC, BUFFETT WARREN E | 10% Owner | $192.6M | 2,418,637 | $79.65 | [Form 4](https://www.sec.gov/Archives/edgar/data/1067983/000119312526414744/0001193125-26-414744-index.htm) |
-| **BBD** BANK BRADESCO | Alvarez Denise Aguiar | Director | $33.6M | 1,950,000 | $17.22 | [Form 4](https://www.sec.gov/Archives/edgar/data/2126543/000129281426004850/0001292814-26-004850-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $9.0M | 272,208 | $33.07 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526414288/0001193125-26-414288-index.htm) |
-| **BBD** BANK BRADESCO | Alvarez Denise Aguiar | Director | $5.8M | 345,000 | $16.69 | [Form 4](https://www.sec.gov/Archives/edgar/data/2126543/000129281426004852/0001292814-26-004852-index.htm) |
-| **ACCV** Accelevation Holdings Corp. | Rubiera Michael | Chief Executive Officer, Director | $3.7M | 203,200 | $18.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2141406/000162828026065167/0001628280-26-065167-index.htm) |
-| **BPRE** Bluerock Private Real Estate Fund | KAMFAR RAMIN | Director | $3.4M | 269,164 | $12.66 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551047/000139834426017906/0001398344-26-017906-index.htm) |
-| **OM** Outset Medical, Inc. | Leonard Braden Michael | 10% Owner | $870.3K | 244,909 | $3.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/1373603/000137360426000050/0001373604-26-000050-index.htm) |
-| CAZ GP Stakes Growth Fund | Zook Christopher |  | $512.0K | 25,599 | $20.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2128311/000121390026106873/0001213900-26-106873-index.htm) |
-| 83 Investment Group Income Fund | SELTER ERIC JAY |  | $500.0K | 48,924 | $10.22 | [Form 4](https://www.sec.gov/Archives/edgar/data/2036029/000158064226006725/0001580642-26-006725-index.htm) |
-| **MXF** MEXICO FUND INC | Saba Capital Management, L.P. | 10% Owner | $389.5K | 19,494 | $19.98 | [Form 4](https://www.sec.gov/Archives/edgar/data/65433/000151028126000323/0001510281-26-000323-index.htm) |
-
-## Biggest insider sales · filed 2026-10-05
+## Biggest insider buys · filed 2026-10-06
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **ACCV** Accelevation Holdings Corp. | OGP VIII, LLC, Accelevation Pubco Holdings LP, Accelevation Investment Holdings LLC, MORRIS ROBERT S | 10% Owner, Director | $360.0M | 20,000,000 | $18.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2141406/000162828026065149/0001628280-26-065149-index.htm) |
-| **TH** Target Hospitality Corp. | TDR Capital II Investments LP, Arrow Holdings S.a.r.l., MFA Holding S.a.r.l., MFA Limited Partnership SLP, MFA Global S.a.r.l., TDR Capital LLP, Sapphire Holding S.a r.l., Lindsay Gary, DALE MANJIT, Mitchell Thomas Andrew | 10% Owner | $202.4M | 11,000,000 | $18.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/1767017/000095014226002685/0000950142-26-002685-index.htm) |
-| **AAPL** Apple Inc. | COOK TIMOTHY D | Executive Chair, Director | $63.8M | 191,753 | $332.96 | [Form 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126038674/0001140361-26-038674-index.htm) |
-| **WDAY** Workday, Inc. | DUFFIELD DAVID A | 10% Owner | $18.4M | 98,446 | $187.07 | [Form 4](https://www.sec.gov/Archives/edgar/data/938071/000093807126000063/0000938071-26-000063-index.htm) |
-| **AAPL** Apple Inc. | O'BRIEN DEIRDRE | Senior Vice President | $15.5M | 46,389 | $333.42 | [Form 4](https://www.sec.gov/Archives/edgar/data/320193/000114036126038672/0001140361-26-038672-index.htm) |
+| Keenova Therapeutics plc | GOLDENTREE ASSET MANAGEMENT LP, GoldenTree Asset Management LLC, Tananbaum Steven A. | 10% Owner | $42.1M | 463,000 | $91.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1278951/000149315226045958/0001493152-26-045958-index.htm) |
+| **PSUS** Pershing Square USA, Ltd. | ISRAEL RYAN | Chief Investment Officer | $9.6M | 256,613 | $37.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1597463/000119312526415861/0001193125-26-415861-index.htm) |
+| **AVR** Anteris Technologies Global Corp. | L1 Capital Pty Ltd | 10% Owner | $6.7M | 884,809 | $7.58 | [Form 4](https://www.sec.gov/Archives/edgar/data/2011514/000181764626000029/0001817646-26-000029-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $6.4M | 187,155 | $34.27 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526415632/0001193125-26-415632-index.htm) |
+| **BORR** Borr Drilling Ltd | Troim Tor Olav | Director | $6.2M | 1,500,000 | $4.13 | [Form 4](https://www.sec.gov/Archives/edgar/data/1715497/000162828026065174/0001628280-26-065174-index.htm) |
+| **AXIA3** AXIA Energia S.A. | Batista de Lima Filho Pedro | Director | $5.3M | 489,900 | $10.81 | [Form 4](https://www.sec.gov/Archives/edgar/data/1439124/000121390026107316/0001213900-26-107316-index.htm) |
+| **QVCG** QVC Group, Inc. | GOLDENTREE ASSET MANAGEMENT LP, GoldenTree Asset Management LLC, Tananbaum Steven A. | 10% Owner | $3.5M | 250,000 | $13.85 | [Form 4](https://www.sec.gov/Archives/edgar/data/1278951/000149315226045954/0001493152-26-045954-index.htm) |
+| **LWAY** Lifeway Foods, Inc. | Divisadero Street Capital Management, LP, Divisadero Street Partners GP, LLC, Zolezzi William, Divisadero Street Partners, L.P., Divisadero Street Capital, LLC | 10% Owner | $2.2M | 103,684 | $20.92 | [Form 4](https://www.sec.gov/Archives/edgar/data/1901865/000091957426006685/0000919574-26-006685-index.htm) |
+| **SAH** SONIC AUTOMOTIVE INC | Rusnak Paul P. | 10% Owner | $1.7M | 27,756 | $59.76 | [Form 4](https://www.sec.gov/Archives/edgar/data/1460471/000146047126000006/0001460471-26-000006-index.htm) |
+| **SAH** SONIC AUTOMOTIVE INC | Rusnak Paul P. | 10% Owner | $1.3M | 21,645 | $59.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/1460471/000146047126000005/0001460471-26-000005-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-05.md`](data/insider/2026/10/2026-10-05.md)
+## Biggest insider sales · filed 2026-10-06
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **MDLN** Medline Inc. | GIC Private Ltd, GIC Special Investments Pte Ltd, Hux Investment Pte. Ltd. | 10% Owner | $721.6M | 20,678,630 | $34.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/936828/000119312526416053/0001193125-26-416053-index.htm) |
+| **ESTC** Elastic N.V. | Schuurman Steven | Director | $135.2M | 1,500,000 | $90.13 | [Form 4](https://www.sec.gov/Archives/edgar/data/1707753/000112329226001368/0001123292-26-001368-index.htm) |
+| **NBIS** Nebius Group N.V. | Nave Ophir | COO, Director | $117.8M | 500,000 | $235.53 | [Form 4](https://www.sec.gov/Archives/edgar/data/2060551/000151384526000126/0001513845-26-000126-index.htm) |
+| **RITE** MINERALRITE Corp | Hendricks Lloyd Bernard III | 10% Owner | $106.7M | 3,919,388 | $27.23 | [Form 4](https://www.sec.gov/Archives/edgar/data/2069861/000206986126000007/0002069861-26-000007-index.htm) |
+| **S** SentinelOne, Inc. | Weingarten Tomer | President, CEO, Director | $13.3M | 527,368 | $25.26 | [Form 4](https://www.sec.gov/Archives/edgar/data/1583708/000186622226000043/0001866222-26-000043-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-06.md`](data/insider/2026/10/2026-10-06.md)
 
 ## Latest weekly recap
 
