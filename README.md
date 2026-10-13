@@ -2,52 +2,52 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-09
+**Last updated:** 2026-10-12
 
-## Market close · 2026-10-09
+## Market close · 2026-10-12
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 778.57 | +0.60% |
-| Nasdaq 100 (QQQ) | 751.27 | +0.49% |
-| Dow 30 (DIA) | 516.11 | +0.87% |
-| Russell 2000 (IWM) | 278.94 | +0.49% |
+| S&P 500 (SPY) | 778.10 | -0.06% |
+| Nasdaq 100 (QQQ) | 746.04 | -0.70% |
+| Dow 30 (DIA) | 517.91 | +0.35% |
+| Russell 2000 (IWM) | 277.90 | -0.37% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **PLTR** +5.17% · **ORCL** +4.21% · **AMZN** +3.29% · **CSCO** +3.05% · **V** +2.76%  
-**Top large-cap decliners:** **INTC** -2.22% · **AMD** -2.03% · **PEP** -1.85% · **NFLX** -1.77% · **HD** -1.60%
+**Top large-cap gainers:** **META** +3.38% · **CRM** +2.09% · **KO** +1.98% · **XOM** +1.90% · **ABBV** +1.68%  
+**Top large-cap decliners:** **INTC** -3.20% · **ORCL** -2.84% · **CSCO** -2.58% · **AMD** -2.28% · **AVGO** -1.88%
 
-## Biggest insider buys · filed 2026-10-08
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **COE** 51Talk Online Education Group | Huang Jack Jiajia | Chief Executive Officer, Director, 10% Owner | $32.3M | 2,812,140 | $11.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/1659494/000202976026000010/0002029760-26-000010-index.htm) |
-| **BORR** Borr Drilling Ltd | Troim Tor Olav | Director | $5.4M | 1,250,000 | $4.31 | [Form 4](https://www.sec.gov/Archives/edgar/data/1715497/000162828026065416/0001628280-26-065416-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $4.1M | 116,345 | $35.23 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526417973/0001193125-26-417973-index.htm) |
-| **AVR** Anteris Technologies Global Corp. | L1 Capital Pty Ltd | 10% Owner | $2.0M | 272,695 | $7.18 | [Form 4](https://www.sec.gov/Archives/edgar/data/2011514/000181764626000032/0001817646-26-000032-index.htm) |
-| **FUL** FULLER H B CO | BAILLY R JEFFREY | Director | $500.0K | 10,000 | $50.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1033284/000122520826008325/0001225208-26-008325-index.htm) |
-| **IMMR** IMMERSION CORP | Singer Eric | President and CEO, Director | $292.8K | 41,000 | $7.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/1058811/000119312526418131/0001193125-26-418131-index.htm) |
-| **PDI** PIMCO Dynamic Income Fund | FLATTUM DAVID C | Director | $249.5K | 17,448 | $14.30 | [Form 4](https://www.sec.gov/Archives/edgar/data/1201917/000120191726000004/0001201917-26-000004-index.htm) |
-| **PHK** PIMCO HIGH INCOME FUND | FLATTUM DAVID C | Director | $249.2K | 60,204 | $4.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/1201917/000120191726000005/0001201917-26-000005-index.htm) |
-| **GF** NEW GERMANY FUND INC | Saba Capital Management, L.P. | 10% Owner | $57.6K | 5,497 | $10.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/858706/000151028126000332/0001510281-26-000332-index.htm) |
-| **CINT** CI&T Inc | Martins Fernando Matt Borges | Director, 10% Owner | $49.3K | 15,745 | $3.13 | [Form 4](https://www.sec.gov/Archives/edgar/data/1868995/000129281426004872/0001292814-26-004872-index.htm) |
-
-## Biggest insider sales · filed 2026-10-08
+## Biggest insider buys · filed 2026-10-09
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **ANET** Arista Networks, Inc. | Ullal Jayshree | CEO and Chairperson, Director | $97.6M | 460,374 | $212.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/1596532/000159653226000240/0001596532-26-000240-index.htm) |
-| **CBL** CBL & ASSOCIATES PROPERTIES INC | CANYON CAPITAL ADVISORS LLC, Julis Mitchell R, Friedman Joshua S |  | $68.2M | 1,307,500 | $52.19 | [Form 4](https://www.sec.gov/Archives/edgar/data/1074034/000119312526418127/0001193125-26-418127-index.htm) |
-| **DELL** Dell Technologies Inc. | Silver Lake Partners IV, L.P., Silver Lake Technology Associates IV, L.P., SLTA IV (GP), L.L.C., Silver Lake Group, L.L.C., Durban Egon | Director, 10% Owner | $31.2M | 54,236 | $575.24 | [Form 4](https://www.sec.gov/Archives/edgar/data/1571996/000119312526417976/0001193125-26-417976-index.htm) |
-| **NTNX** Nutanix, Inc. | RAMASWAMI RAJIV | Chief Executive Officer, Director | $29.5M | 400,000 | $73.65 | [Form 4](https://www.sec.gov/Archives/edgar/data/1618732/000119312526418024/0001193125-26-418024-index.htm) |
-| **DELL** Dell Technologies Inc. | SL SPV-2, L.P., SLTA SPV-2, L.P., SLTA SPV-2 (GP), L.L.C., Silver Lake Group, L.L.C., Durban Egon | Director, 10% Owner | $26.7M | 46,323 | $575.43 | [Form 4](https://www.sec.gov/Archives/edgar/data/1571996/000119312526417972/0001193125-26-417972-index.htm) |
+| **GGR** Gogoro Inc. | Yin Chung-Yao | Director | $35.1M | 14,158,991 | $2.48 | [Form 4](https://www.sec.gov/Archives/edgar/data/1886190/000119312526418446/0001193125-26-418446-index.htm) |
+| **BBD** BANK BRADESCO | Alvarez Rubens Aguiar | Director | $32.0M | 1,845,000 | $17.37 | [Form 4](https://www.sec.gov/Archives/edgar/data/2126531/000129281426004880/0001292814-26-004880-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $20.9M | 606,912 | $34.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526419124/0001193125-26-419124-index.htm) |
+| **BPRE** Bluerock Private Real Estate Fund | KAMFAR RAMIN | Director | $8.5M | 651,063 | $13.06 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551047/000139834426018110/0001398344-26-018110-index.htm) |
+| **PRTA** PROTHENA CORP PUBLIC LTD CO | SCULLY WILLIAM P | 10% Owner | $1.8M | 215,000 | $8.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1559053/000104546326000020/0001045463-26-000020-index.htm) |
+| **N.A.** Calamos Aksia Private Equity & Alternatives Fund | Aksia LLC |  | $909.7K | 82,053 | $11.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/1939932/000193993226000012/0001939932-26-000012-index.htm) |
+| **SAH** SONIC AUTOMOTIVE INC | Rusnak Paul P. | 10% Owner | $819.0K | 13,701 | $59.78 | [Form 4](https://www.sec.gov/Archives/edgar/data/1460471/000146047126000008/0001460471-26-000008-index.htm) |
+| Calamos Aksia Hedged Strategies Fund | Aksia LLC |  | $792.8K | 76,828 | $10.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/1939932/000193993226000013/0001939932-26-000013-index.htm) |
+| Calamos Aksia Alternative Credit & Income Fund | Aksia LLC |  | $561.5K | 52,720 | $10.65 | [Form 4](https://www.sec.gov/Archives/edgar/data/1939932/000193993226000014/0001939932-26-000014-index.htm) |
+| **VDTA** Vertical Data Inc. | Leverton Jaime | Director | $255.0K | 85,000 | $3.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1998054/000199805426000009/0001998054-26-000009-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-08.md`](data/insider/2026/10/2026-10-08.md)
+## Biggest insider sales · filed 2026-10-09
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **IHT** INNSUITES HOSPITALITY TRUST | WIRTH JAMES F | President & CEO, 10% Owner | $2.2B | 43,111 | $50,410.80 | [Form 4](https://www.sec.gov/Archives/edgar/data/82473/000149315226046636/0001493152-26-046636-index.htm) |
+| **ANET** Arista Networks, Inc. | Ullal Jayshree | CEO and Chairperson, Director | $21.1M | 96,992 | $217.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/1596532/000159653226000242/0001596532-26-000242-index.htm) |
+| **DUOL** Duolingo, Inc. | von Ahn Luis | President & CEO, Co-Founder, Director, 10% Owner | $16.7M | 110,046 | $151.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/1562088/000162828026065528/0001628280-26-065528-index.htm) |
+| **DDOG** Datadog, Inc. | Le-Quoc Alexis | Chief Technology Officer, Director | $14.8M | 53,912 | $273.60 | [Form 4](https://www.sec.gov/Archives/edgar/data/1561550/000156155026000324/0001561550-26-000324-index.htm) |
+| **AXIA3** AXIA Energia S.A. | Batista de Lima Filho Pedro | Director | $9.6M | 837,000 | $11.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/1439124/000121390026108268/0001213900-26-108268-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-09.md`](data/insider/2026/10/2026-10-09.md)
 
 ## Latest weekly recap
 
-[2026-W40](data/weekly/2026-W40.md)
+[2026-W41](data/weekly/2026-W41.md)
 
 ## How it works
 
