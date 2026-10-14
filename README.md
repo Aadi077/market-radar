@@ -2,7 +2,7 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-12
+**Last updated:** 2026-10-13
 
 ## Market close · 2026-10-12
 
