@@ -1,0 +1,255 @@
+{
+ "session": "2026-10-14",
+ "quotes": {
+  "SPY": {
+   "close": 769.6,
+   "prev_close": 778.01,
+   "change_pct": -1.08
+  },
+  "QQQ": {
+   "close": 728.95,
+   "prev_close": 743.57,
+   "change_pct": -1.97
+  },
+  "DIA": {
+   "close": 515.63,
+   "prev_close": 516.21,
+   "change_pct": -0.11
+  },
+  "IWM": {
+   "close": 271.37,
+   "prev_close": 276.7,
+   "change_pct": -1.93
+  },
+  "XLK": {
+   "close": 190.43,
+   "prev_close": 196.28,
+   "change_pct": -2.98
+  },
+  "XLY": {
+   "close": 111.5,
+   "prev_close": 112.36,
+   "change_pct": -0.77
+  },
+  "XLF": {
+   "close": 54.52,
+   "prev_close": 54.82,
+   "change_pct": -0.55
+  },
+  "XLV": {
+   "close": 173.96,
+   "prev_close": 169.66,
+   "change_pct": 2.53
+  },
+  "XLI": {
+   "close": 167.04,
+   "prev_close": 168.67,
+   "change_pct": -0.97
+  },
+  "XLE": {
+   "close": 67.63,
+   "prev_close": 67.2,
+   "change_pct": 0.64
+  },
+  "XLP": {
+   "close": 86.06,
+   "prev_close": 84.19,
+   "change_pct": 2.22
+  },
+  "XLB": {
+   "close": 49.67,
+   "prev_close": 49.72,
+   "change_pct": -0.1
+  },
+  "XLU": {
+   "close": 41.72,
+   "prev_close": 41.87,
+   "change_pct": -0.36
+  },
+  "AAPL": {
+   "close": 342.96,
+   "prev_close": 341.27,
+   "change_pct": 0.5
+  },
+  "MSFT": {
+   "close": 533.69,
+   "prev_close": 543.45,
+   "change_pct": -1.8
+  },
+  "NVDA": {
+   "close": 221.3,
+   "prev_close": 228.52,
+   "change_pct": -3.16
+  },
+  "GOOGL": {
+   "close": 347.64,
+   "prev_close": 353.78,
+   "change_pct": -1.74
+  },
+  "AMZN": {
+   "close": 254.08,
+   "prev_close": 258.58,
+   "change_pct": -1.74
+  },
+  "AVGO": {
+   "close": 346.25,
+   "prev_close": 357.31,
+   "change_pct": -3.1
+  },
+  "TSLA": {
+   "close": 367.16,
+   "prev_close": 375.23,
+   "change_pct": -2.15
+  },
+  "BRK-B": {
+   "close": 526.35,
+   "prev_close": 520.59,
+   "change_pct": 1.11
+  },
+  "JPM": {
+   "close": 335.28,
+   "prev_close": 331.43,
+   "change_pct": 1.16
+  },
+  "LLY": {
+   "close": 1208.74,
+   "prev_close": 1166.51,
+   "change_pct": 3.62
+  },
+  "V": {
+   "close": 391.43,
+   "prev_close": 396.06,
+   "change_pct": -1.17
+  },
+  "UNH": {
+   "close": 395.62,
+   "prev_close": 377.76,
+   "change_pct": 4.73
+  },
+  "XOM": {
+   "close": 177.01,
+   "prev_close": 174.08,
+   "change_pct": 1.68
+  },
+  "MA": {
+   "close": 603.24,
+   "prev_close": 604.8,
+   "change_pct": -0.26
+  },
+  "COST": {
+   "close": 982.0,
+   "prev_close": 954.63,
+   "change_pct": 2.87
+  },
+  "HD": {
+   "close": 295.51,
+   "prev_close": 293.92,
+   "change_pct": 0.54
+  },
+  "PG": {
+   "close": 156.53,
+   "prev_close": 153.04,
+   "change_pct": 2.28
+  },
+  "JNJ": {
+   "close": 253.91,
+   "prev_close": 248.61,
+   "change_pct": 2.13
+  },
+  "WMT": {
+   "close": 116.16,
+   "prev_close": 112.28,
+   "change_pct": 3.46
+  },
+  "NFLX": {
+   "close": 70.57,
+   "prev_close": 70.46,
+   "change_pct": 0.16
+  },
+  "ORCL": {
+   "close": 130.55,
+   "prev_close": 143.2,
+   "change_pct": -8.83
+  },
+  "BAC": {
+   "close": 51.39,
+   "prev_close": 53.96,
+   "change_pct": -4.76
+  },
+  "CRM": {
+   "close": 235.95,
+   "prev_close": 238.01,
+   "change_pct": -0.87
+  },
+  "AMD": {
+   "close": 570.82,
+   "prev_close": 605.53,
+   "change_pct": -5.73
+  },
+  "KO": {
+   "close": 91.78,
+   "prev_close": 90.11,
+   "change_pct": 1.85
+  },
+  "CVX": {
+   "close": 222.04,
+   "prev_close": 217.73,
+   "change_pct": 1.98
+  },
+  "MRK": {
+   "close": 147.37,
+   "prev_close": 141.98,
+   "change_pct": 3.8
+  },
+  "PEP": {
+   "close": 129.27,
+   "prev_close": 127.3,
+   "change_pct": 1.55
+  },
+  "ADBE": {
+   "close": 240.68,
+   "prev_close": 236.28,
+   "change_pct": 1.86
+  },
+  "TMO": {
+   "close": 673.2,
+   "prev_close": 663.04,
+   "change_pct": 1.53
+  },
+  "CSCO": {
+   "close": 113.64,
+   "prev_close": 115.07,
+   "change_pct": -1.24
+  },
+  "MCD": {
+   "close": 238.31,
+   "prev_close": 235.81,
+   "change_pct": 1.06
+  },
+  "WFC": {
+   "close": 80.9,
+   "prev_close": 80.74,
+   "change_pct": 0.2
+  },
+  "IBM": {
+   "close": 227.88,
+   "prev_close": 230.78,
+   "change_pct": -1.26
+  },
+  "GE": {
+   "close": 307.02,
+   "prev_close": 307.63,
+   "change_pct": -0.2
+  },
+  "INTC": {
+   "close": 98.12,
+   "prev_close": 102.81,
+   "change_pct": -4.56
+  },
+  "DIS": {
+   "close": 108.99,
+   "prev_close": 108.58,
+   "change_pct": 0.38
+  }
+ }
+}
