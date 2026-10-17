@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-15
+**Last updated:** 2026-10-16
 
-## Market close · 2026-10-14
+## Market close · 2026-10-15
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 769.60 | -1.08% |
-| Nasdaq 100 (QQQ) | 728.95 | -1.97% |
-| Dow 30 (DIA) | 515.63 | -0.11% |
-| Russell 2000 (IWM) | 271.37 | -1.93% |
+| S&P 500 (SPY) | 771.79 | +0.28% |
+| Nasdaq 100 (QQQ) | 728.00 | -0.13% |
+| Dow 30 (DIA) | 521.18 | +1.08% |
+| Russell 2000 (IWM) | 275.08 | +1.37% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **UNH** +4.73% · **MRK** +3.80% · **LLY** +3.62% · **WMT** +3.46% · **COST** +2.87%  
-**Top large-cap decliners:** **ORCL** -8.83% · **AMD** -5.73% · **BAC** -4.76% · **INTC** -4.56% · **NVDA** -3.16%
+**Top large-cap gainers:** **ADBE** +4.57% · **CRM** +4.57% · **HD** +4.31% · **LLY** +3.55% · **TMO** +3.46%  
+**Top large-cap decliners:** **CSCO** -3.34% · **INTC** -2.80% · **NVDA** -1.84% · **AMD** -1.50% · **MRK** -1.48%
 
-## Biggest insider buys · filed 2026-10-14
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **QVCG** QVC Group, Inc. | GOLDENTREE ASSET MANAGEMENT LP, GoldenTree Asset Management LLC, Tananbaum Steven A. | 10% Owner | $16.7M | 1,352,000 | $12.35 | [Form 4](https://www.sec.gov/Archives/edgar/data/1278951/000149315226047051/0001493152-26-047051-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $16.4M | 479,940 | $34.20 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526421727/0001193125-26-421727-index.htm) |
-| **BORR** Borr Drilling Ltd | Troim Tor Olav | Director | $7.4M | 1,500,000 | $4.93 | [Form 4](https://www.sec.gov/Archives/edgar/data/1715497/000162828026065849/0001628280-26-065849-index.htm) |
-| **BPRE** Bluerock Private Real Estate Fund | KAMFAR RAMIN | Director | $5.5M | 427,609 | $12.81 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551047/000139834426018199/0001398344-26-018199-index.htm) |
-| **NUAI** New ERA Energy & Digital, Inc. | MCCARTHY KENT C, KCM Capital Inc, AMC Fund, L.P. | 10% Owner | $1.2M | 250,000 | $4.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/2160027/000122502826000006/0001225028-26-000006-index.htm) |
-| **INBX** Inhibrx Biosciences, Inc. | Lappe Mark | Chief Executive Officer, Director | $849.0K | 10,040 | $84.56 | [Form 4](https://www.sec.gov/Archives/edgar/data/2007919/000136607426000006/0001366074-26-000006-index.htm) |
-| **TDIC** Dreamland Ltd | Seto Wai Yue | Chief Executive Officer, Director, 10% Owner | $600.0K | 300,000 | $2.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2041338/000149315226046945/0001493152-26-046945-index.htm) |
-| **ECF** ELLSWORTH GROWTH & INCOME FUND LTD | Saba Capital Management, L.P. | 10% Owner | $175.6K | 14,600 | $12.03 | [Form 4](https://www.sec.gov/Archives/edgar/data/793040/000151028126000345/0001510281-26-000345-index.htm) |
-| **ZONE** Zone Frontier Inc. | Hassen Tyler Lewis | Chief Executive Officer, Director | $85.2K | 750,000 | $0.11 | [Form 4](https://www.sec.gov/Archives/edgar/data/2126164/000121390026109523/0001213900-26-109523-index.htm) |
-| **DOLE** Dole plc | Pale Fire Capital SE, Pale Fire Capital SICAV a.s., Pale Fire Capital investicni spolecnost a.s., Senkypl Dusan, Barta Jan | 10% Owner | $75.7K | 5,700 | $13.28 | [Form 4](https://www.sec.gov/Archives/edgar/data/1892479/000092189526002796/0000921895-26-002796-index.htm) |
-
-## Biggest insider sales · filed 2026-10-14
+## Biggest insider buys · filed 2026-10-15
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **P** Everpure, Inc. | Colgrove John | Chief Visionary Officer, Director | $30.9M | 200,000 | $154.26 | [Form 4](https://www.sec.gov/Archives/edgar/data/1651902/000147443226000101/0001474432-26-000101-index.htm) |
-| **DELL** Dell Technologies Inc. | Silver Lake Partners IV, L.P., Silver Lake Technology Associates IV, L.P., SLTA IV (GP), L.L.C., Silver Lake Group, L.L.C., Durban Egon | Director, 10% Owner | $29.4M | 50,454 | $582.45 | [Form 4](https://www.sec.gov/Archives/edgar/data/1571996/000119312526421730/0001193125-26-421730-index.htm) |
-| **DELL** Dell Technologies Inc. | SL SPV-2, L.P., SLTA SPV-2, L.P., SLTA SPV-2 (GP), L.L.C., Silver Lake Group, L.L.C., Durban Egon | Director, 10% Owner | $25.9M | 44,408 | $582.30 | [Form 4](https://www.sec.gov/Archives/edgar/data/1571996/000119312526421731/0001193125-26-421731-index.htm) |
-| **QVCG** QVC Group, Inc. | Silver Point Capital, L.P., MULE EDWARD A, O'Shea Robert J | 10% Owner | $16.7M | 1,352,000 | $12.35 | [Form 4](https://www.sec.gov/Archives/edgar/data/1029625/000119312526421839/0001193125-26-421839-index.htm) |
-| **DELL** Dell Technologies Inc. | Silver Lake Partners V DE (AIV), L.P., Silver Lake Technology Associates V, L.P., SLTA V (GP), L.L.C., Silver Lake Group, L.L.C., Durban Egon | Director, 10% Owner | $14.8M | 25,494 | $582.30 | [Form 4](https://www.sec.gov/Archives/edgar/data/1571996/000119312526421734/0001193125-26-421734-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $8.8M | 253,776 | $34.68 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526422935/0001193125-26-422935-index.htm) |
+| **BORR** Borr Drilling Ltd | Troim Tor Olav | Director | $3.5M | 750,000 | $4.72 | [Form 4](https://www.sec.gov/Archives/edgar/data/1715497/000162828026065947/0001628280-26-065947-index.htm) |
+| **FLSC** Frazier Life Sciences Acquisition Corp. II | Cha Albert, Frazier Life Sciences Holdings II LLC, Frazier Life Sciences Public Fund, L.P., FHMLSP, L.P., FHMLSP, L.L.C. | Chief Executive Officer, Director, 10% Owner | $3.0M | 300,000 | $10.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1397906/000119312526422957/0001193125-26-422957-index.htm) |
+| **GOLD** Gold.com, Inc. | Tether Global Investments Fund, S.I.C.A.F., S.A., TPM, S.A. de C.V., Devasini Giancarlo | 10% Owner | $2.7M | 67,882 | $39.81 | [Form 4](https://www.sec.gov/Archives/edgar/data/2050373/000110465926116094/0001104659-26-116094-index.htm) |
+| **TRXB** TRex Bio, Inc. | Alexandria Venture Investments, LLC | 10% Owner | $2.5M | 178,571 | $14.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1722024/000172202426000004/0001722024-26-000004-index.htm) |
+| **PRTA** PROTHENA CORP PUBLIC LTD CO | SCULLY WILLIAM P | 10% Owner | $920.0K | 110,000 | $8.36 | [Form 4](https://www.sec.gov/Archives/edgar/data/1559053/000104546326000021/0001045463-26-000021-index.htm) |
+| **CXM** Sprinklr, Inc. | WARD JR STEPHEN M | Director | $850.5K | 150,000 | $5.67 | [Form 4](https://www.sec.gov/Archives/edgar/data/1569345/000116464426000008/0001164644-26-000008-index.htm) |
+| **ECF** ELLSWORTH GROWTH & INCOME FUND LTD | Saba Capital Management, L.P. | 10% Owner | $658.4K | 56,083 | $11.74 | [Form 4](https://www.sec.gov/Archives/edgar/data/793040/000151028126000349/0001510281-26-000349-index.htm) |
+| **MXF** MEXICO EQUITY & INCOME FUND INC | Saba Capital Management, L.P. | 10% Owner | $254.3K | 12,791 | $19.88 | [Form 4](https://www.sec.gov/Archives/edgar/data/863900/000151028126000351/0001510281-26-000351-index.htm) |
+| **API** Agora, Inc. | Zhao Bin | Chief Executive Officer, Director | $101.5K | 24,132 | $4.21 | [Form 4](https://www.sec.gov/Archives/edgar/data/1802883/000119312526422252/0001193125-26-422252-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-14.md`](data/insider/2026/10/2026-10-14.md)
+## Biggest insider sales · filed 2026-10-15
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **KNTK** Kinetik Holdings Inc. | ISQ Global Fund II GP LLC, I Squared Capital, LLC, ISQ Holdings, LLC, Wahba Sadek, Bhandari Gautam | 10% Owner | $109.5M | 2,000,000 | $54.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/2020876/000090514826004480/0000905148-26-004480-index.htm) |
+| **TALO** TALOS ENERGY INC. | Control Empresarial de Capitales S.A. de C.V. | 10% Owner | $51.9M | 2,965,446 | $17.49 | [Form 4](https://www.sec.gov/Archives/edgar/data/1273693/000114036126039793/0001140361-26-039793-index.htm) |
+| **BJ** BJ's Wholesale Club Holdings, Inc. | Eddy Robert W. | President & CEO, Director | $19.7M | 192,584 | $102.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/1531152/000153115226000073/0001531152-26-000073-index.htm) |
+| **FRMI** Fermi Inc. | NEUGEBAUER TOBY R, Melissa A. Neugebauer 2020 Trust | 10% Owner | $14.4M | 4,047,200 | $3.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/2071778/000090514826004482/0000905148-26-004482-index.htm) |
+| **IOT** Samsara Inc. | Biswas Sanjit | CHIEF EXECUTIVE OFFICER, Director, 10% Owner | $11.0M | 263,900 | $41.68 | [Form 4](https://www.sec.gov/Archives/edgar/data/1895111/000189511126000020/0001895111-26-000020-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-15.md`](data/insider/2026/10/2026-10-15.md)
 
 ## Latest weekly recap
 
