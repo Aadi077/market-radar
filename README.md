@@ -2,52 +2,52 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-16
+**Last updated:** 2026-10-19
 
-## Market close · 2026-10-15
+## Market close · 2026-10-16
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 771.79 | +0.28% |
-| Nasdaq 100 (QQQ) | 728.00 | -0.13% |
-| Dow 30 (DIA) | 521.18 | +1.08% |
-| Russell 2000 (IWM) | 275.08 | +1.37% |
+| S&P 500 (SPY) | 763.25 | -1.11% |
+| Nasdaq 100 (QQQ) | 709.80 | -2.50% |
+| Dow 30 (DIA) | 519.10 | -0.40% |
+| Russell 2000 (IWM) | 270.44 | -1.69% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **ADBE** +4.57% · **CRM** +4.57% · **HD** +4.31% · **LLY** +3.55% · **TMO** +3.46%  
-**Top large-cap decliners:** **CSCO** -3.34% · **INTC** -2.80% · **NVDA** -1.84% · **AMD** -1.50% · **MRK** -1.48%
+**Top large-cap gainers:** **CVX** +2.59% · **XOM** +2.46% · **PEP** +2.42% · **KO** +2.07% · **PG** +1.45%  
+**Top large-cap decliners:** **PLTR** -7.22% · **AMD** -5.95% · **INTC** -5.79% · **ORCL** -4.64% · **AVGO** -4.52%
 
-## Biggest insider buys · filed 2026-10-15
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $8.8M | 253,776 | $34.68 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526422935/0001193125-26-422935-index.htm) |
-| **BORR** Borr Drilling Ltd | Troim Tor Olav | Director | $3.5M | 750,000 | $4.72 | [Form 4](https://www.sec.gov/Archives/edgar/data/1715497/000162828026065947/0001628280-26-065947-index.htm) |
-| **FLSC** Frazier Life Sciences Acquisition Corp. II | Cha Albert, Frazier Life Sciences Holdings II LLC, Frazier Life Sciences Public Fund, L.P., FHMLSP, L.P., FHMLSP, L.L.C. | Chief Executive Officer, Director, 10% Owner | $3.0M | 300,000 | $10.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1397906/000119312526422957/0001193125-26-422957-index.htm) |
-| **GOLD** Gold.com, Inc. | Tether Global Investments Fund, S.I.C.A.F., S.A., TPM, S.A. de C.V., Devasini Giancarlo | 10% Owner | $2.7M | 67,882 | $39.81 | [Form 4](https://www.sec.gov/Archives/edgar/data/2050373/000110465926116094/0001104659-26-116094-index.htm) |
-| **TRXB** TRex Bio, Inc. | Alexandria Venture Investments, LLC | 10% Owner | $2.5M | 178,571 | $14.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1722024/000172202426000004/0001722024-26-000004-index.htm) |
-| **PRTA** PROTHENA CORP PUBLIC LTD CO | SCULLY WILLIAM P | 10% Owner | $920.0K | 110,000 | $8.36 | [Form 4](https://www.sec.gov/Archives/edgar/data/1559053/000104546326000021/0001045463-26-000021-index.htm) |
-| **CXM** Sprinklr, Inc. | WARD JR STEPHEN M | Director | $850.5K | 150,000 | $5.67 | [Form 4](https://www.sec.gov/Archives/edgar/data/1569345/000116464426000008/0001164644-26-000008-index.htm) |
-| **ECF** ELLSWORTH GROWTH & INCOME FUND LTD | Saba Capital Management, L.P. | 10% Owner | $658.4K | 56,083 | $11.74 | [Form 4](https://www.sec.gov/Archives/edgar/data/793040/000151028126000349/0001510281-26-000349-index.htm) |
-| **MXF** MEXICO EQUITY & INCOME FUND INC | Saba Capital Management, L.P. | 10% Owner | $254.3K | 12,791 | $19.88 | [Form 4](https://www.sec.gov/Archives/edgar/data/863900/000151028126000351/0001510281-26-000351-index.htm) |
-| **API** Agora, Inc. | Zhao Bin | Chief Executive Officer, Director | $101.5K | 24,132 | $4.21 | [Form 4](https://www.sec.gov/Archives/edgar/data/1802883/000119312526422252/0001193125-26-422252-index.htm) |
-
-## Biggest insider sales · filed 2026-10-15
+## Biggest insider buys · filed 2026-10-16
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **KNTK** Kinetik Holdings Inc. | ISQ Global Fund II GP LLC, I Squared Capital, LLC, ISQ Holdings, LLC, Wahba Sadek, Bhandari Gautam | 10% Owner | $109.5M | 2,000,000 | $54.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/2020876/000090514826004480/0000905148-26-004480-index.htm) |
-| **TALO** TALOS ENERGY INC. | Control Empresarial de Capitales S.A. de C.V. | 10% Owner | $51.9M | 2,965,446 | $17.49 | [Form 4](https://www.sec.gov/Archives/edgar/data/1273693/000114036126039793/0001140361-26-039793-index.htm) |
-| **BJ** BJ's Wholesale Club Holdings, Inc. | Eddy Robert W. | President & CEO, Director | $19.7M | 192,584 | $102.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/1531152/000153115226000073/0001531152-26-000073-index.htm) |
-| **FRMI** Fermi Inc. | NEUGEBAUER TOBY R, Melissa A. Neugebauer 2020 Trust | 10% Owner | $14.4M | 4,047,200 | $3.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/2071778/000090514826004482/0000905148-26-004482-index.htm) |
-| **IOT** Samsara Inc. | Biswas Sanjit | CHIEF EXECUTIVE OFFICER, Director, 10% Owner | $11.0M | 263,900 | $41.68 | [Form 4](https://www.sec.gov/Archives/edgar/data/1895111/000189511126000020/0001895111-26-000020-index.htm) |
+| **SAFX** XCF Global, Inc. | EEME Energy SPV I, LLC | 10% Owner | $142.1M | 119,397,858 | $1.19 | [Form 4](https://www.sec.gov/Archives/edgar/data/2106572/000210657226000003/0002106572-26-000003-index.htm) |
+| **PAM** Pampa Energy Inc. | Mindlin Marcos Marcelo | Director, 10% Owner | $35.1M | 435,000 | $80.78 | [Form 4](https://www.sec.gov/Archives/edgar/data/2022936/000202293626000017/0002022936-26-000017-index.htm) |
+| **PEP** PEPSICO INC | POHLAD ROBERT C | Director | $23.7M | 184,646 | $128.28 | [Form 4](https://www.sec.gov/Archives/edgar/data/77476/000106127226000004/0001061272-26-000004-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $20.5M | 602,103 | $34.03 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526424142/0001193125-26-424142-index.htm) |
+| Keenova Therapeutics plc | GOLDENTREE ASSET MANAGEMENT LP, GoldenTree Asset Management LLC, Tananbaum Steven A. | 10% Owner | $12.3M | 137,000 | $90.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1278951/000149315226047403/0001493152-26-047403-index.htm) |
+| **BORR** Borr Drilling Ltd | Troim Tor Olav | Director | $2.3M | 500,000 | $4.60 | [Form 4](https://www.sec.gov/Archives/edgar/data/1715497/000162828026066045/0001628280-26-066045-index.htm) |
+| **BORR** Borr Drilling Ltd | Snowling Harvey Edward | Chief Operating Officer | $1.5M | 300,000 | $4.91 | [Form 4](https://www.sec.gov/Archives/edgar/data/1715497/000162828026066061/0001628280-26-066061-index.htm) |
+| **SAH** SONIC AUTOMOTIVE INC | Rusnak Paul P. | 10% Owner | $752.0K | 12,555 | $59.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/1460471/000146047126000009/0001460471-26-000009-index.htm) |
+| **JOF** JAPAN SMALLER CAPITALIZATION FUND INC | Saba Capital Management, L.P. | 10% Owner | $161.9K | 13,133 | $12.33 | [Form 4](https://www.sec.gov/Archives/edgar/data/859796/000151028126000353/0001510281-26-000353-index.htm) |
+| **GRCE** Grace Therapeutics, Inc. | Opaleye Management Inc. | 10% Owner | $136.2K | 71,065 | $1.92 | [Form 4](https://www.sec.gov/Archives/edgar/data/1444192/000149315226047473/0001493152-26-047473-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-15.md`](data/insider/2026/10/2026-10-15.md)
+## Biggest insider sales · filed 2026-10-16
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **INSW** International Seaways, Inc. | Famatown Finance Ltd, GREENWICH HOLDINGS LTD., C.K. Ltd | 10% Owner | $107.3M | 1,106,190 | $97.01 | [Form 4](https://www.sec.gov/Archives/edgar/data/1731638/000091957426007000/0000919574-26-007000-index.htm) |
+| **NTRA** Natera, Inc. | Rabinowitz Matthew | EXECUTIVE CHAIRMAN, Director | $20.1M | 50,000 | $402.64 | [Form 4](https://www.sec.gov/Archives/edgar/data/1604821/000164638226000023/0001646382-26-000023-index.htm) |
+| **MRNA** Moderna, Inc. | Hoge Stephen | President | $17.0M | 78,369 | $217.10 | [Form 4](https://www.sec.gov/Archives/edgar/data/1760669/000168285226000187/0001682852-26-000187-index.htm) |
+| **NUAI** New ERA Energy & Digital, Inc. | MCCARTHY KENT C, KCM Capital Inc, AMC Fund, L.P. | 10% Owner | $15.5M | 4,290,000 | $3.62 | [Form 4](https://www.sec.gov/Archives/edgar/data/2160027/000122502826000007/0001225028-26-000007-index.htm) |
+| **P** Everpure, Inc. | Colgrove John | Chief Visionary Officer, Director | $14.5M | 100,000 | $145.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1651902/000147443226000103/0001474432-26-000103-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-16.md`](data/insider/2026/10/2026-10-16.md)
 
 ## Latest weekly recap
 
-[2026-W41](data/weekly/2026-W41.md)
+[2026-W42](data/weekly/2026-W42.md)
 
 ## How it works
 
