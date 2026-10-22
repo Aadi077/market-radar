@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-20
+**Last updated:** 2026-10-21
 
-## Market close · 2026-10-19
+## Market close · 2026-10-20
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 766.48 | +0.42% |
-| Nasdaq 100 (QQQ) | 718.36 | +1.21% |
-| Dow 30 (DIA) | 518.92 | -0.03% |
-| Russell 2000 (IWM) | 271.28 | +0.31% |
+| S&P 500 (SPY) | 769.05 | +0.34% |
+| Nasdaq 100 (QQQ) | 717.63 | -0.10% |
+| Dow 30 (DIA) | 524.36 | +1.05% |
+| Russell 2000 (IWM) | 275.78 | +1.66% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **AMZN** +4.98% · **PLTR** +4.36% · **TSLA** +3.76% · **INTC** +2.43% · **IBM** +1.83%  
-**Top large-cap decliners:** **WFC** -2.47% · **JPM** -1.82% · **BAC** -1.64% · **MRK** -1.59% · **TMO** -1.54%
+**Top large-cap gainers:** **ADBE** +3.90% · **LLY** +3.49% · **MRK** +3.25% · **UNH** +3.04% · **IBM** +2.34%  
+**Top large-cap decliners:** **GE** -3.67% · **NFLX** -1.66% · **META** -1.59% · **GOOGL** -1.13% · **AAPL** -1.00%
 
-## Biggest insider buys · filed 2026-10-19
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **LNBIX** Lincoln Bain Capital Total Credit Fund | Lincoln Financial Investments Corp | 10% Owner | $25.0M | 2,477,701 | $10.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/2054992/000119312526425009/0001193125-26-425009-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $17.1M | 510,873 | $33.43 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526425300/0001193125-26-425300-index.htm) |
-| **IAM** Iambic Therapeutics, Inc. | Rachlin Evan Lockwood | Director | $11.5M | 718,750 | $16.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1997038/000215167826000007/0002151678-26-000007-index.htm) |
-| **APLD** Applied Digital Corp. | Zhang Jason Gechen | President | $5.7M | 300,000 | $18.86 | [Form 4](https://www.sec.gov/Archives/edgar/data/1144879/000190044526000006/0001900445-26-000006-index.htm) |
-| **CTY** CITY THERAPEUTICS, INC. | ARCH Venture Partners XII, LLC, ARCH Venture Partners XII, L.P., ARCH Venture Fund XII, L.P., CRANDELL KEITH, Burow Kristina, GILLIS STEVEN | 10% Owner | $3.1M | 170,000 | $18.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1906837/000110465926116966/0001104659-26-116966-index.htm) |
-| **CTY** CITY THERAPEUTICS, INC. | NELSEN ROBERT | Director, 10% Owner | $3.1M | 170,000 | $18.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2143850/000110465926116965/0001104659-26-116965-index.htm) |
-| **BPRE** Bluerock Private Real Estate Fund | KAMFAR RAMIN | Director | $2.4M | 194,228 | $12.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551047/000139834426018404/0001398344-26-018404-index.htm) |
-| **APLD** Applied Digital Corp. | Cummins Wes | CEO; Chairman, Director | $1.0M | 55,803 | $18.04 | [Form 4](https://www.sec.gov/Archives/edgar/data/1144879/000139193526000009/0001391935-26-000009-index.htm) |
-| **SNES** SenesTech, Inc. | GLENBROOK CAPITAL MANAGEMENT | 10% Owner | $706.1K | 983,804 | $0.72 | [Form 4](https://www.sec.gov/Archives/edgar/data/1273782/000090266426004215/0000902664-26-004215-index.htm) |
-| **CNXU** Conexeu Sciences Inc. | Purcell Lynn Sebastian | Director, 10% Owner | $500.0K | 166,666 | $3.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2066836/000212846926000009/0002128469-26-000009-index.htm) |
-
-## Biggest insider sales · filed 2026-10-19
+## Biggest insider buys · filed 2026-10-20
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **TALO** TALOS ENERGY INC. | Control Empresarial de Capitales S.A. de C.V. | 10% Owner | $47.3M | 2,752,000 | $17.19 | [Form 4](https://www.sec.gov/Archives/edgar/data/1273693/000114036126040135/0001140361-26-040135-index.htm) |
-| **PATH** UiPath, Inc. | Dines Daniel | CEO and Chairman, Director, 10% Owner | $33.1M | 2,500,000 | $13.23 | [Form 4](https://www.sec.gov/Archives/edgar/data/1855767/000185576726000019/0001855767-26-000019-index.htm) |
-| **AFL** AFLAC INC | Japan Post Holdings Co., Ltd. | 10% Owner | $13.5M | 113,611 | $118.53 | [Form 4](https://www.sec.gov/Archives/edgar/data/4977/000110465926116752/0001104659-26-116752-index.htm) |
-| **TVTX** Travere Therapeutics, Inc. | Dube Eric M | CHIEF EXECUTIVE OFFICER, Director | $13.1M | 243,735 | $53.82 | [Form 4](https://www.sec.gov/Archives/edgar/data/1763494/000176349426000008/0001763494-26-000008-index.htm) |
-| **W** Wayfair Inc. | Conine Steven | Director | $13.0M | 117,000 | $111.25 | [Form 4](https://www.sec.gov/Archives/edgar/data/1620052/000161670726000176/0001616707-26-000176-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $12.1M | 347,195 | $34.71 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526426865/0001193125-26-426865-index.htm) |
+| **SCISX** MA Specialty Credit Income Fund | MA Eagle II Holdings Fund | 10% Owner | $2.4M | 96,931 | $24.76 | [Form 4](https://www.sec.gov/Archives/edgar/data/2049114/000094562126001274/0000945621-26-001274-index.htm) |
+| **LEO** BNY MELLON STRATEGIC MUNICIPALS, INC. | Saba Capital Management, L.P. | 10% Owner | $1.9M | 338,104 | $5.65 | [Form 4](https://www.sec.gov/Archives/edgar/data/818972/000151028126000365/0001510281-26-000365-index.htm) |
+| **DSM** BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC. | Saba Capital Management, L.P. | 10% Owner | $1.1M | 207,722 | $5.28 | [Form 4](https://www.sec.gov/Archives/edgar/data/855887/000151028126000362/0001510281-26-000362-index.htm) |
+| **JOF** JAPAN SMALLER CAPITALIZATION FUND INC | Saba Capital Management, L.P. | 10% Owner | $551.9K | 46,222 | $11.94 | [Form 4](https://www.sec.gov/Archives/edgar/data/859796/000151028126000363/0001510281-26-000363-index.htm) |
+| **ECF** ELLSWORTH GROWTH & INCOME FUND LTD | Saba Capital Management, L.P. | 10% Owner | $386.3K | 33,426 | $11.56 | [Form 4](https://www.sec.gov/Archives/edgar/data/793040/000151028126000360/0001510281-26-000360-index.htm) |
+| **BOLD** Boundless Bio, Inc. | TANG KEVIN, TANG CAPITAL MANAGEMENT LLC | 10% Owner | $349.6K | 149,474 | $2.34 | [Form 4](https://www.sec.gov/Archives/edgar/data/1782303/000117857926000019/0001178579-26-000019-index.htm) |
+| **GF** NEW GERMANY FUND INC | Saba Capital Management, L.P. | 10% Owner | $310.7K | 30,088 | $10.33 | [Form 4](https://www.sec.gov/Archives/edgar/data/858706/000151028126000361/0001510281-26-000361-index.htm) |
+| **DX** DYNEX CAPITAL INC | Popenoe Smriti Laxman | Co-CEO and President, Director | $156.6K | 12,000 | $13.05 | [Form 4](https://www.sec.gov/Archives/edgar/data/826675/000082667526000121/0000826675-26-000121-index.htm) |
+| **GRF** EAGLE CAPITAL GROWTH FUND, INC. | Sims David C | CFO, CCO, Secretary, Treasurer, Director | $108.6K | 10,787 | $10.07 | [Form 4](https://www.sec.gov/Archives/edgar/data/850027/000140161226000005/0001401612-26-000005-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-19.md`](data/insider/2026/10/2026-10-19.md)
+## Biggest insider sales · filed 2026-10-20
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **MU** MICRON TECHNOLOGY INC | Deboer Scott J | Pres. & Chief Tech & Prod Offr | $25.7M | 28,545 | $900.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1568238/000156823826000003/0001568238-26-000003-index.htm) |
+| **NZF** Nuveen Municipal Credit Income Fund | Robert Young L |  | $17.6M | 16,131 | $1,093.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1137887/000122520826008478/0001225208-26-008478-index.htm) |
+| **GRND** Grindr Inc. | Zage George Raymond III | Director, 10% Owner | $7.1M | 500,000 | $14.12 | [Form 4](https://www.sec.gov/Archives/edgar/data/1820144/000183367826000007/0001833678-26-000007-index.htm) |
+| **UTHR** UNITED THERAPEUTICS Corp | ROTHBLATT MARTINE A | Chairperson & CEO, Director | $5.2M | 9,500 | $543.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/1106578/000110657826000167/0001106578-26-000167-index.htm) |
+| **VG** Venture Global, Inc. | Thayer Jonathan W | Chief Financial Officer | $2.8M | 222,222 | $12.69 | [Form 4](https://www.sec.gov/Archives/edgar/data/1448765/000144876526000017/0001448765-26-000017-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-20.md`](data/insider/2026/10/2026-10-20.md)
 
 ## Latest weekly recap
 
