@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-21
+**Last updated:** 2026-10-22
 
-## Market close · 2026-10-20
+## Market close · 2026-10-21
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 769.05 | +0.34% |
-| Nasdaq 100 (QQQ) | 717.63 | -0.10% |
-| Dow 30 (DIA) | 524.36 | +1.05% |
-| Russell 2000 (IWM) | 275.78 | +1.66% |
+| S&P 500 (SPY) | 773.09 | +0.53% |
+| Nasdaq 100 (QQQ) | 725.20 | +1.05% |
+| Dow 30 (DIA) | 527.70 | +0.64% |
+| Russell 2000 (IWM) | 276.48 | +0.25% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **ADBE** +3.90% · **LLY** +3.49% · **MRK** +3.25% · **UNH** +3.04% · **IBM** +2.34%  
-**Top large-cap decliners:** **GE** -3.67% · **NFLX** -1.66% · **META** -1.59% · **GOOGL** -1.13% · **AAPL** -1.00%
+**Top large-cap gainers:** **PLTR** +4.74% · **IBM** +3.94% · **TSLA** +3.41% · **AMD** +3.36% · **NVDA** +2.54%  
+**Top large-cap decliners:** **NFLX** -5.31% · **GOOGL** -1.62% · **PG** -1.56% · **ORCL** -1.53% · **ABBV** -1.48%
 
-## Biggest insider buys · filed 2026-10-20
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $12.1M | 347,195 | $34.71 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526426865/0001193125-26-426865-index.htm) |
-| **SCISX** MA Specialty Credit Income Fund | MA Eagle II Holdings Fund | 10% Owner | $2.4M | 96,931 | $24.76 | [Form 4](https://www.sec.gov/Archives/edgar/data/2049114/000094562126001274/0000945621-26-001274-index.htm) |
-| **LEO** BNY MELLON STRATEGIC MUNICIPALS, INC. | Saba Capital Management, L.P. | 10% Owner | $1.9M | 338,104 | $5.65 | [Form 4](https://www.sec.gov/Archives/edgar/data/818972/000151028126000365/0001510281-26-000365-index.htm) |
-| **DSM** BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC. | Saba Capital Management, L.P. | 10% Owner | $1.1M | 207,722 | $5.28 | [Form 4](https://www.sec.gov/Archives/edgar/data/855887/000151028126000362/0001510281-26-000362-index.htm) |
-| **JOF** JAPAN SMALLER CAPITALIZATION FUND INC | Saba Capital Management, L.P. | 10% Owner | $551.9K | 46,222 | $11.94 | [Form 4](https://www.sec.gov/Archives/edgar/data/859796/000151028126000363/0001510281-26-000363-index.htm) |
-| **ECF** ELLSWORTH GROWTH & INCOME FUND LTD | Saba Capital Management, L.P. | 10% Owner | $386.3K | 33,426 | $11.56 | [Form 4](https://www.sec.gov/Archives/edgar/data/793040/000151028126000360/0001510281-26-000360-index.htm) |
-| **BOLD** Boundless Bio, Inc. | TANG KEVIN, TANG CAPITAL MANAGEMENT LLC | 10% Owner | $349.6K | 149,474 | $2.34 | [Form 4](https://www.sec.gov/Archives/edgar/data/1782303/000117857926000019/0001178579-26-000019-index.htm) |
-| **GF** NEW GERMANY FUND INC | Saba Capital Management, L.P. | 10% Owner | $310.7K | 30,088 | $10.33 | [Form 4](https://www.sec.gov/Archives/edgar/data/858706/000151028126000361/0001510281-26-000361-index.htm) |
-| **DX** DYNEX CAPITAL INC | Popenoe Smriti Laxman | Co-CEO and President, Director | $156.6K | 12,000 | $13.05 | [Form 4](https://www.sec.gov/Archives/edgar/data/826675/000082667526000121/0000826675-26-000121-index.htm) |
-| **GRF** EAGLE CAPITAL GROWTH FUND, INC. | Sims David C | CFO, CCO, Secretary, Treasurer, Director | $108.6K | 10,787 | $10.07 | [Form 4](https://www.sec.gov/Archives/edgar/data/850027/000140161226000005/0001401612-26-000005-index.htm) |
-
-## Biggest insider sales · filed 2026-10-20
+## Biggest insider buys · filed 2026-10-21
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **MU** MICRON TECHNOLOGY INC | Deboer Scott J | Pres. & Chief Tech & Prod Offr | $25.7M | 28,545 | $900.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1568238/000156823826000003/0001568238-26-000003-index.htm) |
-| **NZF** Nuveen Municipal Credit Income Fund | Robert Young L |  | $17.6M | 16,131 | $1,093.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1137887/000122520826008478/0001225208-26-008478-index.htm) |
-| **GRND** Grindr Inc. | Zage George Raymond III | Director, 10% Owner | $7.1M | 500,000 | $14.12 | [Form 4](https://www.sec.gov/Archives/edgar/data/1820144/000183367826000007/0001833678-26-000007-index.htm) |
-| **UTHR** UNITED THERAPEUTICS Corp | ROTHBLATT MARTINE A | Chairperson & CEO, Director | $5.2M | 9,500 | $543.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/1106578/000110657826000167/0001106578-26-000167-index.htm) |
-| **VG** Venture Global, Inc. | Thayer Jonathan W | Chief Financial Officer | $2.8M | 222,222 | $12.69 | [Form 4](https://www.sec.gov/Archives/edgar/data/1448765/000144876526000017/0001448765-26-000017-index.htm) |
+| **GXVIX** Global X Venture & Innovation Fund | GLOBAL X MANAGEMENT COMPANY, INC. | 10% Owner | $25.0M | 1,945,525 | $12.85 | [Form 4](https://www.sec.gov/Archives/edgar/data/1579960/000121390026111339/0001213900-26-111339-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $5.6M | 162,024 | $34.51 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526427950/0001193125-26-427950-index.htm) |
+| **BPRE** Bluerock Private Real Estate Fund | KAMFAR RAMIN | Director | $3.3M | 271,555 | $12.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551047/000139834426018550/0001398344-26-018550-index.htm) |
+| **FBK** FB Financial Corp | INGRAM ORRIN H II | Director | $1.5M | 29,081 | $52.88 | [Form 4](https://www.sec.gov/Archives/edgar/data/1649749/000119147326000008/0001191473-26-000008-index.htm) |
+| **TENX** TENAX THERAPEUTICS, INC. | ADAR1 Capital Management, LLC, Schneeberger Daniel | 10% Owner | $1.5M | 922,849 | $1.59 | [Form 4](https://www.sec.gov/Archives/edgar/data/1940272/000194027226000027/0001940272-26-000027-index.htm) |
+| **GF** NEW GERMANY FUND INC | Saba Capital Management, L.P. | 10% Owner | $906.9K | 87,623 | $10.35 | [Form 4](https://www.sec.gov/Archives/edgar/data/858706/000151028126000367/0001510281-26-000367-index.htm) |
+| MSD Investment Corp. | Williams Brian S | See Remarks | $310.9K | 13,130 | $23.68 | [Form 4](https://www.sec.gov/Archives/edgar/data/1849894/000119312526427983/0001193125-26-427983-index.htm) |
+| **RAPP** Rapport Therapeutics, Inc. | Ignelzi Troy A. | Chief Financial Officer | $143.6K | 5,500 | $26.10 | [Form 4](https://www.sec.gov/Archives/edgar/data/1579829/000119312526428018/0001193125-26-428018-index.htm) |
+| **CRF** CORNERSTONE TOTAL RETURN FUND INC | Bradshaw Joshua | Vice Chairman and President, Director | $117.6K | 20,000 | $5.88 | [Form 4](https://www.sec.gov/Archives/edgar/data/1892951/000139834426018542/0001398344-26-018542-index.htm) |
+| **DX** DYNEX CAPITAL INC | BOSTON BYRON L | Co-CEO & Chairman of the Board, Director | $100.0K | 9,180 | $10.89 | [Form 4](https://www.sec.gov/Archives/edgar/data/1283563/000082667526000124/0000826675-26-000124-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-20.md`](data/insider/2026/10/2026-10-20.md)
+## Biggest insider sales · filed 2026-10-21
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **SNOW** Snowflake Inc. | Slootman Frank | Director | $94.9M | 300,000 | $316.43 | [Form 4](https://www.sec.gov/Archives/edgar/data/1402348/000140234826000020/0001402348-26-000020-index.htm) |
+| **TALO** TALOS ENERGY INC. | Control Empresarial de Capitales S.A. de C.V. | 10% Owner | $38.6M | 2,141,590 | $18.01 | [Form 4](https://www.sec.gov/Archives/edgar/data/1273693/000114036126040419/0001140361-26-040419-index.htm) |
+| **CVX** CHEVRON CORP | Pate R. Hewitt | Chief Legal Officer | $9.8M | 43,100 | $226.59 | [Form 4](https://www.sec.gov/Archives/edgar/data/93410/000009341026000194/0000093410-26-000194-index.htm) |
+| **GTLB** Gitlab Inc. | Sijbrandij Sytse | Director | $6.2M | 116,200 | $53.27 | [Form 4](https://www.sec.gov/Archives/edgar/data/1653482/000165348226000176/0001653482-26-000176-index.htm) |
+| **ALMR** Alamar Biosciences, Inc. | Qiming Corporate GP VI, Ltd., Qiming Managing Directors Fund VI, L.P., Qiming Venture Partners VI, L.P., Qiming GP VIII, LLC, Qiming Venture Partners VIII Investments, LLC, Qiming GP VIII-HC, LLC, Qiming Venture Partners VIII-HC, L.P. | 10% Owner | $5.9M | 217,512 | $27.35 | [Form 4](https://www.sec.gov/Archives/edgar/data/2104204/000123191926001485/0001231919-26-001485-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-21.md`](data/insider/2026/10/2026-10-21.md)
 
 ## Latest weekly recap
 
