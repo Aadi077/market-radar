@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-22
+**Last updated:** 2026-10-23
 
-## Market close · 2026-10-21
+## Market close · 2026-10-22
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 773.09 | +0.53% |
-| Nasdaq 100 (QQQ) | 725.20 | +1.05% |
-| Dow 30 (DIA) | 527.70 | +0.64% |
-| Russell 2000 (IWM) | 276.48 | +0.25% |
+| S&P 500 (SPY) | 763.96 | -1.18% |
+| Nasdaq 100 (QQQ) | 704.47 | -2.86% |
+| Dow 30 (DIA) | 527.89 | +0.04% |
+| Russell 2000 (IWM) | 276.67 | +0.07% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **PLTR** +4.74% · **IBM** +3.94% · **TSLA** +3.41% · **AMD** +3.36% · **NVDA** +2.54%  
-**Top large-cap decliners:** **NFLX** -5.31% · **GOOGL** -1.62% · **PG** -1.56% · **ORCL** -1.53% · **ABBV** -1.48%
+**Top large-cap gainers:** **ADBE** +6.07% · **PG** +5.58% · **HD** +4.33% · **JNJ** +3.81% · **CRM** +3.52%  
+**Top large-cap decliners:** **AMD** -8.10% · **INTC** -8.04% · **META** -6.98% · **AMZN** -4.57% · **NVDA** -4.40%
 
-## Biggest insider buys · filed 2026-10-21
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **GXVIX** Global X Venture & Innovation Fund | GLOBAL X MANAGEMENT COMPANY, INC. | 10% Owner | $25.0M | 1,945,525 | $12.85 | [Form 4](https://www.sec.gov/Archives/edgar/data/1579960/000121390026111339/0001213900-26-111339-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $5.6M | 162,024 | $34.51 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526427950/0001193125-26-427950-index.htm) |
-| **BPRE** Bluerock Private Real Estate Fund | KAMFAR RAMIN | Director | $3.3M | 271,555 | $12.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551047/000139834426018550/0001398344-26-018550-index.htm) |
-| **FBK** FB Financial Corp | INGRAM ORRIN H II | Director | $1.5M | 29,081 | $52.88 | [Form 4](https://www.sec.gov/Archives/edgar/data/1649749/000119147326000008/0001191473-26-000008-index.htm) |
-| **TENX** TENAX THERAPEUTICS, INC. | ADAR1 Capital Management, LLC, Schneeberger Daniel | 10% Owner | $1.5M | 922,849 | $1.59 | [Form 4](https://www.sec.gov/Archives/edgar/data/1940272/000194027226000027/0001940272-26-000027-index.htm) |
-| **GF** NEW GERMANY FUND INC | Saba Capital Management, L.P. | 10% Owner | $906.9K | 87,623 | $10.35 | [Form 4](https://www.sec.gov/Archives/edgar/data/858706/000151028126000367/0001510281-26-000367-index.htm) |
-| MSD Investment Corp. | Williams Brian S | See Remarks | $310.9K | 13,130 | $23.68 | [Form 4](https://www.sec.gov/Archives/edgar/data/1849894/000119312526427983/0001193125-26-427983-index.htm) |
-| **RAPP** Rapport Therapeutics, Inc. | Ignelzi Troy A. | Chief Financial Officer | $143.6K | 5,500 | $26.10 | [Form 4](https://www.sec.gov/Archives/edgar/data/1579829/000119312526428018/0001193125-26-428018-index.htm) |
-| **CRF** CORNERSTONE TOTAL RETURN FUND INC | Bradshaw Joshua | Vice Chairman and President, Director | $117.6K | 20,000 | $5.88 | [Form 4](https://www.sec.gov/Archives/edgar/data/1892951/000139834426018542/0001398344-26-018542-index.htm) |
-| **DX** DYNEX CAPITAL INC | BOSTON BYRON L | Co-CEO & Chairman of the Board, Director | $100.0K | 9,180 | $10.89 | [Form 4](https://www.sec.gov/Archives/edgar/data/1283563/000082667526000124/0000826675-26-000124-index.htm) |
-
-## Biggest insider sales · filed 2026-10-21
+## Biggest insider buys · filed 2026-10-22
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **SNOW** Snowflake Inc. | Slootman Frank | Director | $94.9M | 300,000 | $316.43 | [Form 4](https://www.sec.gov/Archives/edgar/data/1402348/000140234826000020/0001402348-26-000020-index.htm) |
-| **TALO** TALOS ENERGY INC. | Control Empresarial de Capitales S.A. de C.V. | 10% Owner | $38.6M | 2,141,590 | $18.01 | [Form 4](https://www.sec.gov/Archives/edgar/data/1273693/000114036126040419/0001140361-26-040419-index.htm) |
-| **CVX** CHEVRON CORP | Pate R. Hewitt | Chief Legal Officer | $9.8M | 43,100 | $226.59 | [Form 4](https://www.sec.gov/Archives/edgar/data/93410/000009341026000194/0000093410-26-000194-index.htm) |
-| **GTLB** Gitlab Inc. | Sijbrandij Sytse | Director | $6.2M | 116,200 | $53.27 | [Form 4](https://www.sec.gov/Archives/edgar/data/1653482/000165348226000176/0001653482-26-000176-index.htm) |
-| **ALMR** Alamar Biosciences, Inc. | Qiming Corporate GP VI, Ltd., Qiming Managing Directors Fund VI, L.P., Qiming Venture Partners VI, L.P., Qiming GP VIII, LLC, Qiming Venture Partners VIII Investments, LLC, Qiming GP VIII-HC, LLC, Qiming Venture Partners VIII-HC, L.P. | 10% Owner | $5.9M | 217,512 | $27.35 | [Form 4](https://www.sec.gov/Archives/edgar/data/2104204/000123191926001485/0001231919-26-001485-index.htm) |
+| 5C Lending Partners Corp. | MSD CAPITAL, L.P., MSD Portfolio L.P. - Investments, Noble Environmental Investments, LLC, DELL MICHAEL S | 10% Owner | $9.6M | 390,857 | $24.48 | [Form 4](https://www.sec.gov/Archives/edgar/data/1998387/000119312526429152/0001193125-26-429152-index.htm) |
+| **DOLE** Dole plc | Pale Fire Capital SE, Pale Fire Capital SICAV a.s., Pale Fire Capital investicni spolecnost a.s., Senkypl Dusan, Barta Jan | 10% Owner | $8.6M | 648,356 | $13.19 | [Form 4](https://www.sec.gov/Archives/edgar/data/1892479/000092189526002845/0000921895-26-002845-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $6.8M | 193,357 | $35.01 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526429089/0001193125-26-429089-index.htm) |
+| **RAPP** Rapport Therapeutics, Inc. | PAUL STEVEN M | Director | $974.3K | 35,714 | $27.28 | [Form 4](https://www.sec.gov/Archives/edgar/data/1237564/000119312526429073/0001193125-26-429073-index.htm) |
+| **MXF** MEXICO EQUITY & INCOME FUND INC | Saba Capital Management, L.P. | 10% Owner | $327.4K | 16,035 | $20.42 | [Form 4](https://www.sec.gov/Archives/edgar/data/863900/000151028126000373/0001510281-26-000373-index.htm) |
+| **LEO** BNY MELLON STRATEGIC MUNICIPALS, INC. | Saba Capital Management, L.P. | 10% Owner | $262.6K | 45,831 | $5.73 | [Form 4](https://www.sec.gov/Archives/edgar/data/818972/000151028126000374/0001510281-26-000374-index.htm) |
+| **RAPP** Rapport Therapeutics, Inc. | MARAGANORE JOHN | Director | $248.9K | 9,411 | $26.45 | [Form 4](https://www.sec.gov/Archives/edgar/data/1180432/000119312526429071/0001193125-26-429071-index.htm) |
+| **API** Agora, Inc. | Zhao Bin | Chief Executive Officer, Director | $168.3K | 38,267 | $4.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/1802883/000119312526429245/0001193125-26-429245-index.htm) |
+| **DSM** BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC. | Saba Capital Management, L.P. | 10% Owner | $109.5K | 20,575 | $5.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/855887/000151028126000372/0001510281-26-000372-index.htm) |
+| **RAPP** Rapport Therapeutics, Inc. | Young Wendy B. | Director | $100.0K | 3,789 | $26.39 | [Form 4](https://www.sec.gov/Archives/edgar/data/2012593/000119312526429074/0001193125-26-429074-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-21.md`](data/insider/2026/10/2026-10-21.md)
+## Biggest insider sales · filed 2026-10-22
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **IHT** INNSUITES HOSPITALITY TRUST | WIRTH JAMES F | President & CEO, 10% Owner | $2.0B | 43,111 | $46,654.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/82473/000149315226048149/0001493152-26-048149-index.htm) |
+| **BRZE** Braze, Inc. | Hyman Jonathan | Chief Technology Officer | $13.2M | 295,000 | $44.81 | [Form 4](https://www.sec.gov/Archives/edgar/data/1676238/000188893526000028/0001888935-26-000028-index.htm) |
+| **LIND** LINDBLAD EXPEDITIONS HOLDINGS, INC. | Lindblad Sven-Olof | Director, 10% Owner | $8.6M | 240,989 | $35.85 | [Form 4](https://www.sec.gov/Archives/edgar/data/1512499/000089706926001865/0000897069-26-001865-index.htm) |
+| **ANET** Arista Networks, Inc. | Duda Kenneth | President and CTO, Director | $7.8M | 43,333 | $180.91 | [Form 4](https://www.sec.gov/Archives/edgar/data/1596532/000159653226000248/0001596532-26-000248-index.htm) |
+| **ROIV** Roivant Sciences Ltd. | Venker Eric | President & Immunovant CEO | $7.0M | 200,000 | $35.11 | [Form 4](https://www.sec.gov/Archives/edgar/data/1635088/000163508826000116/0001635088-26-000116-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-22.md`](data/insider/2026/10/2026-10-22.md)
 
 ## Latest weekly recap
 
