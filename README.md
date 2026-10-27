@@ -2,52 +2,52 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-23
+**Last updated:** 2026-10-26
 
-## Market close · 2026-10-22
+## Market close · 2026-10-23
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 763.96 | -1.18% |
-| Nasdaq 100 (QQQ) | 704.47 | -2.86% |
-| Dow 30 (DIA) | 527.89 | +0.04% |
-| Russell 2000 (IWM) | 276.67 | +0.07% |
+| S&P 500 (SPY) | 759.97 | -0.52% |
+| Nasdaq 100 (QQQ) | 704.40 | -0.01% |
+| Dow 30 (DIA) | 521.37 | -1.24% |
+| Russell 2000 (IWM) | 275.75 | -0.33% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **ADBE** +6.07% · **PG** +5.58% · **HD** +4.33% · **JNJ** +3.81% · **CRM** +3.52%  
-**Top large-cap decliners:** **AMD** -8.10% · **INTC** -8.04% · **META** -6.98% · **AMZN** -4.57% · **NVDA** -4.40%
+**Top large-cap gainers:** **CVX** +2.88% · **XOM** +2.79% · **AMD** +1.74% · **INTC** +1.72% · **CSCO** +1.53%  
+**Top large-cap decliners:** **PG** -2.76% · **KO** -2.76% · **GE** -2.69% · **LLY** -2.54% · **ADBE** -2.49%
 
-## Biggest insider buys · filed 2026-10-22
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| 5C Lending Partners Corp. | MSD CAPITAL, L.P., MSD Portfolio L.P. - Investments, Noble Environmental Investments, LLC, DELL MICHAEL S | 10% Owner | $9.6M | 390,857 | $24.48 | [Form 4](https://www.sec.gov/Archives/edgar/data/1998387/000119312526429152/0001193125-26-429152-index.htm) |
-| **DOLE** Dole plc | Pale Fire Capital SE, Pale Fire Capital SICAV a.s., Pale Fire Capital investicni spolecnost a.s., Senkypl Dusan, Barta Jan | 10% Owner | $8.6M | 648,356 | $13.19 | [Form 4](https://www.sec.gov/Archives/edgar/data/1892479/000092189526002845/0000921895-26-002845-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $6.8M | 193,357 | $35.01 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526429089/0001193125-26-429089-index.htm) |
-| **RAPP** Rapport Therapeutics, Inc. | PAUL STEVEN M | Director | $974.3K | 35,714 | $27.28 | [Form 4](https://www.sec.gov/Archives/edgar/data/1237564/000119312526429073/0001193125-26-429073-index.htm) |
-| **MXF** MEXICO EQUITY & INCOME FUND INC | Saba Capital Management, L.P. | 10% Owner | $327.4K | 16,035 | $20.42 | [Form 4](https://www.sec.gov/Archives/edgar/data/863900/000151028126000373/0001510281-26-000373-index.htm) |
-| **LEO** BNY MELLON STRATEGIC MUNICIPALS, INC. | Saba Capital Management, L.P. | 10% Owner | $262.6K | 45,831 | $5.73 | [Form 4](https://www.sec.gov/Archives/edgar/data/818972/000151028126000374/0001510281-26-000374-index.htm) |
-| **RAPP** Rapport Therapeutics, Inc. | MARAGANORE JOHN | Director | $248.9K | 9,411 | $26.45 | [Form 4](https://www.sec.gov/Archives/edgar/data/1180432/000119312526429071/0001193125-26-429071-index.htm) |
-| **API** Agora, Inc. | Zhao Bin | Chief Executive Officer, Director | $168.3K | 38,267 | $4.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/1802883/000119312526429245/0001193125-26-429245-index.htm) |
-| **DSM** BNY MELLON STRATEGIC MUNICIPAL BOND FUND, INC. | Saba Capital Management, L.P. | 10% Owner | $109.5K | 20,575 | $5.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/855887/000151028126000372/0001510281-26-000372-index.htm) |
-| **RAPP** Rapport Therapeutics, Inc. | Young Wendy B. | Director | $100.0K | 3,789 | $26.39 | [Form 4](https://www.sec.gov/Archives/edgar/data/2012593/000119312526429074/0001193125-26-429074-index.htm) |
-
-## Biggest insider sales · filed 2026-10-22
+## Biggest insider buys · filed 2026-10-23
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **IHT** INNSUITES HOSPITALITY TRUST | WIRTH JAMES F | President & CEO, 10% Owner | $2.0B | 43,111 | $46,654.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/82473/000149315226048149/0001493152-26-048149-index.htm) |
-| **BRZE** Braze, Inc. | Hyman Jonathan | Chief Technology Officer | $13.2M | 295,000 | $44.81 | [Form 4](https://www.sec.gov/Archives/edgar/data/1676238/000188893526000028/0001888935-26-000028-index.htm) |
-| **LIND** LINDBLAD EXPEDITIONS HOLDINGS, INC. | Lindblad Sven-Olof | Director, 10% Owner | $8.6M | 240,989 | $35.85 | [Form 4](https://www.sec.gov/Archives/edgar/data/1512499/000089706926001865/0000897069-26-001865-index.htm) |
-| **ANET** Arista Networks, Inc. | Duda Kenneth | President and CTO, Director | $7.8M | 43,333 | $180.91 | [Form 4](https://www.sec.gov/Archives/edgar/data/1596532/000159653226000248/0001596532-26-000248-index.htm) |
-| **ROIV** Roivant Sciences Ltd. | Venker Eric | President & Immunovant CEO | $7.0M | 200,000 | $35.11 | [Form 4](https://www.sec.gov/Archives/edgar/data/1635088/000163508826000116/0001635088-26-000116-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $7.7M | 217,182 | $35.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526430508/0001193125-26-430508-index.htm) |
+| Blackstone Private Real Estate Credit & Income Fund | Blackstone Private Multi-Asset Credit & Income Fund, Blackstone Private Credit Strategies LLC, Blackstone Intermediary Holdco L.L.C., BLACKSTONE SECURITIES PARTNERS L.P., Blackstone Advisory Services L.L.C., Blackstone Private Real Estate Credit & Income Fund (Offshore Strategic Feeder Fund) L.P., BREC Offshore Feeder GP, L.L.C. | 10% Owner | $2.7M | 104,054 | $26.20 | [Form 4](https://www.sec.gov/Archives/edgar/data/792326/000121390026112120/0001213900-26-112120-index.htm) |
+| Blackstone Private Real Estate Credit & Income Fund | Blackstone Holdings IV L.P., Blackstone Holdings IV GP L.P., Blackstone Holdings IV GP Management (Delaware) L.P., Blackstone Holdings IV GP Management L.L.C., Blackstone Holdings I L.P., Blackstone Holdings I/II GP L.L.C., Blackstone Inc., Blackstone Group Management L.L.C., SCHWARZMAN STEPHEN A | 10% Owner | $2.7M | 104,054 | $26.20 | [Form 4](https://www.sec.gov/Archives/edgar/data/1404071/000121390026112119/0001213900-26-112119-index.htm) |
+| **RENT** Rent the Runway, Inc. | Nexus Capital Management LP, Gateway Runway, LLC, Gateway Runway Intermediate Holdings, Inc., NEXUS SPECIAL SITUATIONS III, L.P., NEXUS SPECIAL SITUATIONS III (CAYMAN), L.P., Nexus Special Situations GP III, LP, Nexus Partners III, LLC, Cohen Michael S, Flesh Daniel E., Giangiacomo Damian | Director, 10% Owner | $2.2M | 632,922 | $3.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/1372171/000101297526000981/0001012975-26-000981-index.htm) |
+| **RENT** Rent the Runway, Inc. | STORY3 Capital Partners, LLC, S3 RR Aggregator, LLC, Rising Sons Capital, LLC, Comisar Peter Harley | Director, 10% Owner | $2.2M | 632,922 | $3.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/2093762/000101297526000982/0001012975-26-000982-index.htm) |
+| **RENT** Rent the Runway, Inc. | CHS US Investments LLC, CHS GP LP, CHS UGP LLC, CHS Platform Holdings Pte. Ltd., APS US Management LLC | 10% Owner | $1.6M | 458,245 | $3.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/2094392/000101297526000980/0001012975-26-000980-index.htm) |
+| **NXG** NXG NextGen Infrastructure Income Fund | Swank Jerry V | See Remarks | $439.5K | 10,000 | $43.95 | [Form 4](https://www.sec.gov/Archives/edgar/data/1506488/000135471926000001/0001354719-26-000001-index.htm) |
+| **CRAFX** Cascade Real Assets Fund | Worley Matthew Eugene | Director | $431.2K | 41,910 | $10.29 | [Form 4](https://www.sec.gov/Archives/edgar/data/2114459/000121390026111971/0001213900-26-111971-index.htm) |
+| **SAMG** Silvercrest Asset Management Group Inc. | Equinox Partners Investment Management LLC, EQUINOX PARTNERS LP | 10% Owner | $352.7K | 34,126 | $10.33 | [Form 4](https://www.sec.gov/Archives/edgar/data/933897/000101359426001082/0001013594-26-001082-index.htm) |
+| **[NONE]** VISTA CREDIT STRATEGIC LENDING CORP. | GALLIGAN GREGORY T | CEO and President, Director | $100.0K | 5,144 | $19.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/1973908/000119312526429845/0001193125-26-429845-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-22.md`](data/insider/2026/10/2026-10-22.md)
+## Biggest insider sales · filed 2026-10-23
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **TRV** TRAVELERS COMPANIES, INC. | Schnitzer Alan D | Chairman and CEO, Director | $35.3M | 88,900 | $396.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/1397350/000008631226000190/0000086312-26-000190-index.htm) |
+| **SNOW** Snowflake Inc. | Dageville Benoit | Director | $16.1M | 50,000 | $321.74 | [Form 4](https://www.sec.gov/Archives/edgar/data/1821737/000182173726000017/0001821737-26-000017-index.htm) |
+| **TRV** TRAVELERS COMPANIES, INC. | Toczydlowski Gregory C | EVP & President, Business Ins. | $14.0M | 34,771 | $403.89 | [Form 4](https://www.sec.gov/Archives/edgar/data/86312/000008631226000189/0000086312-26-000189-index.htm) |
+| **INNV** InnovAge Holding Corp. | IGNITE AGGREGATOR LP, APAX X (GUERNSEY) USD AIV LP, IGNITE GP INC., Apax X EUR L.P., Apax X USD L.P., Apax X GP Co. Ltd | 10% Owner | $13.9M | 1,500,000 | $9.25 | [Form 4](https://www.sec.gov/Archives/edgar/data/1848852/000119312526430420/0001193125-26-430420-index.htm) |
+| **INNV** InnovAge Holding Corp. | TCO GROUP HOLDINGS, L.P. | 10% Owner | $13.9M | 1,500,000 | $9.25 | [Form 4](https://www.sec.gov/Archives/edgar/data/1834376/000119312526430414/0001193125-26-430414-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-23.md`](data/insider/2026/10/2026-10-23.md)
 
 ## Latest weekly recap
 
-[2026-W42](data/weekly/2026-W42.md)
+[2026-W43](data/weekly/2026-W43.md)
 
 ## How it works
 
