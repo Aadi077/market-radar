@@ -1,0 +1,1827 @@
+{
+ "filing_date": "2026-10-26",
+ "form4_count": 288,
+ "trades": [
+  {
+   "type": "buy",
+   "issuer": "GROUP 1 AUTOMOTIVE INC",
+   "ticker": "GPI",
+   "insiders": [
+    "Conifer Management, L.L.C."
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 100000,
+   "avg_price": 242.32,
+   "value": 24232209,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-26"
+   ],
+   "accession": "0000905148-26-004561",
+   "url": "https://www.sec.gov/Archives/edgar/data/1773994/000090514826004561/0000905148-26-004561-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "INTUITIVE SURGICAL INC",
+   "ticker": "ISRG",
+   "insiders": [
+    "GUTHART GARY S"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 20095,
+   "avg_price": 451.61,
+   "value": 9075137,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001280628-26-000016",
+   "url": "https://www.sec.gov/Archives/edgar/data/1280628/000128062826000016/0001280628-26-000016-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Corebridge Financial, Inc.",
+   "ticker": "CRBG",
+   "insiders": [
+    "NIPPON LIFE INSURANCE CO"
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 246440,
+   "avg_price": 35.15,
+   "value": 8662933,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001193125-26-432280",
+   "url": "https://www.sec.gov/Archives/edgar/data/1889539/000119312526432280/0001193125-26-432280-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "CHARLES RIVER LABORATORIES INTERNATIONAL, INC.",
+   "ticker": "CRL",
+   "insiders": [
+    "FOSTER JAMES C"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 24042,
+   "avg_price": 350.0,
+   "value": 8414700,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001100682-26-000153",
+   "url": "https://www.sec.gov/Archives/edgar/data/1100682/000110068226000153/0001100682-26-000153-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "LAM RESEARCH CORP",
+   "ticker": "LRCX",
+   "insiders": [
+    "ARCHER TIMOTHY"
+   ],
+   "roles": [
+    "President and CEO"
+   ],
+   "shares": 31400,
+   "avg_price": 227.02,
+   "value": 7128428,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001343600-26-000015",
+   "url": "https://www.sec.gov/Archives/edgar/data/1343600/000134360026000015/0001343600-26-000015-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "PROCTER & GAMBLE Co",
+   "ticker": "PG",
+   "insiders": [
+    "Jejurikar Shailesh"
+   ],
+   "roles": [
+    "Chairman, President and CEO",
+    "Director"
+   ],
+   "shares": 35000,
+   "avg_price": 163.09,
+   "value": 5708048,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000080424-26-000263",
+   "url": "https://www.sec.gov/Archives/edgar/data/1746310/000008042426000263/0000080424-26-000263-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "UNITED THERAPEUTICS Corp",
+   "ticker": "UTHR",
+   "insiders": [
+    "ROTHBLATT MARTINE A"
+   ],
+   "roles": [
+    "Chairperson & CEO",
+    "Director"
+   ],
+   "shares": 9500,
+   "avg_price": 582.76,
+   "value": 5536235,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001106578-26-000171",
+   "url": "https://www.sec.gov/Archives/edgar/data/1106578/000110657826000171/0001106578-26-000171-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "PACS Group, Inc.",
+   "ticker": "PACS",
+   "insiders": [
+    "Murray Jason Hulse"
+   ],
+   "roles": [
+    "Co-Founder, CEO & Chairman",
+    "Director",
+    "10% Owner"
+   ],
+   "shares": 82613,
+   "avg_price": 48.42,
+   "value": 4000387,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23"
+   ],
+   "accession": "0002014386-26-000024",
+   "url": "https://www.sec.gov/Archives/edgar/data/2014386/000201438626000024/0002014386-26-000024-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Paylocity Holding Corp",
+   "ticker": "PCTY",
+   "insiders": [
+    "Sarowitz Steven I"
+   ],
+   "roles": [
+    "Director",
+    "10% Owner"
+   ],
+   "shares": 20926,
+   "avg_price": 176.76,
+   "value": 3698801,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23"
+   ],
+   "accession": "0001597870-26-000023",
+   "url": "https://www.sec.gov/Archives/edgar/data/1591698/000159787026000023/0001597870-26-000023-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "HERSHEY CO",
+   "ticker": "HSY",
+   "insiders": [
+    "HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL"
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 20000,
+   "avg_price": 172.46,
+   "value": 3449176,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23"
+   ],
+   "accession": "0000950142-26-002851",
+   "url": "https://www.sec.gov/Archives/edgar/data/47111/000095014226002851/0000950142-26-002851-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Maplebear Inc.",
+   "ticker": "CART",
+   "insiders": [
+    "Reuter Emily"
+   ],
+   "roles": [
+    "CHIEF FINANCIAL OFFICER"
+   ],
+   "shares": 50000,
+   "avg_price": 55.0,
+   "value": 2750000,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0002022050-26-000011",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579091/000202205026000011/0002022050-26-000011-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "GLOBE LIFE INC.",
+   "ticker": "GL",
+   "insiders": [
+    "MAJORS MICHAEL CLAY"
+   ],
+   "roles": [
+    "EVP - Chief Strategy Officer"
+   ],
+   "shares": 14377,
+   "avg_price": 154.48,
+   "value": 2220900,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000320335-26-000226",
+   "url": "https://www.sec.gov/Archives/edgar/data/320335/000032033526000226/0000320335-26-000226-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Bluerock Private Real Estate Fund",
+   "ticker": "BPRE",
+   "insiders": [
+    "KAMFAR RAMIN"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 170320,
+   "avg_price": 12.48,
+   "value": 2126091,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23"
+   ],
+   "accession": "0001398344-26-018736",
+   "url": "https://www.sec.gov/Archives/edgar/data/1551047/000139834426018736/0001398344-26-018736-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "INTUITIVE SURGICAL INC",
+   "ticker": "ISRG",
+   "insiders": [
+    "Widman Fredrik"
+   ],
+   "roles": [
+    "VP Corporate Controller"
+   ],
+   "shares": 4047,
+   "avg_price": 453.21,
+   "value": 1834124,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001897970-26-000010",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035267/000189797026000010/0001897970-26-000010-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "MSCI Inc.",
+   "ticker": "MSCI",
+   "insiders": [
+    "Gutowski Robert J."
+   ],
+   "roles": [
+    "General Counsel"
+   ],
+   "shares": 2381,
+   "avg_price": 623.66,
+   "value": 1484934,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001797266-26-000008",
+   "url": "https://www.sec.gov/Archives/edgar/data/1797266/000179726626000008/0001797266-26-000008-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Maplebear Inc.",
+   "ticker": "CART",
+   "insiders": [
+    "Rogers Chris"
+   ],
+   "roles": [
+    "President and CEO",
+    "Director"
+   ],
+   "shares": 24060,
+   "avg_price": 55.04,
+   "value": 1324226,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0002082930-26-000018",
+   "url": "https://www.sec.gov/Archives/edgar/data/1579091/000208293026000018/0002082930-26-000018-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Heartflow, Inc.",
+   "ticker": "HTFL",
+   "insiders": [
+    "Rogers Campbell"
+   ],
+   "roles": [
+    "Chief Medical Officer"
+   ],
+   "shares": 23933,
+   "avg_price": 55.01,
+   "value": 1316554,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001464521-26-000156",
+   "url": "https://www.sec.gov/Archives/edgar/data/1464521/000146452126000156/0001464521-26-000156-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "PROTHENA CORP PUBLIC LTD CO",
+   "ticker": "PRTA",
+   "insiders": [
+    "SCULLY WILLIAM P"
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 150000,
+   "avg_price": 8.15,
+   "value": 1222045,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23"
+   ],
+   "accession": "0001045463-26-000022",
+   "url": "https://www.sec.gov/Archives/edgar/data/1559053/000104546326000022/0001045463-26-000022-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Optimum Communications, Inc.",
+   "ticker": "OPTU",
+   "insiders": [
+    "SUBIN NEIL S",
+    "MILFAM LLC",
+    "MILFAM GP, LLC",
+    "Dark Mirage, LP"
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 2228007,
+   "avg_price": 0.52,
+   "value": 1163551,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23"
+   ],
+   "accession": "0001213900-26-112593",
+   "url": "https://www.sec.gov/Archives/edgar/data/2023628/000121390026112593/0001213900-26-112593-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Maplebear Inc.",
+   "ticker": "CART",
+   "insiders": [
+    "Fong Morgan"
+   ],
+   "roles": [
+    "Chief Legal Officer"
+   ],
+   "shares": 18390,
+   "avg_price": 51.0,
+   "value": 937934,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001990106-26-000026",
+   "url": "https://www.sec.gov/Archives/edgar/data/1990106/000199010626000026/0001990106-26-000026-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Dell Technologies Inc.",
+   "ticker": "DELL",
+   "insiders": [
+    "Radakovich Lynn Vojvodich"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 2022,
+   "avg_price": 460.0,
+   "value": 930120,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001662205-26-000021",
+   "url": "https://www.sec.gov/Archives/edgar/data/1571996/000166220526000021/0001662205-26-000021-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Adaptive Biotechnologies Corp",
+   "ticker": "ADPT",
+   "insiders": [
+    "RUBINSTEIN JULIE"
+   ],
+   "roles": [
+    "President and COO"
+   ],
+   "shares": 35643,
+   "avg_price": 25.18,
+   "value": 897457,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-26"
+   ],
+   "accession": "0001780664-26-000045",
+   "url": "https://www.sec.gov/Archives/edgar/data/1478320/000178066426000045/0001780664-26-000045-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Korro Bio, Inc.",
+   "ticker": "KRRO",
+   "insiders": [
+    "Lynx1 Capital Management LP",
+    "Nichols Weston"
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 79809,
+   "avg_price": 11.09,
+   "value": 884752,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-26"
+   ],
+   "accession": "0000902664-26-004286",
+   "url": "https://www.sec.gov/Archives/edgar/data/1703647/000090266426004286/0000902664-26-004286-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "MARSH & MCLENNAN COMPANIES, INC.",
+   "ticker": "MRSH",
+   "insiders": [
+    "Klisura Dean Michael"
+   ],
+   "roles": [
+    "President & CEO, Marsh RE"
+   ],
+   "shares": 4194,
+   "avg_price": 200.0,
+   "value": 838800,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000062709-26-000264",
+   "url": "https://www.sec.gov/Archives/edgar/data/1901304/000006270926000264/0000062709-26-000264-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Blackstone Multi-Strategy Hedge Fund L.P.",
+   "ticker": "",
+   "insiders": [
+    "Abrahams Riad M"
+   ],
+   "roles": [
+    "Chief Executive Officer",
+    "Director"
+   ],
+   "shares": 31213,
+   "avg_price": 25.47,
+   "value": 795000,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001193125-26-432266",
+   "url": "https://www.sec.gov/Archives/edgar/data/1370104/000119312526432266/0001193125-26-432266-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "PROCTER & GAMBLE Co",
+   "ticker": "PG",
+   "insiders": [
+    "Gama Paul"
+   ],
+   "roles": [
+    "CEO- Health Care"
+   ],
+   "shares": 4331,
+   "avg_price": 161.27,
+   "value": 698460,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000080424-26-000260",
+   "url": "https://www.sec.gov/Archives/edgar/data/2110932/000008042426000260/0000080424-26-000260-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "PROCTER & GAMBLE Co",
+   "ticker": "PG",
+   "insiders": [
+    "Purushothaman Balaji"
+   ],
+   "roles": [
+    "Chief Human Resources Officer"
+   ],
+   "shares": 4181,
+   "avg_price": 160.71,
+   "value": 671929,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000080424-26-000261",
+   "url": "https://www.sec.gov/Archives/edgar/data/80424/000008042426000261/0000080424-26-000261-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "AvePoint, Inc.",
+   "ticker": "AVPT",
+   "insiders": [
+    "Brown Brian Michael"
+   ],
+   "roles": [
+    "Chief Legal Officer",
+    "Director"
+   ],
+   "shares": 35000,
+   "avg_price": 16.42,
+   "value": 574700,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001437749-26-033535",
+   "url": "https://www.sec.gov/Archives/edgar/data/1777921/000143774926033535/0001437749-26-033535-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "PagSeguro Digital Ltd.",
+   "ticker": "PAGS",
+   "insiders": [
+    "Magnani Alexandre Mr"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 50000,
+   "avg_price": 11.37,
+   "value": 568521,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23"
+   ],
+   "accession": "0001554855-26-002194",
+   "url": "https://www.sec.gov/Archives/edgar/data/2120783/000155485526002194/0001554855-26-002194-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Gentherm Inc",
+   "ticker": "THRM",
+   "insiders": [
+    "MASCARENAS PAUL ANTHONY"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 20000,
+   "avg_price": 26.63,
+   "value": 532600,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001193125-26-432218",
+   "url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526432218/0001193125-26-432218-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "INTUITIVE SURGICAL INC",
+   "ticker": "ISRG",
+   "insiders": [
+    "BARRATT CRAIG H"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 1150,
+   "avg_price": 443.8,
+   "value": 510370,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001277620-26-000009",
+   "url": "https://www.sec.gov/Archives/edgar/data/1277620/000127762026000009/0001277620-26-000009-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "CitroTech Inc.",
+   "ticker": "CITR",
+   "insiders": [
+    "HUFF CRAIG A",
+    "BoltRock Holdings LLC"
+   ],
+   "roles": [
+    "Director",
+    "10% Owner"
+   ],
+   "shares": 200000,
+   "avg_price": 2.5,
+   "value": 500000,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001193125-26-432001",
+   "url": "https://www.sec.gov/Archives/edgar/data/2061007/000119312526432001/0001193125-26-432001-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "INTUITIVE SURGICAL INC",
+   "ticker": "ISRG",
+   "insiders": [
+    "WADORS PATRICIA L"
+   ],
+   "roles": [
+    "SVP Chief Human Resources Offi"
+   ],
+   "shares": 1078,
+   "avg_price": 443.8,
+   "value": 478416,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001274559-26-000007",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035267/000127455926000007/0001274559-26-000007-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "CHECK POINT SOFTWARE TECHNOLOGIES LTD",
+   "ticker": "CHKP",
+   "insiders": [
+    "Kremer Nataly"
+   ],
+   "roles": [
+    "Chief Product Officer"
+   ],
+   "shares": 3185,
+   "avg_price": 150.08,
+   "value": 478005,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001178913-26-004848",
+   "url": "https://www.sec.gov/Archives/edgar/data/1015922/000117891326004848/0001178913-26-004848-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "MIAMI INTERNATIONAL HOLDINGS, INC.",
+   "ticker": "MIAX",
+   "insiders": [
+    "Comly Barbara J."
+   ],
+   "roles": [
+    "EVP, GC & Corporate Secretary"
+   ],
+   "shares": 12306,
+   "avg_price": 35.04,
+   "value": 431202,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0002080878-26-000018",
+   "url": "https://www.sec.gov/Archives/edgar/data/2080878/000208087826000018/0002080878-26-000018-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "UiPath, Inc.",
+   "ticker": "PATH",
+   "insiders": [
+    "Malpani Raghavendra"
+   ],
+   "roles": [
+    "CPO & CTO"
+   ],
+   "shares": 29565,
+   "avg_price": 14.0,
+   "value": 413963,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0002127293-26-000013",
+   "url": "https://www.sec.gov/Archives/edgar/data/2127293/000212729326000013/0002127293-26-000013-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "BNY MELLON STRATEGIC MUNICIPALS, INC.",
+   "ticker": "LEO",
+   "insiders": [
+    "Saba Capital Management, L.P."
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 65000,
+   "avg_price": 5.68,
+   "value": 369200,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001510281-26-000377",
+   "url": "https://www.sec.gov/Archives/edgar/data/818972/000151028126000377/0001510281-26-000377-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "SELECTIVE INSURANCE GROUP INC",
+   "ticker": "SIGI",
+   "insiders": [
+    "Nicholson Cynthia S"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 3691,
+   "avg_price": 98.71,
+   "value": 364342,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001225208-26-008499",
+   "url": "https://www.sec.gov/Archives/edgar/data/1470648/000122520826008499/0001225208-26-008499-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Seagate Technology Holdings plc",
+   "ticker": "STX",
+   "insiders": [
+    "Lee James CI"
+   ],
+   "roles": [
+    "EVP & CLO"
+   ],
+   "shares": 547,
+   "avg_price": 642.14,
+   "value": 351411,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001137789-26-000265",
+   "url": "https://www.sec.gov/Archives/edgar/data/1773423/000113778926000265/0001137789-26-000265-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "EASTGROUP PROPERTIES INC",
+   "ticker": "EGP",
+   "insiders": [
+    "Tyler Staci H."
+   ],
+   "roles": [
+    "Executive Vice President, CFO"
+   ],
+   "shares": 1600,
+   "avg_price": 201.69,
+   "value": 322704,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001628280-26-067278",
+   "url": "https://www.sec.gov/Archives/edgar/data/49600/000162828026067278/0001628280-26-067278-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Atlantic Union Bankshares Corp",
+   "ticker": "AUB",
+   "insiders": [
+    "Linderman Matthew L."
+   ],
+   "roles": [
+    "EVP"
+   ],
+   "shares": 7746,
+   "avg_price": 40.0,
+   "value": 309840,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001966032-26-000006",
+   "url": "https://www.sec.gov/Archives/edgar/data/883948/000196603226000006/0001966032-26-000006-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "MIAMI INTERNATIONAL HOLDINGS, INC.",
+   "ticker": "MIAX",
+   "insiders": [
+    "Schafer Douglas M. JR"
+   ],
+   "roles": [
+    "EVP and CIO"
+   ],
+   "shares": 8000,
+   "avg_price": 35.06,
+   "value": 280480,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0002079445-26-000019",
+   "url": "https://www.sec.gov/Archives/edgar/data/1438472/000207944526000019/0002079445-26-000019-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "PROGRESSIVE CORP/OH/",
+   "ticker": "PGR",
+   "insiders": [
+    "Broz Steven"
+   ],
+   "roles": [
+    "Chief Information Officer"
+   ],
+   "shares": 1225,
+   "avg_price": 223.32,
+   "value": 273567,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0000080661-26-000369",
+   "url": "https://www.sec.gov/Archives/edgar/data/1665574/000008066126000369/0000080661-26-000369-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Alpha Cognition Inc.",
+   "ticker": "ACOG",
+   "insiders": [
+    "Opaleye Management Inc."
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 32090,
+   "avg_price": 8.28,
+   "value": 265820,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23"
+   ],
+   "accession": "0001493152-26-048562",
+   "url": "https://www.sec.gov/Archives/edgar/data/1655923/000149315226048562/0001493152-26-048562-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "MARSH & MCLENNAN COMPANIES, INC.",
+   "ticker": "MRSH",
+   "insiders": [
+    "Mills Stacy"
+   ],
+   "roles": [
+    "Vice President and Controller"
+   ],
+   "shares": 1215,
+   "avg_price": 200.0,
+   "value": 243000,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000062709-26-000263",
+   "url": "https://www.sec.gov/Archives/edgar/data/62709/000006270926000263/0000062709-26-000263-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Vinci Compass Investments Ltd.",
+   "ticker": "VINP",
+   "insiders": [
+    "Zaremba Bruno Augusto Sacchi"
+   ],
+   "roles": [
+    "Pres. of Finance & Operations"
+   ],
+   "shares": 19815,
+   "avg_price": 11.43,
+   "value": 226485,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000950103-26-016182",
+   "url": "https://www.sec.gov/Archives/edgar/data/1826286/000095010326016182/0000950103-26-016182-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Guidewire Software, Inc.",
+   "ticker": "GWRE",
+   "insiders": [
+    "Rosenbaum Michael George"
+   ],
+   "roles": [
+    "Chief Executive Officer",
+    "Director"
+   ],
+   "shares": 1200,
+   "avg_price": 187.19,
+   "value": 224628,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001784996-26-000105",
+   "url": "https://www.sec.gov/Archives/edgar/data/1528396/000178499626000105/0001784996-26-000105-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "GOLDMAN SACHS GROUP INC",
+   "ticker": "GS",
+   "insiders": [
+    "LESLIE ERICKA T"
+   ],
+   "roles": [
+    "Chief Administrative Officer"
+   ],
+   "shares": 250,
+   "avg_price": 890.25,
+   "value": 222562,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001910388-26-000012",
+   "url": "https://www.sec.gov/Archives/edgar/data/886982/000191038826000012/0001910388-26-000012-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "FIRST INTERSTATE BANCSYSTEM INC",
+   "ticker": "FIBK",
+   "insiders": [
+    "Scott Jonathan R",
+    "Jonathan Scott as Trustee of the Jonathan R Scott Trust Dated as of 4/21/04",
+    "Harrison William Scott Trust",
+    "Harper Grace Scott Trust",
+    "Holland Elizabeth Scott Trust",
+    "IXL Ltd Liability Co"
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 5000,
+   "avg_price": 37.26,
+   "value": 186294,
+   "transaction_dates": [
+    "2026-10-23",
+    "2026-10-26"
+   ],
+   "accession": "0001493152-26-048502",
+   "url": "https://www.sec.gov/Archives/edgar/data/860413/000149315226048502/0001493152-26-048502-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "SMARTFINANCIAL INC.",
+   "ticker": "SMBK",
+   "insiders": [
+    "Tucker Steven B."
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 3500,
+   "avg_price": 49.5,
+   "value": 173250,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001721614-26-000004",
+   "url": "https://www.sec.gov/Archives/edgar/data/1038773/000172161426000004/0001721614-26-000004-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "CoastalSouth Bancshares, Inc.",
+   "ticker": "COSO",
+   "insiders": [
+    "Bruderer Ernst W."
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 6000,
+   "avg_price": 27.92,
+   "value": 167495,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001193125-26-431207",
+   "url": "https://www.sec.gov/Archives/edgar/data/2067397/000119312526431207/0001193125-26-431207-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Grace Therapeutics, Inc.",
+   "ticker": "GRCE",
+   "insiders": [
+    "Opaleye Management Inc."
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 87801,
+   "avg_price": 1.81,
+   "value": 158601,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-26"
+   ],
+   "accession": "0001493152-26-048591",
+   "url": "https://www.sec.gov/Archives/edgar/data/1444192/000149315226048591/0001493152-26-048591-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Vinci Compass Investments Ltd.",
+   "ticker": "VINP",
+   "insiders": [
+    "Lovisotto Fernando"
+   ],
+   "roles": [
+    "Head of Global IP&S"
+   ],
+   "shares": 13452,
+   "avg_price": 11.41,
+   "value": 153487,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000950103-26-016181",
+   "url": "https://www.sec.gov/Archives/edgar/data/2028299/000095010326016181/0000950103-26-016181-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Gentherm Inc",
+   "ticker": "THRM",
+   "insiders": [
+    "Presley William T."
+   ],
+   "roles": [
+    "President & CEO",
+    "Director"
+   ],
+   "shares": 5000,
+   "avg_price": 26.0,
+   "value": 130000,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001193125-26-432207",
+   "url": "https://www.sec.gov/Archives/edgar/data/903129/000119312526432207/0001193125-26-432207-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Nebius Group N.V.",
+   "ticker": "NBIS",
+   "insiders": [
+    "Grimme Arne"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 770,
+   "avg_price": 159.01,
+   "value": 122438,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-26"
+   ],
+   "accession": "0001513845-26-000141",
+   "url": "https://www.sec.gov/Archives/edgar/data/2091395/000151384526000141/0001513845-26-000141-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Orion180 Insurance Group Inc.",
+   "ticker": "OIG",
+   "insiders": [
+    "Darling Craig",
+    "Darling Strategic Investments LLC"
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 10990,
+   "avg_price": 10.54,
+   "value": 115797,
+   "transaction_dates": [
+    "2026-09-18",
+    "2026-09-21",
+    "2026-09-22",
+    "2026-09-23",
+    "2026-10-06"
+   ],
+   "accession": "0001493152-26-048577",
+   "url": "https://www.sec.gov/Archives/edgar/data/2160763/000149315226048577/0001493152-26-048577-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Beacon Financial Corp",
+   "ticker": "BBT",
+   "insiders": [
+    "Hollister Thomas J"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 3450,
+   "avg_price": 30.43,
+   "value": 104984,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001628280-26-067255",
+   "url": "https://www.sec.gov/Archives/edgar/data/1108134/000162828026067255/0001628280-26-067255-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "BKV Corp",
+   "ticker": "BKV",
+   "insiders": [
+    "Hinojosa Javier"
+   ],
+   "roles": [
+    "Senior Vice President of Power"
+   ],
+   "shares": 4952,
+   "avg_price": 20.91,
+   "value": 103549,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001628280-26-067365",
+   "url": "https://www.sec.gov/Archives/edgar/data/1838406/000162828026067365/0001628280-26-067365-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "RESMED INC",
+   "ticker": "RMD",
+   "insiders": [
+    "Rider Michael J"
+   ],
+   "roles": [
+    "Global General Counsel"
+   ],
+   "shares": 400,
+   "avg_price": 255.0,
+   "value": 102000,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000943819-26-000086",
+   "url": "https://www.sec.gov/Archives/edgar/data/943819/000094381926000086/0000943819-26-000086-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "STEWART INFORMATION SERVICES CORP",
+   "ticker": "STC",
+   "insiders": [
+    "Apel Thomas G"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 2000,
+   "avg_price": 47.73,
+   "value": 95470,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001628280-26-067363",
+   "url": "https://www.sec.gov/Archives/edgar/data/1356389/000162828026067363/0001628280-26-067363-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "STEWART INFORMATION SERVICES CORP",
+   "ticker": "STC",
+   "insiders": [
+    "BRADLEY C ALLEN JR"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 2000,
+   "avg_price": 47.3,
+   "value": 94600,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001628280-26-067360",
+   "url": "https://www.sec.gov/Archives/edgar/data/1341775/000162828026067360/0001628280-26-067360-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "STEWART INFORMATION SERVICES CORP",
+   "ticker": "STC",
+   "insiders": [
+    "Corey William S. Jr."
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 2000,
+   "avg_price": 46.82,
+   "value": 93640,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001628280-26-067362",
+   "url": "https://www.sec.gov/Archives/edgar/data/1815639/000162828026067362/0001628280-26-067362-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "MERCURY SYSTEMS INC",
+   "ticker": "MRCY",
+   "insiders": [
+    "KUPINSKY STUART"
+   ],
+   "roles": [
+    "EVP, CLO & Corp Sec"
+   ],
+   "shares": 1000,
+   "avg_price": 76.0,
+   "value": 76000,
+   "transaction_dates": [
+    "2026-10-21"
+   ],
+   "accession": "0001049521-26-000085",
+   "url": "https://www.sec.gov/Archives/edgar/data/1289593/000104952126000085/0001049521-26-000085-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "AMERICAN PUBLIC EDUCATION INC",
+   "ticker": "APEI",
+   "insiders": [
+    "Kenigsberg James"
+   ],
+   "roles": [
+    "Chief Innov. & Tech Officer"
+   ],
+   "shares": 1256,
+   "avg_price": 47.69,
+   "value": 59899,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001123292-26-001425",
+   "url": "https://www.sec.gov/Archives/edgar/data/1201792/000112329226001425/0001123292-26-001425-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Boundless Bio, Inc.",
+   "ticker": "BOLD",
+   "insiders": [
+    "TANG KEVIN",
+    "TANG CAPITAL MANAGEMENT LLC"
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 21640,
+   "avg_price": 2.39,
+   "value": 51619,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23",
+    "2026-10-26"
+   ],
+   "accession": "0001178579-26-000020",
+   "url": "https://www.sec.gov/Archives/edgar/data/1782303/000117857926000020/0001178579-26-000020-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "UNITED COMMUNITY BANKS INC",
+   "ticker": "UCB",
+   "insiders": [
+    "BRADSHAW RICHARD"
+   ],
+   "roles": [
+    "EVP, Chief Banking Officer"
+   ],
+   "shares": 1345,
+   "avg_price": 37.17,
+   "value": 49993,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001608560-26-000014",
+   "url": "https://www.sec.gov/Archives/edgar/data/1608560/000160856026000014/0001608560-26-000014-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "ICON PLC",
+   "ticker": "ICLR",
+   "insiders": [
+    "Lyons Emer"
+   ],
+   "roles": [
+    "Chief Accounting Officer"
+   ],
+   "shares": 272,
+   "avg_price": 182.37,
+   "value": 49604,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001628280-26-067128",
+   "url": "https://www.sec.gov/Archives/edgar/data/1060955/000162828026067128/0001628280-26-067128-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "BYLINE BANCORP, INC.",
+   "ticker": "BY",
+   "insiders": [
+    "Stewart Pamela C"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 1160,
+   "avg_price": 38.61,
+   "value": 44785,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001978033-26-000002",
+   "url": "https://www.sec.gov/Archives/edgar/data/1702750/000197803326000002/0001978033-26-000002-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Penguin Solutions, Inc.",
+   "ticker": "PENG",
+   "insiders": [
+    "Clark Joseph Gates"
+   ],
+   "roles": [
+    "SVP and Pres, Optimized LED"
+   ],
+   "shares": 869,
+   "avg_price": 51.52,
+   "value": 44771,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001944970-26-000031",
+   "url": "https://www.sec.gov/Archives/edgar/data/1944970/000194497026000031/0001944970-26-000031-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Third Coast Bancshares, Inc.",
+   "ticker": "TCBX",
+   "insiders": [
+    "Bobbora William"
+   ],
+   "roles": [
+    "See Remarks"
+   ],
+   "shares": 1000,
+   "avg_price": 40.34,
+   "value": 40340,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001193125-26-431998",
+   "url": "https://www.sec.gov/Archives/edgar/data/1966486/000119312526431998/0001193125-26-431998-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "InnovAge Holding Corp.",
+   "ticker": "INNV",
+   "insiders": [
+    "DAMATO NICOLE"
+   ],
+   "roles": [
+    "CHIEF LEGAL OFFICER"
+   ],
+   "shares": 3402,
+   "avg_price": 9.51,
+   "value": 32353,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001884895-26-000007",
+   "url": "https://www.sec.gov/Archives/edgar/data/1884895/000188489526000007/0001884895-26-000007-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Robinhood Ventures Fund II",
+   "ticker": "RVII",
+   "insiders": [
+    "Whitney Meredith"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 1500,
+   "avg_price": 17.75,
+   "value": 26625,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000950103-26-016189",
+   "url": "https://www.sec.gov/Archives/edgar/data/2131040/000095010326016189/0000950103-26-016189-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Anixa Biosciences Inc",
+   "ticker": "ANIX",
+   "insiders": [
+    "Titterton Lewis H jr"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 8000,
+   "avg_price": 2.98,
+   "value": 23840,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001493152-26-048520",
+   "url": "https://www.sec.gov/Archives/edgar/data/715446/000149315226048520/0001493152-26-048520-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Robinhood Ventures Fund I",
+   "ticker": "RVI",
+   "insiders": [
+    "Whitney Meredith"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 1000,
+   "avg_price": 23.49,
+   "value": 23490,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0000950103-26-016190",
+   "url": "https://www.sec.gov/Archives/edgar/data/2085091/000095010326016190/0000950103-26-016190-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "CAPITAL CITY BANK GROUP INC",
+   "ticker": "CCBG",
+   "insiders": [
+    "Butler William F"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 392,
+   "avg_price": 51.07,
+   "value": 20019,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001899058-26-000006",
+   "url": "https://www.sec.gov/Archives/edgar/data/1899058/000189905826000006/0001899058-26-000006-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Beacon Financial Corp",
+   "ticker": "BBT",
+   "insiders": [
+    "Eagan John Buckley"
+   ],
+   "roles": [
+    "General Counsel"
+   ],
+   "shares": 641,
+   "avg_price": 30.61,
+   "value": 19621,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001628280-26-067257",
+   "url": "https://www.sec.gov/Archives/edgar/data/1108134/000162828026067257/0001628280-26-067257-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "EXOZYMES INC.",
+   "ticker": "EXOZ",
+   "insiders": [
+    "Perriman Damien Alan"
+   ],
+   "roles": [
+    "Chief Commercial Officer"
+   ],
+   "shares": 3729,
+   "avg_price": 5.21,
+   "value": 19427,
+   "transaction_dates": [
+    "2026-10-12"
+   ],
+   "accession": "0001493152-26-048493",
+   "url": "https://www.sec.gov/Archives/edgar/data/2010788/000149315226048493/0001493152-26-048493-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "XAI Floating Rate & Alternative Income Trust",
+   "ticker": "XFLT",
+   "insiders": [
+    "Spence John Yogi"
+   ],
+   "roles": [
+    "Vice President"
+   ],
+   "shares": 1000,
+   "avg_price": 16.5,
+   "value": 16500,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001718133-26-000006",
+   "url": "https://www.sec.gov/Archives/edgar/data/1718133/000171813326000006/0001718133-26-000006-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Oak Valley Bancorp",
+   "ticker": "OVLY",
+   "insiders": [
+    "Barton Don"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 375,
+   "avg_price": 34.0,
+   "value": 12750,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001437749-26-033533",
+   "url": "https://www.sec.gov/Archives/edgar/data/1442259/000143774926033533/0001437749-26-033533-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Lite Strategy, Inc.",
+   "ticker": "LITS",
+   "insiders": [
+    "Glover Nicholas"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 2000,
+   "avg_price": 6.28,
+   "value": 12550,
+   "transaction_dates": [
+    "2025-07-22",
+    "2025-07-23"
+   ],
+   "accession": "0001193125-26-432220",
+   "url": "https://www.sec.gov/Archives/edgar/data/1578888/000119312526432220/0001193125-26-432220-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "U S GLOBAL INVESTORS INC",
+   "ticker": "GROW",
+   "insiders": [
+    "Gator Capital Management, LLC"
+   ],
+   "roles": [
+    "10% Owner"
+   ],
+   "shares": 4532,
+   "avg_price": 2.58,
+   "value": 11692,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001062993-26-005549",
+   "url": "https://www.sec.gov/Archives/edgar/data/1570284/000106299326005549/0001062993-26-005549-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "U S GLOBAL INVESTORS INC",
+   "ticker": "GROW",
+   "insiders": [
+    "Pilecki Derek Steven"
+   ],
+   "roles": [],
+   "shares": 4532,
+   "avg_price": 2.58,
+   "value": 11692,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001062993-26-005547",
+   "url": "https://www.sec.gov/Archives/edgar/data/2137707/000106299326005547/0001062993-26-005547-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "LSB INDUSTRIES, INC.",
+   "ticker": "LXU",
+   "insiders": [
+    "Ackerman Jonathan Z."
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 1000,
+   "avg_price": 10.17,
+   "value": 10170,
+   "transaction_dates": [
+    "2026-10-15"
+   ],
+   "accession": "0001193125-26-431955",
+   "url": "https://www.sec.gov/Archives/edgar/data/1580050/000119312526431955/0001193125-26-431955-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "SMARTFINANCIAL INC.",
+   "ticker": "SMBK",
+   "insiders": [
+    "Jordan Rhett D."
+   ],
+   "roles": [
+    "EVP & CHIEF CREDIT OFFICER"
+   ],
+   "shares": 200,
+   "avg_price": 49.8,
+   "value": 9960,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001652739-26-000014",
+   "url": "https://www.sec.gov/Archives/edgar/data/1652739/000165273926000014/0001652739-26-000014-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Valens Semiconductor Ltd.",
+   "ticker": "VLN",
+   "insiders": [
+    "Rozenberg Haine Yael"
+   ],
+   "roles": [
+    "VP Finance"
+   ],
+   "shares": 5875,
+   "avg_price": 1.53,
+   "value": 8982,
+   "transaction_dates": [
+    "2026-10-22",
+    "2026-10-23"
+   ],
+   "accession": "0001976408-26-000900",
+   "url": "https://www.sec.gov/Archives/edgar/data/1991398/000197640826000900/0001976408-26-000900-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "PEOPLES BANCORP OF NORTH CAROLINA INC",
+   "ticker": "PEBK",
+   "insiders": [
+    "PRICE BILLY L JR DR"
+   ],
+   "roles": [
+    "Director"
+   ],
+   "shares": 200,
+   "avg_price": 42.28,
+   "value": 8457,
+   "transaction_dates": [
+    "2026-10-21"
+   ],
+   "accession": "0001654954-26-009146",
+   "url": "https://www.sec.gov/Archives/edgar/data/1093672/000165495426009146/0001654954-26-009146-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Star Equity Holdings, Inc.",
+   "ticker": "STRR",
+   "insiders": [
+    "Eberwein Jeffrey E."
+   ],
+   "roles": [
+    "Chief Executive Officer",
+    "Director",
+    "10% Owner"
+   ],
+   "shares": 840,
+   "avg_price": 8.82,
+   "value": 7409,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001548312-26-000055",
+   "url": "https://www.sec.gov/Archives/edgar/data/1548312/000154831226000055/0001548312-26-000055-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Uxin Ltd",
+   "ticker": "UXIN",
+   "insiders": [
+    "Dai Kun"
+   ],
+   "roles": [
+    "Chief Executive Officer",
+    "Director"
+   ],
+   "shares": 6000,
+   "avg_price": 0.85,
+   "value": 5083,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001493152-26-048422",
+   "url": "https://www.sec.gov/Archives/edgar/data/1764279/000149315226048422/0001493152-26-048422-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "AIM ImmunoTech Inc.",
+   "ticker": "AIM",
+   "insiders": [
+    "Equels Thomas K"
+   ],
+   "roles": [
+    "CEO & President",
+    "Director"
+   ],
+   "shares": 31675,
+   "avg_price": 0.16,
+   "value": 5068,
+   "transaction_dates": [
+    "2026-10-23"
+   ],
+   "accession": "0001493152-26-048460",
+   "url": "https://www.sec.gov/Archives/edgar/data/946644/000149315226048460/0001493152-26-048460-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Dolphin Entertainment, Inc.",
+   "ticker": "DLPN",
+   "insiders": [
+    "O'Dowd William IV"
+   ],
+   "roles": [
+    "Chief Executive Officer",
+    "Director",
+    "10% Owner"
+   ],
+   "shares": 4900,
+   "avg_price": 1.0,
+   "value": 4895,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001079973-26-001402",
+   "url": "https://www.sec.gov/Archives/edgar/data/1282224/000107997326001402/0001079973-26-001402-index.htm"
+  },
+  {
+   "type": "sell",
+   "issuer": "Acrivon Therapeutics, Inc.",
+   "ticker": "ACRV",
+   "insiders": [
+    "Miller Mary"
+   ],
+   "roles": [
+    "Chief Legal Officer"
+   ],
+   "shares": 513,
+   "avg_price": 1.84,
+   "value": 944,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0000905148-26-004554",
+   "url": "https://www.sec.gov/Archives/edgar/data/1781174/000090514826004554/0000905148-26-004554-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "Phreesia, Inc.",
+   "ticker": "PHR",
+   "insiders": [
+    "Linetsky David"
+   ],
+   "roles": [
+    "President, Network Solutions"
+   ],
+   "shares": 70,
+   "avg_price": 9.75,
+   "value": 682,
+   "transaction_dates": [
+    "2026-10-22"
+   ],
+   "accession": "0001776729-26-000001",
+   "url": "https://www.sec.gov/Archives/edgar/data/1776729/000177672926000001/0001776729-26-000001-index.htm"
+  },
+  {
+   "type": "buy",
+   "issuer": "CTT PHARMACEUTICAL HOLDINGS, INC.",
+   "ticker": "CTTH",
+   "insiders": [
+    "CTT PHARMACEUTICAL HOLDINGS, INC."
+   ],
+   "roles": [
+    "CEO",
+    "Director"
+   ],
+   "shares": 5880,
+   "avg_price": 0.06,
+   "value": 335,
+   "transaction_dates": [
+    "2026-10-26"
+   ],
+   "accession": "0001035422-26-000018",
+   "url": "https://www.sec.gov/Archives/edgar/data/1035422/000103542226000018/0001035422-26-000018-index.htm"
+  }
+ ]
+}
