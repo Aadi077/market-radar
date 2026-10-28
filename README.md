@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-26
+**Last updated:** 2026-10-27
 
-## Market close · 2026-10-23
+## Market close · 2026-10-26
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 759.97 | -0.52% |
-| Nasdaq 100 (QQQ) | 704.40 | -0.01% |
-| Dow 30 (DIA) | 521.37 | -1.24% |
-| Russell 2000 (IWM) | 275.75 | -0.33% |
+| S&P 500 (SPY) | 765.37 | +0.71% |
+| Nasdaq 100 (QQQ) | 712.20 | +1.11% |
+| Dow 30 (DIA) | 522.97 | +0.31% |
+| Russell 2000 (IWM) | 276.99 | +0.45% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **CVX** +2.88% · **XOM** +2.79% · **AMD** +1.74% · **INTC** +1.72% · **CSCO** +1.53%  
-**Top large-cap decliners:** **PG** -2.76% · **KO** -2.76% · **GE** -2.69% · **LLY** -2.54% · **ADBE** -2.49%
+**Top large-cap gainers:** **TSLA** +5.21% · **INTC** +4.04% · **CSCO** +3.51% · **AMD** +2.80% · **NVDA** +2.39%  
+**Top large-cap decliners:** **MRK** -3.21% · **NFLX** -2.96% · **ADBE** -1.97% · **META** -1.88% · **DIS** -1.88%
 
-## Biggest insider buys · filed 2026-10-23
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $7.7M | 217,182 | $35.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526430508/0001193125-26-430508-index.htm) |
-| Blackstone Private Real Estate Credit & Income Fund | Blackstone Private Multi-Asset Credit & Income Fund, Blackstone Private Credit Strategies LLC, Blackstone Intermediary Holdco L.L.C., BLACKSTONE SECURITIES PARTNERS L.P., Blackstone Advisory Services L.L.C., Blackstone Private Real Estate Credit & Income Fund (Offshore Strategic Feeder Fund) L.P., BREC Offshore Feeder GP, L.L.C. | 10% Owner | $2.7M | 104,054 | $26.20 | [Form 4](https://www.sec.gov/Archives/edgar/data/792326/000121390026112120/0001213900-26-112120-index.htm) |
-| Blackstone Private Real Estate Credit & Income Fund | Blackstone Holdings IV L.P., Blackstone Holdings IV GP L.P., Blackstone Holdings IV GP Management (Delaware) L.P., Blackstone Holdings IV GP Management L.L.C., Blackstone Holdings I L.P., Blackstone Holdings I/II GP L.L.C., Blackstone Inc., Blackstone Group Management L.L.C., SCHWARZMAN STEPHEN A | 10% Owner | $2.7M | 104,054 | $26.20 | [Form 4](https://www.sec.gov/Archives/edgar/data/1404071/000121390026112119/0001213900-26-112119-index.htm) |
-| **RENT** Rent the Runway, Inc. | Nexus Capital Management LP, Gateway Runway, LLC, Gateway Runway Intermediate Holdings, Inc., NEXUS SPECIAL SITUATIONS III, L.P., NEXUS SPECIAL SITUATIONS III (CAYMAN), L.P., Nexus Special Situations GP III, LP, Nexus Partners III, LLC, Cohen Michael S, Flesh Daniel E., Giangiacomo Damian | Director, 10% Owner | $2.2M | 632,922 | $3.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/1372171/000101297526000981/0001012975-26-000981-index.htm) |
-| **RENT** Rent the Runway, Inc. | STORY3 Capital Partners, LLC, S3 RR Aggregator, LLC, Rising Sons Capital, LLC, Comisar Peter Harley | Director, 10% Owner | $2.2M | 632,922 | $3.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/2093762/000101297526000982/0001012975-26-000982-index.htm) |
-| **RENT** Rent the Runway, Inc. | CHS US Investments LLC, CHS GP LP, CHS UGP LLC, CHS Platform Holdings Pte. Ltd., APS US Management LLC | 10% Owner | $1.6M | 458,245 | $3.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/2094392/000101297526000980/0001012975-26-000980-index.htm) |
-| **NXG** NXG NextGen Infrastructure Income Fund | Swank Jerry V | See Remarks | $439.5K | 10,000 | $43.95 | [Form 4](https://www.sec.gov/Archives/edgar/data/1506488/000135471926000001/0001354719-26-000001-index.htm) |
-| **CRAFX** Cascade Real Assets Fund | Worley Matthew Eugene | Director | $431.2K | 41,910 | $10.29 | [Form 4](https://www.sec.gov/Archives/edgar/data/2114459/000121390026111971/0001213900-26-111971-index.htm) |
-| **SAMG** Silvercrest Asset Management Group Inc. | Equinox Partners Investment Management LLC, EQUINOX PARTNERS LP | 10% Owner | $352.7K | 34,126 | $10.33 | [Form 4](https://www.sec.gov/Archives/edgar/data/933897/000101359426001082/0001013594-26-001082-index.htm) |
-| **[NONE]** VISTA CREDIT STRATEGIC LENDING CORP. | GALLIGAN GREGORY T | CEO and President, Director | $100.0K | 5,144 | $19.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/1973908/000119312526429845/0001193125-26-429845-index.htm) |
-
-## Biggest insider sales · filed 2026-10-23
+## Biggest insider buys · filed 2026-10-26
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **TRV** TRAVELERS COMPANIES, INC. | Schnitzer Alan D | Chairman and CEO, Director | $35.3M | 88,900 | $396.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/1397350/000008631226000190/0000086312-26-000190-index.htm) |
-| **SNOW** Snowflake Inc. | Dageville Benoit | Director | $16.1M | 50,000 | $321.74 | [Form 4](https://www.sec.gov/Archives/edgar/data/1821737/000182173726000017/0001821737-26-000017-index.htm) |
-| **TRV** TRAVELERS COMPANIES, INC. | Toczydlowski Gregory C | EVP & President, Business Ins. | $14.0M | 34,771 | $403.89 | [Form 4](https://www.sec.gov/Archives/edgar/data/86312/000008631226000189/0000086312-26-000189-index.htm) |
-| **INNV** InnovAge Holding Corp. | IGNITE AGGREGATOR LP, APAX X (GUERNSEY) USD AIV LP, IGNITE GP INC., Apax X EUR L.P., Apax X USD L.P., Apax X GP Co. Ltd | 10% Owner | $13.9M | 1,500,000 | $9.25 | [Form 4](https://www.sec.gov/Archives/edgar/data/1848852/000119312526430420/0001193125-26-430420-index.htm) |
-| **INNV** InnovAge Holding Corp. | TCO GROUP HOLDINGS, L.P. | 10% Owner | $13.9M | 1,500,000 | $9.25 | [Form 4](https://www.sec.gov/Archives/edgar/data/1834376/000119312526430414/0001193125-26-430414-index.htm) |
+| **GPI** GROUP 1 AUTOMOTIVE INC | Conifer Management, L.L.C. | 10% Owner | $24.2M | 100,000 | $242.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/1773994/000090514826004561/0000905148-26-004561-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $8.7M | 246,440 | $35.15 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526432280/0001193125-26-432280-index.htm) |
+| **BPRE** Bluerock Private Real Estate Fund | KAMFAR RAMIN | Director | $2.1M | 170,320 | $12.48 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551047/000139834426018736/0001398344-26-018736-index.htm) |
+| **PRTA** PROTHENA CORP PUBLIC LTD CO | SCULLY WILLIAM P | 10% Owner | $1.2M | 150,000 | $8.15 | [Form 4](https://www.sec.gov/Archives/edgar/data/1559053/000104546326000022/0001045463-26-000022-index.htm) |
+| **OPTU** Optimum Communications, Inc. | SUBIN NEIL S, MILFAM LLC, MILFAM GP, LLC, Dark Mirage, LP | 10% Owner | $1.2M | 2,228,007 | $0.52 | [Form 4](https://www.sec.gov/Archives/edgar/data/2023628/000121390026112593/0001213900-26-112593-index.htm) |
+| **KRRO** Korro Bio, Inc. | Lynx1 Capital Management LP, Nichols Weston | 10% Owner | $884.8K | 79,809 | $11.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/1703647/000090266426004286/0000902664-26-004286-index.htm) |
+| Blackstone Multi-Strategy Hedge Fund L.P. | Abrahams Riad M | Chief Executive Officer, Director | $795.0K | 31,213 | $25.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1370104/000119312526432266/0001193125-26-432266-index.htm) |
+| **THRM** Gentherm Inc | MASCARENAS PAUL ANTHONY | Director | $532.6K | 20,000 | $26.63 | [Form 4](https://www.sec.gov/Archives/edgar/data/903129/000119312526432218/0001193125-26-432218-index.htm) |
+| **CITR** CitroTech Inc. | HUFF CRAIG A, BoltRock Holdings LLC | Director, 10% Owner | $500.0K | 200,000 | $2.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/2061007/000119312526432001/0001193125-26-432001-index.htm) |
+| **LEO** BNY MELLON STRATEGIC MUNICIPALS, INC. | Saba Capital Management, L.P. | 10% Owner | $369.2K | 65,000 | $5.68 | [Form 4](https://www.sec.gov/Archives/edgar/data/818972/000151028126000377/0001510281-26-000377-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-23.md`](data/insider/2026/10/2026-10-23.md)
+## Biggest insider sales · filed 2026-10-26
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **ISRG** INTUITIVE SURGICAL INC | GUTHART GARY S | Director | $9.1M | 20,095 | $451.61 | [Form 4](https://www.sec.gov/Archives/edgar/data/1280628/000128062826000016/0001280628-26-000016-index.htm) |
+| **CRL** CHARLES RIVER LABORATORIES INTERNATIONAL, INC. | FOSTER JAMES C | Director | $8.4M | 24,042 | $350.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1100682/000110068226000153/0001100682-26-000153-index.htm) |
+| **LRCX** LAM RESEARCH CORP | ARCHER TIMOTHY | President and CEO | $7.1M | 31,400 | $227.02 | [Form 4](https://www.sec.gov/Archives/edgar/data/1343600/000134360026000015/0001343600-26-000015-index.htm) |
+| **PG** PROCTER & GAMBLE Co | Jejurikar Shailesh | Chairman, President and CEO, Director | $5.7M | 35,000 | $163.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/1746310/000008042426000263/0000080424-26-000263-index.htm) |
+| **UTHR** UNITED THERAPEUTICS Corp | ROTHBLATT MARTINE A | Chairperson & CEO, Director | $5.5M | 9,500 | $582.76 | [Form 4](https://www.sec.gov/Archives/edgar/data/1106578/000110657826000171/0001106578-26-000171-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-26.md`](data/insider/2026/10/2026-10-26.md)
 
 ## Latest weekly recap
 
