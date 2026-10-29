@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-27
+**Last updated:** 2026-10-28
 
-## Market close · 2026-10-26
+## Market close · 2026-10-28
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 765.37 | +0.71% |
-| Nasdaq 100 (QQQ) | 712.20 | +1.11% |
-| Dow 30 (DIA) | 522.97 | +0.31% |
-| Russell 2000 (IWM) | 276.99 | +0.45% |
+| S&P 500 (SPY) | 772.31 | +0.34% |
+| Nasdaq 100 (QQQ) | 725.61 | +0.60% |
+| Dow 30 (DIA) | 524.68 | +0.27% |
+| Russell 2000 (IWM) | 281.29 | +0.40% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **TSLA** +5.21% · **INTC** +4.04% · **CSCO** +3.51% · **AMD** +2.80% · **NVDA** +2.39%  
-**Top large-cap decliners:** **MRK** -3.21% · **NFLX** -2.96% · **ADBE** -1.97% · **META** -1.88% · **DIS** -1.88%
+**Top large-cap gainers:** **ORCL** +10.73% · **AMD** +3.24% · **AVGO** +2.77% · **INTC** +1.91% · **TMO** +1.61%  
+**Top large-cap decliners:** **META** -1.24% · **NVDA** -1.17% · **DIS** -1.08% · **CSCO** -0.98% · **PLTR** -0.97%
 
-## Biggest insider buys · filed 2026-10-26
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **GPI** GROUP 1 AUTOMOTIVE INC | Conifer Management, L.L.C. | 10% Owner | $24.2M | 100,000 | $242.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/1773994/000090514826004561/0000905148-26-004561-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $8.7M | 246,440 | $35.15 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526432280/0001193125-26-432280-index.htm) |
-| **BPRE** Bluerock Private Real Estate Fund | KAMFAR RAMIN | Director | $2.1M | 170,320 | $12.48 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551047/000139834426018736/0001398344-26-018736-index.htm) |
-| **PRTA** PROTHENA CORP PUBLIC LTD CO | SCULLY WILLIAM P | 10% Owner | $1.2M | 150,000 | $8.15 | [Form 4](https://www.sec.gov/Archives/edgar/data/1559053/000104546326000022/0001045463-26-000022-index.htm) |
-| **OPTU** Optimum Communications, Inc. | SUBIN NEIL S, MILFAM LLC, MILFAM GP, LLC, Dark Mirage, LP | 10% Owner | $1.2M | 2,228,007 | $0.52 | [Form 4](https://www.sec.gov/Archives/edgar/data/2023628/000121390026112593/0001213900-26-112593-index.htm) |
-| **KRRO** Korro Bio, Inc. | Lynx1 Capital Management LP, Nichols Weston | 10% Owner | $884.8K | 79,809 | $11.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/1703647/000090266426004286/0000902664-26-004286-index.htm) |
-| Blackstone Multi-Strategy Hedge Fund L.P. | Abrahams Riad M | Chief Executive Officer, Director | $795.0K | 31,213 | $25.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1370104/000119312526432266/0001193125-26-432266-index.htm) |
-| **THRM** Gentherm Inc | MASCARENAS PAUL ANTHONY | Director | $532.6K | 20,000 | $26.63 | [Form 4](https://www.sec.gov/Archives/edgar/data/903129/000119312526432218/0001193125-26-432218-index.htm) |
-| **CITR** CitroTech Inc. | HUFF CRAIG A, BoltRock Holdings LLC | Director, 10% Owner | $500.0K | 200,000 | $2.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/2061007/000119312526432001/0001193125-26-432001-index.htm) |
-| **LEO** BNY MELLON STRATEGIC MUNICIPALS, INC. | Saba Capital Management, L.P. | 10% Owner | $369.2K | 65,000 | $5.68 | [Form 4](https://www.sec.gov/Archives/edgar/data/818972/000151028126000377/0001510281-26-000377-index.htm) |
-
-## Biggest insider sales · filed 2026-10-26
+## Biggest insider buys · filed 2026-10-27
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **ISRG** INTUITIVE SURGICAL INC | GUTHART GARY S | Director | $9.1M | 20,095 | $451.61 | [Form 4](https://www.sec.gov/Archives/edgar/data/1280628/000128062826000016/0001280628-26-000016-index.htm) |
-| **CRL** CHARLES RIVER LABORATORIES INTERNATIONAL, INC. | FOSTER JAMES C | Director | $8.4M | 24,042 | $350.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1100682/000110068226000153/0001100682-26-000153-index.htm) |
-| **LRCX** LAM RESEARCH CORP | ARCHER TIMOTHY | President and CEO | $7.1M | 31,400 | $227.02 | [Form 4](https://www.sec.gov/Archives/edgar/data/1343600/000134360026000015/0001343600-26-000015-index.htm) |
-| **PG** PROCTER & GAMBLE Co | Jejurikar Shailesh | Chairman, President and CEO, Director | $5.7M | 35,000 | $163.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/1746310/000008042426000263/0000080424-26-000263-index.htm) |
-| **UTHR** UNITED THERAPEUTICS Corp | ROTHBLATT MARTINE A | Chairperson & CEO, Director | $5.5M | 9,500 | $582.76 | [Form 4](https://www.sec.gov/Archives/edgar/data/1106578/000110657826000171/0001106578-26-000171-index.htm) |
+| **LYCA** Lycia Therapeutics, Inc. | Venrock Healthcare Capital Partners III, L.P., VHCP Co-Investment Holdings III, LLC, VHCP Management III, LLC, Venrock Healthcare Capital Partners EG, L.P., VHCP Management EG, LLC, Venrock Healthcare Capital Partners XP, L.P., VHCP Management XP, LLC, Koh Bong Y, Shah Nimish P | 10% Owner | $37.7M | 2,045,440 | $18.41 | [Form 4](https://www.sec.gov/Archives/edgar/data/1615979/000123191926001503/0001231919-26-001503-index.htm) |
+| **MSM** MSC INDUSTRIAL DIRECT CO INC | JACOBSON MITCHELL | Director, 10% Owner | $29.0M | 250,000 | $115.94 | [Form 4](https://www.sec.gov/Archives/edgar/data/1008015/000095014226002870/0000950142-26-002870-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $20.2M | 595,609 | $33.97 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526434287/0001193125-26-434287-index.htm) |
+| **LRN** Stride, Inc. | Haggart Dylan G., Fivespan Partners, LP | Director | $12.2M | 154,196 | $78.98 | [Form 4](https://www.sec.gov/Archives/edgar/data/2040262/000121390026113031/0001213900-26-113031-index.htm) |
+| **SRRK** Scholar Rock Holding Corp | AKKARAJU SRINIVAS | Director | $12.0M | 289,470 | $41.45 | [Form 4](https://www.sec.gov/Archives/edgar/data/1253170/000125317026000014/0001253170-26-000014-index.htm) |
+| **CTEV** Claritev Corp | ARES MANAGEMENT LLC, ASOF Investment Management LLC, Ares Management Holdings L.P., Ares Holdco LLC, Ares Management Corp, Ares Voting LLC, Ares Management GP LLC, Ares Partners Holdco LLC | 10% Owner | $1.7M | 70,834 | $23.69 | [Form 4](https://www.sec.gov/Archives/edgar/data/1259313/000110465926119177/0001104659-26-119177-index.htm) |
+| **CTEV** Claritev Corp | ARES MANAGEMENT LLC, ASOF II Holdings I, L.P., ASOF II A (DE) Holdings I, L.P., ASOF III Holdings I LP | 10% Owner | $1.7M | 70,834 | $23.69 | [Form 4](https://www.sec.gov/Archives/edgar/data/1259313/000110465926119180/0001104659-26-119180-index.htm) |
+| **NPB** NORTHPOINTE BANCSHARES INC | Williams Charles Alan, Charles A Williams TR Charles A Williams Trust | CHAIRMAN & CEO, Director, 10% Owner | $1.5M | 100,000 | $15.37 | [Form 4](https://www.sec.gov/Archives/edgar/data/2056588/000133670626000080/0001336706-26-000080-index.htm) |
+| **PLUR** Pluri Inc. | Manieu Alexandre Weinstein | Director, 10% Owner | $1.3M | 833,334 | $1.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/1833124/000121390026112641/0001213900-26-112641-index.htm) |
+| Willow Tree Capital Corp | HERSHEY TRUST CO TRUSTEE IN TRUST FOR MILTON HERSHEY SCHOOL | 10% Owner | $1.2M | 76,982 | $15.95 | [Form 4](https://www.sec.gov/Archives/edgar/data/938543/000095014226002868/0000950142-26-002868-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-26.md`](data/insider/2026/10/2026-10-26.md)
+## Biggest insider sales · filed 2026-10-27
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **TALO** TALOS ENERGY INC. | Control Empresarial de Capitales S.A. de C.V. | 10% Owner | $45.8M | 2,500,000 | $18.33 | [Form 4](https://www.sec.gov/Archives/edgar/data/1273693/000114036126040937/0001140361-26-040937-index.htm) |
+| **GS** GOLDMAN SACHS GROUP INC | SOLOMON DAVID M | Chairman of the Board and CEO, Director | $10.9M | 12,000 | $910.72 | [Form 4](https://www.sec.gov/Archives/edgar/data/886982/000169370926000011/0001693709-26-000011-index.htm) |
+| **ALMR** Alamar Biosciences, Inc. | Qiming Corporate GP VI, Ltd., Qiming Managing Directors Fund VI, L.P., Qiming Venture Partners VI, L.P., Qiming GP VIII, LLC, Qiming Venture Partners VIII Investments, LLC, Qiming GP VIII-HC, LLC, Qiming Venture Partners VIII-HC, L.P. | 10% Owner | $8.6M | 280,458 | $30.56 | [Form 4](https://www.sec.gov/Archives/edgar/data/2104204/000123191926001501/0001231919-26-001501-index.htm) |
+| **EFX** EQUIFAX INC | Begor Mark W | CEO, Director | $6.9M | 37,792 | $182.80 | [Form 4](https://www.sec.gov/Archives/edgar/data/1335111/000122520826008522/0001225208-26-008522-index.htm) |
+| **BSY** BENTLEY SYSTEMS INC | Bentley Raymond B. | Director, 10% Owner | $6.2M | 155,797 | $40.05 | [Form 4](https://www.sec.gov/Archives/edgar/data/1031308/000110465926119159/0001104659-26-119159-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-27.md`](data/insider/2026/10/2026-10-27.md)
 
 ## Latest weekly recap
 
