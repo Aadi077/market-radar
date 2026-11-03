@@ -2,52 +2,52 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-10-30
+**Last updated:** 2026-11-02
 
-## Market close · 2026-10-30
+## Market close · 2026-11-02
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 755.72 | -1.77% |
-| Nasdaq 100 (QQQ) | 690.49 | -3.47% |
-| Dow 30 (DIA) | 517.13 | -1.07% |
-| Russell 2000 (IWM) | 279.33 | -1.65% |
+| S&P 500 (SPY) | 752.10 | -0.48% |
+| Nasdaq 100 (QQQ) | 681.09 | -1.36% |
+| Dow 30 (DIA) | 519.34 | +0.43% |
+| Russell 2000 (IWM) | 279.14 | -0.07% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **LLY** +3.19% · **PEP** +2.65% · **MRK** +2.18% · **XOM** +2.16% · **WMT** +1.86%  
-**Top large-cap decliners:** **INTC** -28.58% · **AMD** -10.88% · **ORCL** -6.37% · **PLTR** -6.27% · **AVGO** -5.48%
+**Top large-cap gainers:** **GE** +4.63% · **HD** +3.63% · **WMT** +3.38% · **MA** +3.15% · **WFC** +2.99%  
+**Top large-cap decliners:** **INTC** -8.80% · **ORCL** -8.76% · **AMD** -7.52% · **XOM** -4.05% · **CVX** -3.29%
 
-## Biggest insider buys · filed 2026-10-29
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $6.3M | 178,129 | $35.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526437931/0001193125-26-437931-index.htm) |
-| **SCQCU** SPACCircle Acquisition Corp. | Das Soumen, SPACCIRCLE SPONSOR LLC, SPACCatalyst LLC | Director, 10% Owner | $2.7M | 266,590 | $10.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2091020/000118518526005072/0001185185-26-005072-index.htm) |
-| **TFC** TRUIST FINANCIAL CORP | Lyons Michael P. | President & CEO, Director | $1.2M | 25,000 | $48.36 | [Form 4](https://www.sec.gov/Archives/edgar/data/1534574/000153457426000018/0001534574-26-000018-index.htm) |
-| **DINO** HF Sinclair Corp | MYERS FRANKLIN | CEO, Director | $1.1M | 10,000 | $110.80 | [Form 4](https://www.sec.gov/Archives/edgar/data/1915657/000119312526438100/0001193125-26-438100-index.htm) |
-| **PNFP** Pinnacle Financial Partners, Inc. | INGRAM DAVID B | Director | $991.6K | 10,000 | $99.16 | [Form 4](https://www.sec.gov/Archives/edgar/data/1219004/000121900426000004/0001219004-26-000004-index.htm) |
-| **XYL** Xylem Inc. | KOCH D CHRISTIAN | Director | $985.6K | 11,000 | $89.60 | [Form 4](https://www.sec.gov/Archives/edgar/data/1190801/000152447226000150/0001524472-26-000150-index.htm) |
-| **SAMG** Silvercrest Asset Management Group Inc. | Equinox Partners Investment Management LLC, EQUINOX PARTNERS LP | 10% Owner | $348.7K | 33,398 | $10.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/933897/000101359426001116/0001013594-26-001116-index.htm) |
-| **HBAN** HUNTINGTON BANCSHARES INC /MD/ | TORGOW GARY | Director | $199.8K | 12,700 | $15.73 | [Form 4](https://www.sec.gov/Archives/edgar/data/49196/000122520826008552/0001225208-26-008552-index.htm) |
-| **JOF** JAPAN SMALLER CAPITALIZATION FUND INC | Saba Capital Management, L.P. | 10% Owner | $181.7K | 15,967 | $11.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/859796/000151028126000391/0001510281-26-000391-index.htm) |
-| **BBT** Beacon Financial Corp | Callahan Mary Anne | Director | $96.7K | 3,200 | $30.21 | [Form 4](https://www.sec.gov/Archives/edgar/data/1108134/000162828026068056/0001628280-26-068056-index.htm) |
-
-## Biggest insider sales · filed 2026-10-29
+## Biggest insider buys · filed 2026-10-30
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **DVA** DAVITA INC. | BERKSHIRE HATHAWAY INC, BUFFETT WARREN E | 10% Owner | $69.0M | 382,563 | $180.43 | [Form 4](https://www.sec.gov/Archives/edgar/data/1067983/000119312526438090/0001193125-26-438090-index.htm) |
-| **STRZ** STARZ ENTERTAINMENT CORP /CN/ | Allen Family Capital, LLC, Folks Byron Allen | 10% Owner | $44.9M | 1,803,786 | $24.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/2107521/000149315226049283/0001493152-26-049283-index.htm) |
-| **TALO** TALOS ENERGY INC. | Control Empresarial de Capitales S.A. de C.V. | 10% Owner | $27.7M | 1,508,586 | $18.36 | [Form 4](https://www.sec.gov/Archives/edgar/data/1273693/000114036126041180/0001140361-26-041180-index.htm) |
-| **COF** CAPITAL ONE FINANCIAL CORP | FAIRBANK RICHARD D | Chairman and CEO, Director | $18.4M | 90,743 | $202.86 | [Form 4](https://www.sec.gov/Archives/edgar/data/927628/000123803226000010/0001238032-26-000010-index.htm) |
-| **SCHW** SCHWAB CHARLES CORP | Schwab Charles R. | Co-Chairman, Director | $18.1M | 203,150 | $89.12 | [Form 4](https://www.sec.gov/Archives/edgar/data/316709/000092373826000048/0000923738-26-000048-index.htm) |
+| **RAPP** Rapport Therapeutics, Inc. | HEALY JAMES | Director | $20.4M | 969,480 | $21.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1245624/000110465926120789/0001104659-26-120789-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $8.7M | 245,898 | $35.26 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526441956/0001193125-26-441956-index.htm) |
+| **LYCA** Lycia Therapeutics, Inc. | Venrock Healthcare Capital Partners III, L.P., VHCP Co-Investment Holdings III, LLC, VHCP Management III, LLC, Venrock Healthcare Capital Partners EG, L.P., VHCP Management EG, LLC, Venrock Healthcare Capital Partners XP, L.P., VHCP Management XP, LLC, Koh Bong Y, Shah Nimish P | 10% Owner | $644.7K | 25,004 | $25.78 | [Form 4](https://www.sec.gov/Archives/edgar/data/1615979/000123191926001519/0001231919-26-001519-index.htm) |
+| **BFH** BREAD FINANCIAL HOLDINGS, INC. | Fawcett John J. | Director | $123.5K | 5,000 | $24.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/1101215/000161414326000006/0001614143-26-000006-index.htm) |
+| **FFIN** FIRST FINANCIAL BANKSHARES INC | Denny Michael B. | Director | $99.8K | 3,245 | $30.76 | [Form 4](https://www.sec.gov/Archives/edgar/data/1774246/000119312526441381/0001193125-26-441381-index.htm) |
+| **OCFC** OCEANFIRST FINANCIAL CORP | Barrett Patrick Sean | Senior EVP & CFO | $89.5K | 5,000 | $17.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/1591893/000159189326000006/0001591893-26-000006-index.htm) |
+| **ECF** ELLSWORTH GROWTH & INCOME FUND LTD | Saba Capital Management, L.P. | 10% Owner | $70.9K | 5,975 | $11.87 | [Form 4](https://www.sec.gov/Archives/edgar/data/793040/000151028126000396/0001510281-26-000396-index.htm) |
+| **MED** MEDIFAST INC | Kiai Parsa | Director | $68.0K | 5,557 | $12.24 | [Form 4](https://www.sec.gov/Archives/edgar/data/1766850/000121390026114242/0001213900-26-114242-index.htm) |
+| **PKBK** PARKE BANCORP, INC. | PANTILIONE VITO S | President & CEO, Director | $42.7K | 1,300 | $32.86 | [Form 4](https://www.sec.gov/Archives/edgar/data/1323979/000143774926034164/0001437749-26-034164-index.htm) |
+| **BHRB** Burke & Herbert Financial Services Corp. | McLaughlin Shawn Patrick | Director | $35.5K | 500 | $71.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1964333/000196449326000010/0001964493-26-000010-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-29.md`](data/insider/2026/10/2026-10-29.md)
+## Biggest insider sales · filed 2026-10-30
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **HLT** Hilton Worldwide Holdings Inc. | Jacobs Kevin J | See Remarks | $53.8M | 151,050 | $356.19 | [Form 4](https://www.sec.gov/Archives/edgar/data/1585689/000159315626000010/0001593156-26-000010-index.htm) |
+| **BROS** Dutch Bros Inc. | Boersma Travis | Executive Chairman of Board, Director, 10% Owner | $18.0M | 408,023 | $44.03 | [Form 4](https://www.sec.gov/Archives/edgar/data/1883154/000186658126000164/0001866581-26-000164-index.htm) |
+| **WRLD** WORLD ACCEPTANCE CORP | Prescott General Partners LLC | 10% Owner | $15.0M | 88,324 | $169.83 | [Form 4](https://www.sec.gov/Archives/edgar/data/1538653/000110465926120643/0001104659-26-120643-index.htm) |
+| **DDOG** Datadog, Inc. | Le-Quoc Alexis | Chief Technology Officer, Director | $12.1M | 43,224 | $278.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/1561550/000156155026000326/0001561550-26-000326-index.htm) |
+| **BROS** Dutch Bros Inc. | DM Trust Aggregator, LLC | 10% Owner | $11.7M | 266,000 | $44.03 | [Form 4](https://www.sec.gov/Archives/edgar/data/1883105/000186658126000166/0001866581-26-000166-index.htm) |
+
+Full list: [`data/insider/2026/10/2026-10-30.md`](data/insider/2026/10/2026-10-30.md)
 
 ## Latest weekly recap
 
-[2026-W43](data/weekly/2026-W43.md)
+[2026-W44](data/weekly/2026-W44.md)
 
 ## How it works
 
