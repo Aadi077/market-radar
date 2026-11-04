@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-11-02
+**Last updated:** 2026-11-03
 
-## Market close · 2026-11-02
+## Market close · 2026-11-03
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 752.10 | -0.48% |
-| Nasdaq 100 (QQQ) | 681.09 | -1.36% |
-| Dow 30 (DIA) | 519.34 | +0.43% |
-| Russell 2000 (IWM) | 279.14 | -0.07% |
+| S&P 500 (SPY) | 754.35 | +0.30% |
+| Nasdaq 100 (QQQ) | 685.28 | +0.62% |
+| Dow 30 (DIA) | 517.06 | -0.44% |
+| Russell 2000 (IWM) | 279.79 | +0.23% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **GE** +4.63% · **HD** +3.63% · **WMT** +3.38% · **MA** +3.15% · **WFC** +2.99%  
-**Top large-cap decliners:** **INTC** -8.80% · **ORCL** -8.76% · **AMD** -7.52% · **XOM** -4.05% · **CVX** -3.29%
+**Top large-cap gainers:** **ORCL** +5.85% · **AMD** +3.65% · **AVGO** +3.07% · **MSFT** +2.74% · **META** +2.36%  
+**Top large-cap decliners:** **MRK** -2.49% · **PEP** -2.24% · **WMT** -2.22% · **HD** -2.20% · **ADBE** -2.12%
 
-## Biggest insider buys · filed 2026-10-30
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **RAPP** Rapport Therapeutics, Inc. | HEALY JAMES | Director | $20.4M | 969,480 | $21.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1245624/000110465926120789/0001104659-26-120789-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $8.7M | 245,898 | $35.26 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526441956/0001193125-26-441956-index.htm) |
-| **LYCA** Lycia Therapeutics, Inc. | Venrock Healthcare Capital Partners III, L.P., VHCP Co-Investment Holdings III, LLC, VHCP Management III, LLC, Venrock Healthcare Capital Partners EG, L.P., VHCP Management EG, LLC, Venrock Healthcare Capital Partners XP, L.P., VHCP Management XP, LLC, Koh Bong Y, Shah Nimish P | 10% Owner | $644.7K | 25,004 | $25.78 | [Form 4](https://www.sec.gov/Archives/edgar/data/1615979/000123191926001519/0001231919-26-001519-index.htm) |
-| **BFH** BREAD FINANCIAL HOLDINGS, INC. | Fawcett John J. | Director | $123.5K | 5,000 | $24.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/1101215/000161414326000006/0001614143-26-000006-index.htm) |
-| **FFIN** FIRST FINANCIAL BANKSHARES INC | Denny Michael B. | Director | $99.8K | 3,245 | $30.76 | [Form 4](https://www.sec.gov/Archives/edgar/data/1774246/000119312526441381/0001193125-26-441381-index.htm) |
-| **OCFC** OCEANFIRST FINANCIAL CORP | Barrett Patrick Sean | Senior EVP & CFO | $89.5K | 5,000 | $17.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/1591893/000159189326000006/0001591893-26-000006-index.htm) |
-| **ECF** ELLSWORTH GROWTH & INCOME FUND LTD | Saba Capital Management, L.P. | 10% Owner | $70.9K | 5,975 | $11.87 | [Form 4](https://www.sec.gov/Archives/edgar/data/793040/000151028126000396/0001510281-26-000396-index.htm) |
-| **MED** MEDIFAST INC | Kiai Parsa | Director | $68.0K | 5,557 | $12.24 | [Form 4](https://www.sec.gov/Archives/edgar/data/1766850/000121390026114242/0001213900-26-114242-index.htm) |
-| **PKBK** PARKE BANCORP, INC. | PANTILIONE VITO S | President & CEO, Director | $42.7K | 1,300 | $32.86 | [Form 4](https://www.sec.gov/Archives/edgar/data/1323979/000143774926034164/0001437749-26-034164-index.htm) |
-| **BHRB** Burke & Herbert Financial Services Corp. | McLaughlin Shawn Patrick | Director | $35.5K | 500 | $71.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1964333/000196449326000010/0001964493-26-000010-index.htm) |
-
-## Biggest insider sales · filed 2026-10-30
+## Biggest insider buys · filed 2026-11-02
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **HLT** Hilton Worldwide Holdings Inc. | Jacobs Kevin J | See Remarks | $53.8M | 151,050 | $356.19 | [Form 4](https://www.sec.gov/Archives/edgar/data/1585689/000159315626000010/0001593156-26-000010-index.htm) |
-| **BROS** Dutch Bros Inc. | Boersma Travis | Executive Chairman of Board, Director, 10% Owner | $18.0M | 408,023 | $44.03 | [Form 4](https://www.sec.gov/Archives/edgar/data/1883154/000186658126000164/0001866581-26-000164-index.htm) |
-| **WRLD** WORLD ACCEPTANCE CORP | Prescott General Partners LLC | 10% Owner | $15.0M | 88,324 | $169.83 | [Form 4](https://www.sec.gov/Archives/edgar/data/1538653/000110465926120643/0001104659-26-120643-index.htm) |
-| **DDOG** Datadog, Inc. | Le-Quoc Alexis | Chief Technology Officer, Director | $12.1M | 43,224 | $278.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/1561550/000156155026000326/0001561550-26-000326-index.htm) |
-| **BROS** Dutch Bros Inc. | DM Trust Aggregator, LLC | 10% Owner | $11.7M | 266,000 | $44.03 | [Form 4](https://www.sec.gov/Archives/edgar/data/1883105/000186658126000166/0001866581-26-000166-index.htm) |
+| **ROL** ROLLINS INC | LOR INC | 10% Owner | $50.0M | 1,444,402 | $34.59 | [Form 4](https://www.sec.gov/Archives/edgar/data/1212243/000110465926121502/0001104659-26-121502-index.htm) |
+| **ROL** ROLLINS INC | R. Randall Rollins Voting Trust U/A dated August 25, 1994 | 10% Owner | $50.0M | 1,444,402 | $34.59 | [Form 4](https://www.sec.gov/Archives/edgar/data/1820515/000110465926121503/0001104659-26-121503-index.htm) |
+| Hamilton Lane Venture Capital & Growth Fund | HAMILTON LANE ADVISORS LLC | 10% Owner | $36.5M | 1,824,686 | $20.02 | [Form 4](https://www.sec.gov/Archives/edgar/data/1573767/000121390026115107/0001213900-26-115107-index.htm) |
+| **ASPE** Aspen Neuroscience, Inc. | ARCH Venture Fund X, L.P., ARCH Venture Fund X Overage, L.P., ARCH Venture Partners X, L.P., ARCH Venture Partners X Overage, L.P., ARCH Venture Partners X, LLC, CRANDELL KEITH, Burow Kristina, GILLIS STEVEN, NELSEN ROBERT | 10% Owner | $20.0M | 1,333,333 | $15.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1757017/000119312526444147/0001193125-26-444147-index.htm) |
+| **ASPE** Aspen Neuroscience, Inc. | ARCH Venture Partners XIV, L.P., ARCH Venture Partners XIV, LLC, ARCH Venture Fund XIV, L.P., BERNS PAUL L | 10% Owner | $18.0M | 1,200,000 | $15.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2138046/000119312526444141/0001193125-26-444141-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $8.8M | 246,521 | $35.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526443677/0001193125-26-443677-index.htm) |
+| **BBTX** Bambusa Therapeutics, Inc. | Jeggle Helmut Wolfgang | Director, 10% Owner | $6.0M | 375,000 | $16.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2044950/000198261426000004/0001982614-26-000004-index.htm) |
+| **BBTX** Bambusa Therapeutics, Inc. | Salvia Investment GmbH | 10% Owner | $6.0M | 375,000 | $16.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2044950/000216249926000004/0002162499-26-000004-index.htm) |
+| **HDSN** HUDSON TECHNOLOGIES INC /NY | Hartree Partners, LP | 10% Owner | $1.3M | 300,000 | $4.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/925528/000092189526002902/0000921895-26-002902-index.htm) |
+| **MXF** MEXICO EQUITY & INCOME FUND INC | Saba Capital Management, L.P. | 10% Owner | $787.2K | 39,044 | $20.16 | [Form 4](https://www.sec.gov/Archives/edgar/data/863900/000151028126000400/0001510281-26-000400-index.htm) |
 
-Full list: [`data/insider/2026/10/2026-10-30.md`](data/insider/2026/10/2026-10-30.md)
+## Biggest insider sales · filed 2026-11-02
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **STNG** Scorpio Tankers Inc. | Lauro Emanuele | CEO, Director | $21.8M | 234,637 | $92.88 | [Form 4](https://www.sec.gov/Archives/edgar/data/1978586/000197858626000009/0001978586-26-000009-index.htm) |
+| **STNG** Scorpio Tankers Inc. | Lauro Filippo | Vice President | $12.5M | 135,100 | $92.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1978589/000197858926000007/0001978589-26-000007-index.htm) |
+| **LENZ** LENZ Therapeutics, Inc. | RA CAPITAL MANAGEMENT, L.P., RA Capital Healthcare Fund LP, Kolchinsky Peter, Shah Rajeev M. | 10% Owner | $9.1M | 2,718,684 | $3.36 | [Form 4](https://www.sec.gov/Archives/edgar/data/1384859/000123191926001526/0001231919-26-001526-index.htm) |
+| **UTHR** UNITED THERAPEUTICS Corp | ROTHBLATT MARTINE A | Chairperson & CEO, Director | $5.7M | 9,500 | $600.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/1106578/000110657826000176/0001106578-26-000176-index.htm) |
+| **GILD** GILEAD SCIENCES, INC. | O'Day Daniel Patrick | Chairman & CEO, Director | $5.3M | 30,881 | $172.57 | [Form 4](https://www.sec.gov/Archives/edgar/data/882095/000163864326000038/0001638643-26-000038-index.htm) |
+
+Full list: [`data/insider/2026/11/2026-11-02.md`](data/insider/2026/11/2026-11-02.md)
 
 ## Latest weekly recap
 
