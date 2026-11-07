@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-11-05
+**Last updated:** 2026-11-06
 
-## Market close · 2026-11-05
+## Market close · 2026-11-06
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 733.00 | -4.41% |
-| Nasdaq 100 (QQQ) | 647.05 | -6.49% |
-| Dow 30 (DIA) | 514.27 | -3.53% |
-| Russell 2000 (IWM) | 270.98 | -4.59% |
+| S&P 500 (SPY) | 735.29 | +0.31% |
+| Nasdaq 100 (QQQ) | 656.10 | +1.40% |
+| Dow 30 (DIA) | 512.22 | -0.40% |
+| Russell 2000 (IWM) | 273.67 | +0.99% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **COST** +1.83% · **PEP** +0.20% · **KO** -0.07% · **PG** -0.13% · **MCD** -0.78%  
-**Top large-cap decliners:** **AMD** -17.26% · **TSLA** -10.77% · **AVGO** -10.43% · **INTC** -10.33% · **PLTR** -9.73%
+**Top large-cap gainers:** **AMD** +11.04% · **INTC** +7.71% · **TSLA** +4.23% · **NVDA** +2.78% · **GE** +2.70%  
+**Top large-cap decliners:** **CRM** -3.94% · **NFLX** -3.28% · **ADBE** -2.90% · **CSCO** -1.95% · **HD** -1.85%
 
-## Biggest insider buys · filed 2026-11-04
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **KNOP** KNOT Offshore Partners LP | Seglem Trygve | Director | $43.5M | 2,083,333 | $20.88 | [Form 4](https://www.sec.gov/Archives/edgar/data/1564180/000110465926122691/0001104659-26-122691-index.htm) |
-| Partners Group Growth, LLC | Partners Group Finance (USD) AG |  | $20.0M | 9,513,390 | $2.10 | [Form 4](https://www.sec.gov/Archives/edgar/data/2089261/000208926126000008/0002089261-26-000008-index.htm) |
-| **ASPE** Aspen Neuroscience, Inc. | ORBIMED ADVISORS LLC, OrbiMed Capital GP VII LLC | Director, 10% Owner | $15.0M | 1,000,000 | $15.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2124080/000094787126000980/0000947871-26-000980-index.htm) |
-| **ASPE** Aspen Neuroscience, Inc. | Thompson Peter A. | Director, 10% Owner | $15.0M | 1,000,000 | $15.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2124080/000094787126000981/0000947871-26-000981-index.htm) |
-| **DOLE** Dole plc | Pale Fire Capital SE, Pale Fire Capital SICAV a.s., Pale Fire Capital investicni spolecnost a.s., Senkypl Dusan, Barta Jan | 10% Owner | $12.9M | 986,557 | $13.10 | [Form 4](https://www.sec.gov/Archives/edgar/data/1892479/000092189526002932/0000921895-26-002932-index.htm) |
-| **INTC** INTEL CORP | TAN LIP BU | CEO, Director | $9.7M | 150,000 | $64.73 | [Form 4](https://www.sec.gov/Archives/edgar/data/50863/000005086326000195/0000050863-26-000195-index.htm) |
-| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $6.7M | 190,251 | $35.23 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526447693/0001193125-26-447693-index.htm) |
-| **LRN** Stride, Inc. | Shepherd Brian A. | Director | $1.7M | 22,000 | $75.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/1567675/000156767526000007/0001567675-26-000007-index.htm) |
-| **CACC** CREDIT ACCEPTANCE CORP | TRYFOROS THOMAS N | Director | $1.5M | 3,000 | $485.20 | [Form 4](https://www.sec.gov/Archives/edgar/data/885550/000088555026000203/0000885550-26-000203-index.htm) |
-| **AN** AUTONATION, INC. | Manley Michael Mark | CEO and Director, Director | $1.0M | 5,600 | $184.11 | [Form 4](https://www.sec.gov/Archives/edgar/data/350698/000151899226000004/0001518992-26-000004-index.htm) |
-
-## Biggest insider sales · filed 2026-11-04
+## Biggest insider buys · filed 2026-11-05
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **BROS** Dutch Bros Inc. | Boersma Travis | Executive Chairman of Board, Director, 10% Owner | $106.4M | 2,388,812 | $44.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/1883154/000186658126000188/0001866581-26-000188-index.htm) |
-| **BROS** Dutch Bros Inc. | DM Trust Aggregator, LLC | 10% Owner | $69.4M | 1,557,332 | $44.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/1883105/000186658126000184/0001866581-26-000184-index.htm) |
-| **BROS** Dutch Bros Inc. | DM Individual Aggregator, LLC | 10% Owner | $37.0M | 831,480 | $44.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/1883096/000186658126000186/0001866581-26-000186-index.htm) |
-| **REGN** REGENERON PHARMACEUTICALS, INC. | SING GEORGE L | Director | $20.4M | 21,129 | $964.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/872589/000122547126000004/0001225471-26-000004-index.htm) |
-| **DBX** DROPBOX, INC. | Houston Andrew | Co-CEO, Director, 10% Owner | $13.7M | 383,800 | $35.81 | [Form 4](https://www.sec.gov/Archives/edgar/data/1467623/000173456326000024/0001734563-26-000024-index.htm) |
+| **COUR** Coursera, Inc. | Pale Fire Capital SE, Pale Fire Capital SICAV a.s., Pale Fire Capital investicni spolecnost a.s., Senkypl Dusan, Barta Jan | 10% Owner | $31.5M | 8,355,251 | $3.76 | [Form 4](https://www.sec.gov/Archives/edgar/data/1892479/000092189526002941/0000921895-26-002941-index.htm) |
+| **LYEL** Lyell Immunopharma, Inc. | ARCH Venture Partners IX, LLC, ARCH Venture Fund IX, L.P., ARCH Venture Partners IX, L.P., ARCH Venture Fund IX Overage, L.P., ARCH Venture Partners IX Overage, L.P. | 10% Owner | $25.0M | 2,321,262 | $10.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/1666307/000101297526001014/0001012975-26-001014-index.htm) |
+| **LYEL** Lyell Immunopharma, Inc. | ARCH Venture Fund XIII, L.P., ARCH Venture Partners XIII, L.P., ARCH Venture Partners XIII, LLC, CRANDELL KEITH, GILLIS STEVEN, NELSEN ROBERT, Burow Kristina, BERNS PAUL L, BYBEE CLINTON | 10% Owner | $25.0M | 2,321,262 | $10.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/2006772/000101297526001013/0001012975-26-001013-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | NIPPON LIFE INSURANCE CO | 10% Owner | $12.9M | 356,096 | $36.13 | [Form 4](https://www.sec.gov/Archives/edgar/data/1889539/000119312526449978/0001193125-26-449978-index.htm) |
+| **GLXY** Galaxy Digital Inc. | Novogratz Michael, Galaxy Group Investments LLC | Chief Executive Officer, Director, 10% Owner | $9.9M | 760,000 | $12.98 | [Form 4](https://www.sec.gov/Archives/edgar/data/1859392/000138061526000013/0001380615-26-000013-index.htm) |
+| Third Point Private Capital Partners | Loeb Daniel S, Third Point LLC, Third Point Private Capital LLC | 10% Owner | $9.7M | 332,160 | $29.18 | [Form 4](https://www.sec.gov/Archives/edgar/data/1300345/000089914026001212/0000899140-26-001212-index.htm) |
+| Third Point Private Capital Income Fund | Loeb Daniel S, Third Point LLC, Third Point Private Capital LLC | 10% Owner | $4.0M | 160,000 | $25.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1300345/000089914026001214/0000899140-26-001214-index.htm) |
+| **ETRA** Electra Therapeutics, Inc. | ORBIMED ADVISORS LLC, OrbiMed Capital GP VII LLC, OrbiMed Genesis GP LLC | Director, 10% Owner | $3.6M | 472,571 | $7.63 | [Form 4](https://www.sec.gov/Archives/edgar/data/2088082/000094787126000985/0000947871-26-000985-index.htm) |
+| **ETRA** Electra Therapeutics, Inc. | GORDON CARL L | Director, 10% Owner | $3.6M | 472,571 | $7.63 | [Form 4](https://www.sec.gov/Archives/edgar/data/2088082/000094787126000986/0000947871-26-000986-index.htm) |
+| **PAM** Pampa Energy Inc. | Mindlin Damian Miguel | Vicepresident | $2.6M | 38,652 | $67.68 | [Form 4](https://www.sec.gov/Archives/edgar/data/2028916/000202891626000012/0002028916-26-000012-index.htm) |
 
-Full list: [`data/insider/2026/11/2026-11-04.md`](data/insider/2026/11/2026-11-04.md)
+## Biggest insider sales · filed 2026-11-05
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **SPPL** SIMPPLE LTD. | Lee Kelvin Soon Sze | Director | $51.2B | 189,310 | $270,710.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/2120165/000149315226050230/0001493152-26-050230-index.htm) |
+| **SPPL** SIMPPLE LTD. | Pat Daryl Kah Kit | Acting Chief Executive Officer | $10.2B | 62,894 | $162,219.43 | [Form 4](https://www.sec.gov/Archives/edgar/data/2126254/000149315226050229/0001493152-26-050229-index.htm) |
+| **SPPL** SIMPPLE LTD. | Soo QiKai | Chief Technology Officer | $5.7B | 47,171 | $121,664.57 | [Form 4](https://www.sec.gov/Archives/edgar/data/1948697/000149315226050231/0001493152-26-050231-index.htm) |
+| **MAX** MediaAlpha, Inc. | WHITE MOUNTAINS INSURANCE GROUP LTD, WM Hinson (Bermuda) Ltd. | 10% Owner | $76.5M | 5,500,391 | $13.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/1818383/000095015726001218/0000950157-26-001218-index.htm) |
+| **ILMN** ILLUMINA, INC. | Meister Keith A. | Director | $66.6M | 281,433 | $236.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/1110803/000101143826000653/0001011438-26-000653-index.htm) |
+
+Full list: [`data/insider/2026/11/2026-11-05.md`](data/insider/2026/11/2026-11-05.md)
 
 ## Latest weekly recap
 
