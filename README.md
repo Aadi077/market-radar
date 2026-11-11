@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-11-09
+**Last updated:** 2026-11-10
 
-## Market close · 2026-11-09
+## Market close · 2026-11-10
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 752.69 | +2.37% |
-| Nasdaq 100 (QQQ) | 679.35 | +3.54% |
-| Dow 30 (DIA) | 523.33 | +2.17% |
-| Russell 2000 (IWM) | 282.51 | +3.23% |
+| S&P 500 (SPY) | 749.92 | -0.37% |
+| Nasdaq 100 (QQQ) | 674.76 | -0.68% |
+| Dow 30 (DIA) | 521.73 | -0.31% |
+| Russell 2000 (IWM) | 280.58 | -0.68% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **AMD** +13.26% · **AVGO** +8.78% · **TSLA** +5.54% · **PLTR** +5.50% · **INTC** +5.49%  
-**Top large-cap decliners:** **NVDA** -4.27% · **CVX** -0.86% · **ADBE** -0.83% · **XOM** -0.69% · **V** -0.12%
+**Top large-cap gainers:** **AVGO** +3.91% · **UNH** +1.89% · **AMZN** +1.48% · **LLY** +1.44% · **BRK-B** +1.41%  
+**Top large-cap decliners:** **NVDA** -5.47% · **MSFT** -2.20% · **INTC** -2.09% · **ORCL** -1.51% · **NFLX** -1.08%
 
-## Biggest insider buys · filed 2026-11-06
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **MDGL** MADRIGAL PHARMACEUTICALS, INC. | BAKER BROS. ADVISORS LP, Baker Bros. Advisors (GP) LLC, BAKER FELIX, BAKER JULIAN, 667, L.P., Baker Brothers Life Sciences LP | Director | $35.0M | 91,806 | $381.49 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551139/000119312526452132/0001193125-26-452132-index.htm) |
-| **KOD** Kodiak Sciences Inc. | BAKER BROS. ADVISORS LP, 667, L.P., Baker Bros. Advisors (GP) LLC, Baker Brothers Life Sciences LP, BAKER FELIX, BAKER JULIAN | Director, 10% Owner | $24.3M | 247,090 | $98.51 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551139/000119312526451994/0001193125-26-451994-index.htm) |
-| **KMI** KINDER MORGAN, INC. | KINDER RICHARD D | Executive Chairman, Director, 10% Owner | $15.0M | 500,000 | $29.99 | [Form 4](https://www.sec.gov/Archives/edgar/data/1506307/000150630726000139/0001506307-26-000139-index.htm) |
-| **ANVS** Annovis Bio, Inc. | Hoffman Michael B | Director | $5.0M | 5,000,000 | $1.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1477845/000110465926123905/0001104659-26-123905-index.htm) |
-| **CVS** CVS HEALTH Corp | Shah Prem S | EVP and Group President | $2.0M | 23,855 | $83.89 | [Form 4](https://www.sec.gov/Archives/edgar/data/64803/000006480326000112/0000064803-26-000112-index.htm) |
-| **MXF** MEXICO EQUITY & INCOME FUND INC | Saba Capital Management, L.P. | 10% Owner | $499.7K | 24,115 | $20.72 | [Form 4](https://www.sec.gov/Archives/edgar/data/863900/000151028126000419/0001510281-26-000419-index.htm) |
-| **YPF** YPF SOCIEDAD ANONIMA | Francos Guillermo Alberto | Director | $356.3K | 6,930 | $51.42 | [Form 4](https://www.sec.gov/Archives/edgar/data/2120097/000129281426005166/0001292814-26-005166-index.htm) |
-| **KYN** Kayne Anderson Energy Infrastructure Fund, Inc. | Baker James C | President, Director | $331.1K | 25,000 | $13.24 | [Form 4](https://www.sec.gov/Archives/edgar/data/1331674/000133167426000005/0001331674-26-000005-index.htm) |
-| **JOF** JAPAN SMALLER CAPITALIZATION FUND INC | Saba Capital Management, L.P. | 10% Owner | $299.3K | 28,208 | $10.61 | [Form 4](https://www.sec.gov/Archives/edgar/data/859796/000151028126000420/0001510281-26-000420-index.htm) |
-| **TRNS** TRANSCAT INC | IRICK JAIME A | President and CEO, Director | $230.4K | 2,275 | $101.26 | [Form 4](https://www.sec.gov/Archives/edgar/data/1695807/000089183926000478/0000891839-26-000478-index.htm) |
-
-## Biggest insider sales · filed 2026-11-06
+## Biggest insider buys · filed 2026-11-09
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **INGM** Ingram Micro Holding Corp | PLATINUM EQUITY, LLC, Platinum Equity Investment Holdings, LLC, Platinum Equity Investment Holdings IC (Cayman), LLC, Platinum Equity InvestCo, L.P., Platinum Equity Investment Holdings V, LLC, Platinum Equity Partners V, LLC, Platinum Equity Partners V, L.P., Imola JV Holdings, L.P., Ingram Holdco, LLC, Gores Tom | 10% Owner | $325.8M | 12,650,000 | $25.76 | [Form 4](https://www.sec.gov/Archives/edgar/data/1471783/000110465926123883/0001104659-26-123883-index.htm) |
-| **AXP** AMERICAN EXPRESS CO | Squeri Stephen J | Chairman and CEO, Director | $99.4M | 299,401 | $332.16 | [Form 4](https://www.sec.gov/Archives/edgar/data/4962/000000496226000429/0000004962-26-000429-index.htm) |
-| **RCL** ROYAL CARIBBEAN CRUISES LTD | Wilhelmsen Arne Alexander | Director | $82.1M | 250,000 | $328.56 | [Form 4](https://www.sec.gov/Archives/edgar/data/884887/000131734526000018/0001317345-26-000018-index.htm) |
-| **LIN** LINDE PLC | White Matthew J | Chief Financial Officer | $45.3M | 86,833 | $521.21 | [Form 4](https://www.sec.gov/Archives/edgar/data/1707925/000162828026071528/0001628280-26-071528-index.htm) |
-| **MAR** MARRIOTT INTERNATIONAL INC /MD/ | Capuano Anthony | President & CEO, Director | $26.6M | 63,355 | $420.12 | [Form 4](https://www.sec.gov/Archives/edgar/data/1461996/000122520826008743/0001225208-26-008743-index.htm) |
+| **NFRX** 2023 ETF Series Trust | Harrison Street Real Assets Fund LLC | 10% Owner | $45.2M | 1,712,121 | $26.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/1969674/000168789826000010/0001687898-26-000010-index.htm) |
+| Keenova Therapeutics plc | GOLDENTREE ASSET MANAGEMENT LP, GoldenTree Asset Management LLC, Tananbaum Steven A. | 10% Owner | $26.4M | 295,716 | $89.25 | [Form 4](https://www.sec.gov/Archives/edgar/data/1278951/000149315226050818/0001493152-26-050818-index.htm) |
+| **LRN** Stride, Inc. | Haggart Dylan G., Fivespan Partners, LP, Fivespan Partners GP, LLC | Director | $8.1M | 108,273 | $74.83 | [Form 4](https://www.sec.gov/Archives/edgar/data/2162829/000121390026117633/0001213900-26-117633-index.htm) |
+| **NATR** NATURES SUNSHINE PRODUCTS INC | PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C., PRESCOTT GROUP AGGRESSIVE SMALL CAP LP, PRESCOTT GROUP AGGRESSIVE SMALL CAP II LP, PRESCOTT GROUP AGGRESSIVE SMALL CAP MASTER FUND GP, FROHLICH PHIL | 10% Owner | $2.8M | 291,666 | $9.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/1127429/000116615226000014/0001166152-26-000014-index.htm) |
+| **ROK** ROCKWELL AUTOMATION, INC | Moret Blake D. | President and CEO, Director | $1.5M | 4,000 | $386.36 | [Form 4](https://www.sec.gov/Archives/edgar/data/1515154/000151515426000003/0001515154-26-000003-index.htm) |
+| **PAM** Pampa Energy Inc. | Mindlin Damian Miguel | Vicepresident | $1.3M | 20,000 | $64.37 | [Form 4](https://www.sec.gov/Archives/edgar/data/2028916/000202891626000013/0002028916-26-000013-index.htm) |
+| **VDTA** Vertical Data Inc. | Hamble International Inc., Koverko Trevor | 10% Owner | $999.9K | 333,294 | $3.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2145730/000214573026000006/0002145730-26-000006-index.htm) |
+| **NLY** ANNALY CAPITAL MANAGEMENT INC | Wede Scott | Director | $940.0K | 50,000 | $18.80 | [Form 4](https://www.sec.gov/Archives/edgar/data/1043219/000199443626000004/0001994436-26-000004-index.htm) |
+| **FLOC** Flowco Holdings Inc. | EDWARDS JOSEPH R | President and CEO, Director | $798.2K | 41,000 | $19.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1202019/000119312526453692/0001193125-26-453692-index.htm) |
+| **DGICA** DONEGAL GROUP INC | DONEGAL MUTUAL INSURANCE CO | 10% Owner | $621.5K | 33,000 | $18.83 | [Form 4](https://www.sec.gov/Archives/edgar/data/800457/000093559626000028/0000935596-26-000028-index.htm) |
 
-Full list: [`data/insider/2026/11/2026-11-06.md`](data/insider/2026/11/2026-11-06.md)
+## Biggest insider sales · filed 2026-11-09
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **SYK** STRYKER CORP | STRYKER RONDA E | Director | $178.9M | 550,000 | $325.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/310764/000124291426000012/0001242914-26-000012-index.htm) |
+| **FIGS** FIGS, Inc. | Spear Catherine Eva | Chief Executive Officer, Director, 10% Owner | $79.7M | 4,044,284 | $19.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/1846576/000162828026072460/0001628280-26-072460-index.htm) |
+| **ANET** Arista Networks, Inc. | BECHTOLSHEIM ANDREAS | 10% Owner | $43.0M | 260,000 | $165.45 | [Form 4](https://www.sec.gov/Archives/edgar/data/1596532/000159653226000260/0001596532-26-000260-index.htm) |
+| **WEX** WEX Inc. | Wolfe Lauren Taylor, Impactive Capital LP, Impactive Capital LLC, Asmar Christian | Director | $42.6M | 234,577 | $181.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1787532/000092189526002975/0000921895-26-002975-index.htm) |
+| **CHYM** Chime Financial, Inc. | DST Global Advisors Ltd, Cardew Services Ltd, Galileo (PTC) Ltd, Zinonos Despoina | 10% Owner | $41.4M | 1,329,767 | $31.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/1550169/000119312526454169/0001193125-26-454169-index.htm) |
+
+Full list: [`data/insider/2026/11/2026-11-09.md`](data/insider/2026/11/2026-11-09.md)
 
 ## Latest weekly recap
 
