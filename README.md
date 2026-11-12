@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-11-10
+**Last updated:** 2026-11-11
 
-## Market close · 2026-11-10
+## Market close · 2026-11-11
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 749.92 | -0.37% |
-| Nasdaq 100 (QQQ) | 674.76 | -0.68% |
-| Dow 30 (DIA) | 521.73 | -0.31% |
-| Russell 2000 (IWM) | 280.58 | -0.68% |
+| S&P 500 (SPY) | 759.81 | +1.32% |
+| Nasdaq 100 (QQQ) | 690.38 | +2.31% |
+| Dow 30 (DIA) | 524.44 | +0.52% |
+| Russell 2000 (IWM) | 283.09 | +0.89% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **AVGO** +3.91% · **UNH** +1.89% · **AMZN** +1.48% · **LLY** +1.44% · **BRK-B** +1.41%  
-**Top large-cap decliners:** **NVDA** -5.47% · **MSFT** -2.20% · **INTC** -2.09% · **ORCL** -1.51% · **NFLX** -1.08%
+**Top large-cap gainers:** **ORCL** +8.82% · **INTC** +7.52% · **AMD** +7.32% · **AVGO** +3.99% · **TSLA** +2.91%  
+**Top large-cap decliners:** **MCD** -2.61% · **MSFT** -2.26% · **META** -1.97% · **AMZN** -1.74% · **PG** -0.59%
 
-## Biggest insider buys · filed 2026-11-09
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **NFRX** 2023 ETF Series Trust | Harrison Street Real Assets Fund LLC | 10% Owner | $45.2M | 1,712,121 | $26.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/1969674/000168789826000010/0001687898-26-000010-index.htm) |
-| Keenova Therapeutics plc | GOLDENTREE ASSET MANAGEMENT LP, GoldenTree Asset Management LLC, Tananbaum Steven A. | 10% Owner | $26.4M | 295,716 | $89.25 | [Form 4](https://www.sec.gov/Archives/edgar/data/1278951/000149315226050818/0001493152-26-050818-index.htm) |
-| **LRN** Stride, Inc. | Haggart Dylan G., Fivespan Partners, LP, Fivespan Partners GP, LLC | Director | $8.1M | 108,273 | $74.83 | [Form 4](https://www.sec.gov/Archives/edgar/data/2162829/000121390026117633/0001213900-26-117633-index.htm) |
-| **NATR** NATURES SUNSHINE PRODUCTS INC | PRESCOTT GROUP CAPITAL MANAGEMENT, L.L.C., PRESCOTT GROUP AGGRESSIVE SMALL CAP LP, PRESCOTT GROUP AGGRESSIVE SMALL CAP II LP, PRESCOTT GROUP AGGRESSIVE SMALL CAP MASTER FUND GP, FROHLICH PHIL | 10% Owner | $2.8M | 291,666 | $9.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/1127429/000116615226000014/0001166152-26-000014-index.htm) |
-| **ROK** ROCKWELL AUTOMATION, INC | Moret Blake D. | President and CEO, Director | $1.5M | 4,000 | $386.36 | [Form 4](https://www.sec.gov/Archives/edgar/data/1515154/000151515426000003/0001515154-26-000003-index.htm) |
-| **PAM** Pampa Energy Inc. | Mindlin Damian Miguel | Vicepresident | $1.3M | 20,000 | $64.37 | [Form 4](https://www.sec.gov/Archives/edgar/data/2028916/000202891626000013/0002028916-26-000013-index.htm) |
-| **VDTA** Vertical Data Inc. | Hamble International Inc., Koverko Trevor | 10% Owner | $999.9K | 333,294 | $3.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2145730/000214573026000006/0002145730-26-000006-index.htm) |
-| **NLY** ANNALY CAPITAL MANAGEMENT INC | Wede Scott | Director | $940.0K | 50,000 | $18.80 | [Form 4](https://www.sec.gov/Archives/edgar/data/1043219/000199443626000004/0001994436-26-000004-index.htm) |
-| **FLOC** Flowco Holdings Inc. | EDWARDS JOSEPH R | President and CEO, Director | $798.2K | 41,000 | $19.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1202019/000119312526453692/0001193125-26-453692-index.htm) |
-| **DGICA** DONEGAL GROUP INC | DONEGAL MUTUAL INSURANCE CO | 10% Owner | $621.5K | 33,000 | $18.83 | [Form 4](https://www.sec.gov/Archives/edgar/data/800457/000093559626000028/0000935596-26-000028-index.htm) |
-
-## Biggest insider sales · filed 2026-11-09
+## Biggest insider buys · filed 2026-11-10
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **SYK** STRYKER CORP | STRYKER RONDA E | Director | $178.9M | 550,000 | $325.32 | [Form 4](https://www.sec.gov/Archives/edgar/data/310764/000124291426000012/0001242914-26-000012-index.htm) |
-| **FIGS** FIGS, Inc. | Spear Catherine Eva | Chief Executive Officer, Director, 10% Owner | $79.7M | 4,044,284 | $19.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/1846576/000162828026072460/0001628280-26-072460-index.htm) |
-| **ANET** Arista Networks, Inc. | BECHTOLSHEIM ANDREAS | 10% Owner | $43.0M | 260,000 | $165.45 | [Form 4](https://www.sec.gov/Archives/edgar/data/1596532/000159653226000260/0001596532-26-000260-index.htm) |
-| **WEX** WEX Inc. | Wolfe Lauren Taylor, Impactive Capital LP, Impactive Capital LLC, Asmar Christian | Director | $42.6M | 234,577 | $181.47 | [Form 4](https://www.sec.gov/Archives/edgar/data/1787532/000092189526002975/0000921895-26-002975-index.htm) |
-| **CHYM** Chime Financial, Inc. | DST Global Advisors Ltd, Cardew Services Ltd, Galileo (PTC) Ltd, Zinonos Despoina | 10% Owner | $41.4M | 1,329,767 | $31.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/1550169/000119312526454169/0001193125-26-454169-index.htm) |
+| **NFRX** 2023 ETF Series Trust | Harrison Street Real Assets Fund LLC | 10% Owner | $24.5M | 932,977 | $26.22 | [Form 4](https://www.sec.gov/Archives/edgar/data/1969674/000168789826000011/0001687898-26-000011-index.htm) |
+| **FUN** Six Flags Entertainment Corporation/NEW | JAFFER REHAN | Director | $14.9M | 1,450,000 | $10.30 | [Form 4](https://www.sec.gov/Archives/edgar/data/1364501/000199900126000113/0001999001-26-000113-index.htm) |
+| **TXO** TXO Partners, L.P. | SIMPSON BOB R | Director, 10% Owner | $3.1M | 232,839 | $13.22 | [Form 4](https://www.sec.gov/Archives/edgar/data/1182684/000118268426000022/0001182684-26-000022-index.htm) |
+| **MXF** MEXICO FUND INC | Saba Capital Management, L.P. | 10% Owner | $2.5M | 124,121 | $20.41 | [Form 4](https://www.sec.gov/Archives/edgar/data/65433/000151028126000425/0001510281-26-000425-index.htm) |
+| **PSEC** PROSPECT CAPITAL CORP | Barry John F | CHIEF EXECUTIVE OFFICER, Director, 10% Owner | $1.7M | 1,222,704 | $1.41 | [Form 4](https://www.sec.gov/Archives/edgar/data/1294357/000129435726000018/0001294357-26-000018-index.htm) |
+| **LBTY** Liberty Global Ltd. | MALONE JOHN C | 10% Owner | $1.5M | 150,000 | $9.73 | [Form 4](https://www.sec.gov/Archives/edgar/data/1570585/000093779726000037/0000937797-26-000037-index.htm) |
+| **MX** MAGNACHIP SEMICONDUCTOR Corp | Amoruso Cristiano | Director | $1.4M | 568,009 | $2.41 | [Form 4](https://www.sec.gov/Archives/edgar/data/2069371/000119312526455960/0001193125-26-455960-index.htm) |
+| **PRTA** PROTHENA CORP PUBLIC LTD CO | SCULLY WILLIAM P | 10% Owner | $1.2M | 140,000 | $8.53 | [Form 4](https://www.sec.gov/Archives/edgar/data/1559053/000104546326000024/0001045463-26-000024-index.htm) |
+| **ETRA** Electra Therapeutics, Inc. | ORBIMED ADVISORS LLC, OrbiMed Capital GP VII LLC, OrbiMed Genesis GP LLC | Director, 10% Owner | $744.5K | 92,116 | $8.08 | [Form 4](https://www.sec.gov/Archives/edgar/data/2088082/000094787126001010/0000947871-26-001010-index.htm) |
+| **ETRA** Electra Therapeutics, Inc. | GORDON CARL L | Director, 10% Owner | $744.5K | 92,116 | $8.08 | [Form 4](https://www.sec.gov/Archives/edgar/data/2088082/000094787126001011/0000947871-26-001011-index.htm) |
 
-Full list: [`data/insider/2026/11/2026-11-09.md`](data/insider/2026/11/2026-11-09.md)
+## Biggest insider sales · filed 2026-11-10
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **RCL** ROYAL CARIBBEAN CRUISES LTD | Wilhelmsen Arne Alexander | Director | $159.8M | 476,674 | $335.29 | [Form 4](https://www.sec.gov/Archives/edgar/data/884887/000131734526000020/0001317345-26-000020-index.htm) |
+| **CRBG** Corebridge Financial, Inc. | Argon Holdco LLC, Blackstone Holdings II L.P., Blackstone Holdings I/II GP L.L.C., Blackstone Inc., Blackstone Group Management L.L.C., SCHWARZMAN STEPHEN A | 10% Owner | $110.0M | 3,227,700 | $34.09 | [Form 4](https://www.sec.gov/Archives/edgar/data/2017585/000119312526455577/0001193125-26-455577-index.htm) |
+| **ANET** Arista Networks, Inc. | BECHTOLSHEIM ANDREAS | 10% Owner | $43.9M | 260,000 | $168.96 | [Form 4](https://www.sec.gov/Archives/edgar/data/1596532/000159653226000262/0001596532-26-000262-index.htm) |
+| **MSI** Motorola Solutions, Inc. | BROWN GREGORY Q | Chairman and CEO, Director | $36.4M | 70,780 | $514.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/1201232/000120123226000019/0001201232-26-000019-index.htm) |
+| **INCY** INCYTE CORP | Stein Steven H | CMO & Head of Late-Stage Dev. | $28.4M | 240,193 | $118.39 | [Form 4](https://www.sec.gov/Archives/edgar/data/879169/000167377626000022/0001673776-26-000022-index.htm) |
+
+Full list: [`data/insider/2026/11/2026-11-10.md`](data/insider/2026/11/2026-11-10.md)
 
 ## Latest weekly recap
 
