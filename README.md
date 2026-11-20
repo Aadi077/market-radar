@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-11-18
+**Last updated:** 2026-11-19
 
-## Market close · 2026-11-18
+## Market close · 2026-11-19
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 730.20 | -0.31% |
-| Nasdaq 100 (QQQ) | 659.51 | +0.39% |
-| Dow 30 (DIA) | 501.73 | -1.10% |
-| Russell 2000 (IWM) | 270.12 | +0.40% |
+| S&P 500 (SPY) | 715.87 | -1.96% |
+| Nasdaq 100 (QQQ) | 645.04 | -2.19% |
+| Dow 30 (DIA) | 490.79 | -2.18% |
+| Russell 2000 (IWM) | 264.22 | -2.18% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **AMD** +5.31% · **DIS** +4.63% · **AMZN** +3.82% · **AVGO** +3.64% · **CSCO** +2.18%  
-**Top large-cap decliners:** **UNH** -10.21% · **CVX** -4.74% · **XOM** -3.97% · **ADBE** -3.97% · **MRK** -3.90%
+**Top large-cap gainers:** **INTC** +1.92% · **CVX** +0.30% · **COST** -0.25% · **HD** -0.28% · **WFC** -0.38%  
+**Top large-cap decliners:** **AMD** -7.72% · **UNH** -5.55% · **AMZN** -3.87% · **CRM** -3.72% · **MRK** -3.61%
 
-## Biggest insider buys · filed 2026-11-17
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **PEPG** PepGen Inc. | RA CAPITAL MANAGEMENT, L.P., RA Capital Healthcare Fund LP, RA Capital Nexus Fund II, L.P., Kolchinsky Peter, Shah Rajeev M. | Director, 10% Owner | $43.1M | 8,625,000 | $5.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1384859/000123191926001588/0001231919-26-001588-index.htm) |
-| **NFRX** 2023 ETF Series Trust | Harrison Street Real Assets Fund LLC | 10% Owner | $10.8M | 403,135 | $26.79 | [Form 4](https://www.sec.gov/Archives/edgar/data/1969674/000168789826000013/0001687898-26-000013-index.htm) |
-| **ANGX** Angel Studios, Inc. | Sarowitz Steven I | Director | $4.6M | 1,000,000 | $4.63 | [Form 4](https://www.sec.gov/Archives/edgar/data/1865200/000186520026000102/0001865200-26-000102-index.htm) |
-| **STUB** StubHub Holdings, Inc. | Raab Andrew John | Director | $2.0M | 400,000 | $5.12 | [Form 4](https://www.sec.gov/Archives/edgar/data/1560034/000162828026074600/0001628280-26-074600-index.htm) |
-| **TEAM** Atlassian Corp | Cannon-Brookes Michael | CEO, Co-Founder, Director, 10% Owner | $2.0M | 13,400 | $149.16 | [Form 4](https://www.sec.gov/Archives/edgar/data/1650372/000166612026000036/0001666120-26-000036-index.htm) |
-| **STUB** StubHub Holdings, Inc. | Bhargava Sameer | Director | $1.5M | 282,500 | $5.31 | [Form 4](https://www.sec.gov/Archives/edgar/data/2028011/000162828026074602/0001628280-26-074602-index.htm) |
-| **HRNG** HALLADOR ENERGY CO | Wesley Charles Ray IV | Director | $1.1M | 100,000 | $10.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/788965/000162828026074438/0001628280-26-074438-index.htm) |
-| **DKNG** DraftKings Inc. | Kalish Matthew | Director | $1.0M | 55,000 | $18.22 | [Form 4](https://www.sec.gov/Archives/edgar/data/1883685/000181019026000018/0001810190-26-000018-index.htm) |
-| **LPG** DORIAN LPG LTD. | HADJIPATERAS JOHN C | President and CEO, Director, 10% Owner | $961.5K | 20,000 | $48.07 | [Form 4](https://www.sec.gov/Archives/edgar/data/1596993/000091957426008172/0000919574-26-008172-index.htm) |
-| **UPST** Upstart Holdings, Inc. | Gu Paul | Chief Executive Officer, Director | $950.0K | 50,000 | $19.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1832812/000183281226000014/0001832812-26-000014-index.htm) |
-
-## Biggest insider sales · filed 2026-11-17
+## Biggest insider buys · filed 2026-11-18
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **ITGR** Integer Holdings Corp | Tarheel Investors III L.P., Tarheel Investors III GP LLC, KKR North America Fund XIV SCSp, KKR Associates North America XIV SCSp, KKR North America XIV S.a r.l., KKR Associates Group L.P., KKR Associates Group GP LLC | 10% Owner | $603.7M | 4,753,677 | $127.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1114483/000114036126044508/0001140361-26-044508-index.htm) |
-| **ITGR** Integer Holdings Corp | KKR Group Partnership L.P., KKR Group Holdings Corp., KKR Group Co. Inc., KKR & Co. Inc., KKR Management LLP, KRAVIS HENRY R, ROBERTS GEORGE R | 10% Owner | $603.7M | 4,753,677 | $127.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1114483/000114036126044509/0001140361-26-044509-index.htm) |
-| **TYL** TYLER TECHNOLOGIES INC | MOORE H LYNN JR | President and CEO, Director | $12.8M | 30,000 | $427.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/1250902/000213003526000009/0002130035-26-000009-index.htm) |
-| **WSM** WILLIAMS SONOMA INC | ALBER LAURA | PRESIDENT & CEO, Director | $8.9M | 35,000 | $254.03 | [Form 4](https://www.sec.gov/Archives/edgar/data/1225922/000071995526000239/0000719955-26-000239-index.htm) |
-| **CSCO** CISCO SYSTEMS, INC. | Stahlkopf Deborah L | EVP and Chief Legal Officer | $7.9M | 83,345 | $94.64 | [Form 4](https://www.sec.gov/Archives/edgar/data/858877/000085887726000194/0000858877-26-000194-index.htm) |
+| **WWB** WINDWARD BIO GROUP AG | Stampacchia Otello | Director | $29.8M | 1,750,000 | $17.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1361712/000136171226000011/0001361712-26-000011-index.htm) |
+| John Hancock GA Mortgage Trust | Manulife (International) Ltd | 10% Owner | $21.0M | 1,175,377 | $17.87 | [Form 4](https://www.sec.gov/Archives/edgar/data/1742952/000176551826000007/0001765518-26-000007-index.htm) |
+| **WWB** WINDWARD BIO GROUP AG | Bonita David P | Director, 10% Owner | $20.0M | 1,176,471 | $17.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1572451/000094787126001039/0000947871-26-001039-index.htm) |
+| **WWB** WINDWARD BIO GROUP AG | ORBIMED ADVISORS LLC, OrbiMed Capital GP IX LLC | Director, 10% Owner | $20.0M | 1,176,471 | $17.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1055951/000094787126001038/0000947871-26-001038-index.htm) |
+| **ANAB** ANAPTYSBIO, INC | EcoR1 Capital, LLC, NODELMAN OLEG | Director, 10% Owner | $17.2M | 374,580 | $45.98 | [Form 4](https://www.sec.gov/Archives/edgar/data/1370053/000093583626000631/0000935836-26-000631-index.htm) |
+| John Hancock GA Mortgage Trust | Manufacturers Life Reinsurance Ltd | 10% Owner | $9.0M | 503,733 | $17.87 | [Form 4](https://www.sec.gov/Archives/edgar/data/1742952/000176549626000021/0001765496-26-000021-index.htm) |
+| John Hancock GA Mortgage Trust | Manulife (Singapore) Pte. Ltd. | 10% Owner | $9.0M | 503,733 | $17.87 | [Form 4](https://www.sec.gov/Archives/edgar/data/1742952/000183747826000019/0001837478-26-000019-index.htm) |
+| **FUN** Six Flags Entertainment Corporation/NEW | JAFFER REHAN | Director | $6.4M | 550,000 | $11.55 | [Form 4](https://www.sec.gov/Archives/edgar/data/1364501/000199900126000121/0001999001-26-000121-index.htm) |
+| **PAM** Pampa Energy Inc. | Mindlin Marcos Marcelo | Director, 10% Owner | $4.0M | 63,548 | $63.14 | [Form 4](https://www.sec.gov/Archives/edgar/data/2022936/000202293626000019/0002022936-26-000019-index.htm) |
+| **BPRE** Bluerock Private Real Estate Fund | KAMFAR RAMIN | Director | $3.2M | 265,854 | $12.13 | [Form 4](https://www.sec.gov/Archives/edgar/data/1551047/000139834426020292/0001398344-26-020292-index.htm) |
 
-Full list: [`data/insider/2026/11/2026-11-17.md`](data/insider/2026/11/2026-11-17.md)
+## Biggest insider sales · filed 2026-11-18
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **LOAR** Loar Holdings Inc. | ABRAMS CAPITAL MANAGEMENT, L.P., ABRAMS CAPITAL MANAGEMENT, LLC, ABRAMS CAPITAL, LLC, Abrams Capital Partners II, L.P., Riva Capital Management IV, LLC, Riva IV CV, L.P., Riva Capital Management V, LLC, Riva Capital Partners V, L.P. | 10% Owner | $182.9M | 2,661,613 | $68.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/1358706/000119312526467217/0001193125-26-467217-index.htm) |
+| **LOAR** Loar Holdings Inc. | Abrams David C | Director, 10% Owner | $182.9M | 2,661,613 | $68.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/1292250/000119312526467230/0001193125-26-467230-index.htm) |
+| **LOAR** Loar Holdings Inc. | Bobbili Raja | Director, 10% Owner | $182.9M | 2,661,613 | $68.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/2021281/000119312526467208/0001193125-26-467208-index.htm) |
+| **LOAR** Loar Holdings Inc. | Bomberg Alison | Director, 10% Owner | $182.9M | 2,661,613 | $68.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/2021288/000119312526467225/0001193125-26-467225-index.htm) |
+| **LOAR** Loar Holdings Inc. | Carpenito Anthony | Director, 10% Owner | $182.9M | 2,661,613 | $68.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/2020972/000119312526467246/0001193125-26-467246-index.htm) |
+
+Full list: [`data/insider/2026/11/2026-11-18.md`](data/insider/2026/11/2026-11-18.md)
 
 ## Latest weekly recap
 
