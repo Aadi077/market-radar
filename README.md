@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-11-20
+**Last updated:** 2026-11-24
 
-## Market close · 2026-11-20
+## Market close · 2026-11-23
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 689.81 | -3.64% |
-| Nasdaq 100 (QQQ) | 608.45 | -5.67% |
-| Dow 30 (DIA) | 481.08 | -1.98% |
-| Russell 2000 (IWM) | 256.61 | -2.88% |
+| S&P 500 (SPY) | 722.29 | +4.71% |
+| Nasdaq 100 (QQQ) | 651.03 | +7.00% |
+| Dow 30 (DIA) | 495.80 | +3.06% |
+| Russell 2000 (IWM) | 265.74 | +3.56% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **UNH** +2.84% · **WMT** +1.52% · **JNJ** +1.25% · **PEP** +1.11% · **KO** +0.94%  
-**Top large-cap decliners:** **NVDA** -14.01% · **AMD** -13.25% · **AVGO** -12.19% · **ORCL** -8.48% · **INTC** -7.97%
+**Top large-cap gainers:** **NVDA** +31.48% · **INTC** +16.34% · **ORCL** +12.34% · **TSLA** +11.46% · **PLTR** +11.06%  
+**Top large-cap decliners:** **XOM** -1.93% · **KO** -1.14% · **UNH** -1.11% · **CVX** -1.06% · **COST** -0.38%
 
-## Biggest insider buys · filed 2026-11-19
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **IMDX** Insight Molecular Diagnostics Inc. | BROADWOOD PARTNERS, L.P., BROADWOOD CAPITAL INC, Bradsher Neal C | 10% Owner | $6.0M | 3,428,571 | $1.75 | [Form 4](https://www.sec.gov/Archives/edgar/data/1278387/000091957426008199/0000919574-26-008199-index.htm) |
-| **ELTK** ELTEK LTD | Nissan Yitzhak | Director | $2.3M | 258,982 | $8.92 | [Form 4](https://www.sec.gov/Archives/edgar/data/1024672/000117891326005303/0001178913-26-005303-index.htm) |
-| **EFC** Ellington Financial Inc. | Vranos Michael W | Co-Chief Investment Officer | $2.1M | 192,000 | $10.81 | [Form 4](https://www.sec.gov/Archives/edgar/data/1411342/000162828026074987/0001628280-26-074987-index.htm) |
-| **TEAM** Atlassian Corp | Cannon-Brookes Michael | CEO, Co-Founder, Director, 10% Owner | $1.9M | 13,400 | $140.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/1650372/000166612026000038/0001666120-26-000038-index.htm) |
-| **HMH** HMH Holding Inc | McGee Thomas W. | Chief Financial Officer | $1.6M | 140,000 | $11.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/2021880/000162828026075005/0001628280-26-075005-index.htm) |
-| **BIAF** bioAffinity Technologies, Inc. | HRT FINANCIAL LP | 10% Owner | $1.0M | 138,244 | $7.52 | [Form 4](https://www.sec.gov/Archives/edgar/data/1475597/000147559726000254/0001475597-26-000254-index.htm) |
-| **LCTX** Lineage Cell Therapeutics, Inc. | BROADWOOD PARTNERS, L.P., BROADWOOD CAPITAL INC, Bradsher Neal C | Director, 10% Owner | $770.7K | 1,000,000 | $0.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/1278387/000091957426008200/0000919574-26-008200-index.htm) |
-| **IRTC** iRhythm Holdings, Inc. | TALWALKAR ABHIJIT Y | Director | $763.7K | 7,900 | $96.67 | [Form 4](https://www.sec.gov/Archives/edgar/data/1316065/000131606526000016/0001316065-26-000016-index.htm) |
-| **PLD** Prologis, Inc. | KELLY ALFRED F JR | Director | $587.4K | 4,700 | $124.97 | [Form 4](https://www.sec.gov/Archives/edgar/data/1209454/000119312526468660/0001193125-26-468660-index.htm) |
-| **CCB** COASTAL FINANCIAL CORP | HOVDE STEVEN D | Director, 10% Owner | $550.0K | 15,000 | $36.67 | [Form 4](https://www.sec.gov/Archives/edgar/data/1437958/000101996626000008/0001019966-26-000008-index.htm) |
-
-## Biggest insider sales · filed 2026-11-19
+## Biggest insider buys · filed 2026-11-23
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **ICE** Intercontinental Exchange, Inc. | Sprecher Jeffrey C | Chief Executive Officer, Director | $32.0M | 183,844 | $174.07 | [Form 4](https://www.sec.gov/Archives/edgar/data/1571949/000119312526468655/0001193125-26-468655-index.htm) |
-| **ENPH** Enphase Energy, Inc. | Rodgers Thurman J | Director | $23.2M | 1,000,000 | $23.15 | [Form 4](https://www.sec.gov/Archives/edgar/data/1463101/000118396726000006/0001183967-26-000006-index.htm) |
-| **IBTA** Ibotta, Inc. | Clark Jermoluk Founders Fund I LLC, CLARK JAMES H | 10% Owner | $21.4M | 400,000 | $53.58 | [Form 4](https://www.sec.gov/Archives/edgar/data/1008700/000123191926001618/0001231919-26-001618-index.htm) |
-| **TLN** Talen Energy Corp | Berryman Brad | Chief Operating Officer | $19.8M | 56,091 | $353.50 | [Form 4](https://www.sec.gov/Archives/edgar/data/2028822/000162828026075082/0001628280-26-075082-index.htm) |
-| **VG** Venture Global, Inc. | Larson Keith D | General Counsel and Secretary | $9.6M | 789,958 | $12.16 | [Form 4](https://www.sec.gov/Archives/edgar/data/2050857/000205085726000020/0002050857-26-000020-index.htm) |
+| **BORR** Borr Drilling Ltd | Troim Tor Olav | Director | $30.5M | 9,000,000 | $3.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/1715497/000162828026075382/0001628280-26-075382-index.htm) |
+| **BH** Biglari Holdings Inc. | BIGLARI, SARDAR, BIGLARI CAPITAL CORP., LION FUND, L.P. | Chairman and CEO, Director, 10% Owner | $12.8M | 32,406 | $395.21 | [Form 4](https://www.sec.gov/Archives/edgar/data/1334429/000092189526003247/0000921895-26-003247-index.htm) |
+| Blackstone Private Real Estate Credit & Income Fund | Blackstone Private Multi-Asset Credit & Income Fund, Blackstone Private Credit Strategies LLC, Blackstone Intermediary Holdco L.L.C., BLACKSTONE SECURITIES PARTNERS L.P., Blackstone Advisory Services L.L.C., Blackstone Private Real Estate Credit & Income Fund (Offshore Strategic Feeder Fund) L.P., BREC Offshore Feeder GP, L.L.C. | 10% Owner | $10.2M | 388,224 | $26.16 | [Form 4](https://www.sec.gov/Archives/edgar/data/792326/000121390026123203/0001213900-26-123203-index.htm) |
+| Blackstone Private Real Estate Credit & Income Fund | Blackstone Holdings IV L.P., Blackstone Holdings IV GP L.P., Blackstone Holdings IV GP Management (Delaware) L.P., Blackstone Holdings IV GP Management L.L.C., Blackstone Holdings I L.P., Blackstone Holdings I/II GP L.L.C., Blackstone Inc., Blackstone Group Management L.L.C., SCHWARZMAN STEPHEN A | 10% Owner | $10.2M | 388,224 | $26.16 | [Form 4](https://www.sec.gov/Archives/edgar/data/1404071/000121390026123195/0001213900-26-123195-index.htm) |
+| **PAM** Pampa Energy Inc. | Mindlin Marcos Marcelo | Director, 10% Owner | $7.3M | 117,952 | $62.03 | [Form 4](https://www.sec.gov/Archives/edgar/data/2022936/000202293626000020/0002022936-26-000020-index.htm) |
+| **FRMI** Fermi Inc. | Wentz George R. Jr. | General Counsel | $6.4M | 2,223,624 | $2.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/2071778/000121390026123347/0001213900-26-123347-index.htm) |
+| **SAFTX** Sound Point Alternative Income Fund | ASSURED GUARANTY LTD, Assured Guaranty US Holdings Inc., Assured Guaranty Municipal Holdings Inc., Assured Guaranty Inc., AG Asset Strategies LLC | 10% Owner | $5.0M | 245,098 | $20.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/2027026/000162828026075581/0001628280-26-075581-index.htm) |
+| **ANT** Anthropic, PBC | LIDDELL CHRISTOPHER P | Director | $5.0M | 60,240 | $83.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2130357/000122182026000005/0001221820-26-000005-index.htm) |
+| **FUN** Six Flags Entertainment Corporation/NEW | JAFFER REHAN | Director | $4.3M | 375,000 | $11.43 | [Form 4](https://www.sec.gov/Archives/edgar/data/1364501/000199900126000124/0001999001-26-000124-index.htm) |
+| **ANAB** ANAPTYSBIO, INC | EcoR1 Capital, LLC, NODELMAN OLEG | Director, 10% Owner | $2.2M | 46,389 | $46.93 | [Form 4](https://www.sec.gov/Archives/edgar/data/1370053/000093583626000658/0000935836-26-000658-index.htm) |
 
-Full list: [`data/insider/2026/11/2026-11-19.md`](data/insider/2026/11/2026-11-19.md)
+## Biggest insider sales · filed 2026-11-23
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **ANT** Anthropic, PBC | Amodei Daniela | President, Director | $280.4M | 3,378,378 | $83.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2158120/000215812026000003/0002158120-26-000003-index.htm) |
+| **ANT** Anthropic, PBC | Amodei Dario | Chief Executive Officer, Director | $280.4M | 3,378,378 | $83.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2157947/000215794726000004/0002157947-26-000004-index.htm) |
+| **TRON** Tron Inc. | SUN Weike, Bravemorning Ltd | Director, 10% Owner | $115.1M | 69,741,000 | $1.65 | [Form 4](https://www.sec.gov/Archives/edgar/data/2075159/000149315226053616/0001493152-26-053616-index.htm) |
+| **ARDT** Ardent Health, Inc. | CHAI TRUST CO LLC, EGI-AM Investments, L.L.C., EGI-AM Investor, L.L.C. | 10% Owner | $97.8M | 7,136,719 | $13.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/1756655/000090514826005124/0000905148-26-005124-index.htm) |
+| **PLTR** Palantir Technologies Inc. | Sankar Shyam | See Remarks | $48.0M | 300,000 | $159.86 | [Form 4](https://www.sec.gov/Archives/edgar/data/1321655/000182415926000019/0001824159-26-000019-index.htm) |
+
+Full list: [`data/insider/2026/11/2026-11-23.md`](data/insider/2026/11/2026-11-23.md)
 
 ## Latest weekly recap
 
