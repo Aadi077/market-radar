@@ -4,19 +4,19 @@ An automatically updated record of **insider trading** (SEC Form 4 open-market b
 
 **Last updated:** 2026-11-24
 
-## Market close · 2026-11-23
+## Market close · 2026-11-24
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 722.29 | +4.71% |
-| Nasdaq 100 (QQQ) | 651.03 | +7.00% |
-| Dow 30 (DIA) | 495.80 | +3.06% |
-| Russell 2000 (IWM) | 265.74 | +3.56% |
+| S&P 500 (SPY) | 718.78 | -0.49% |
+| Nasdaq 100 (QQQ) | 638.10 | -1.99% |
+| Dow 30 (DIA) | 499.74 | +0.79% |
+| Russell 2000 (IWM) | 267.14 | +0.53% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **NVDA** +31.48% · **INTC** +16.34% · **ORCL** +12.34% · **TSLA** +11.46% · **PLTR** +11.06%  
-**Top large-cap decliners:** **XOM** -1.93% · **KO** -1.14% · **UNH** -1.11% · **CVX** -1.06% · **COST** -0.38%
+**Top large-cap gainers:** **MRK** +4.50% · **CRM** +4.21% · **ABBV** +4.10% · **ADBE** +3.62% · **LLY** +3.15%  
+**Top large-cap decliners:** **AMD** -8.86% · **INTC** -8.15% · **NVDA** -5.86% · **AVGO** -3.98% · **ORCL** -3.68%
 
 ## Biggest insider buys · filed 2026-11-23
 
