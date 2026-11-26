@@ -2,48 +2,48 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-11-24
+**Last updated:** 2026-11-25
 
-## Market close · 2026-11-24
+## Market close · 2026-11-25
 
 | Index | Close | Change |
 |---|---:|---:|
-| S&P 500 (SPY) | 718.78 | -0.49% |
-| Nasdaq 100 (QQQ) | 638.10 | -1.99% |
-| Dow 30 (DIA) | 499.74 | +0.79% |
-| Russell 2000 (IWM) | 267.14 | +0.53% |
+| S&P 500 (SPY) | 716.70 | -0.29% |
+| Nasdaq 100 (QQQ) | 633.93 | -0.65% |
+| Dow 30 (DIA) | 501.27 | +0.31% |
+| Russell 2000 (IWM) | 268.87 | +0.65% |
 
 ![Sector performance](charts/sectors-daily.svg)
 
-**Top large-cap gainers:** **MRK** +4.50% · **CRM** +4.21% · **ABBV** +4.10% · **ADBE** +3.62% · **LLY** +3.15%  
-**Top large-cap decliners:** **AMD** -8.86% · **INTC** -8.15% · **NVDA** -5.86% · **AVGO** -3.98% · **ORCL** -3.68%
+**Top large-cap gainers:** **META** +3.40% · **IBM** +3.33% · **DIS** +2.52% · **HD** +2.14% · **CRM** +2.04%  
+**Top large-cap decliners:** **ORCL** -5.13% · **NVDA** -3.91% · **AMZN** -3.12% · **GOOGL** -2.13% · **ABBV** -1.93%
 
-## Biggest insider buys · filed 2026-11-23
-
-| Company | Insider | Role | Value | Shares | Avg price | Filing |
-|---|---|---|---:|---:|---:|---|
-| **BORR** Borr Drilling Ltd | Troim Tor Olav | Director | $30.5M | 9,000,000 | $3.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/1715497/000162828026075382/0001628280-26-075382-index.htm) |
-| **BH** Biglari Holdings Inc. | BIGLARI, SARDAR, BIGLARI CAPITAL CORP., LION FUND, L.P. | Chairman and CEO, Director, 10% Owner | $12.8M | 32,406 | $395.21 | [Form 4](https://www.sec.gov/Archives/edgar/data/1334429/000092189526003247/0000921895-26-003247-index.htm) |
-| Blackstone Private Real Estate Credit & Income Fund | Blackstone Private Multi-Asset Credit & Income Fund, Blackstone Private Credit Strategies LLC, Blackstone Intermediary Holdco L.L.C., BLACKSTONE SECURITIES PARTNERS L.P., Blackstone Advisory Services L.L.C., Blackstone Private Real Estate Credit & Income Fund (Offshore Strategic Feeder Fund) L.P., BREC Offshore Feeder GP, L.L.C. | 10% Owner | $10.2M | 388,224 | $26.16 | [Form 4](https://www.sec.gov/Archives/edgar/data/792326/000121390026123203/0001213900-26-123203-index.htm) |
-| Blackstone Private Real Estate Credit & Income Fund | Blackstone Holdings IV L.P., Blackstone Holdings IV GP L.P., Blackstone Holdings IV GP Management (Delaware) L.P., Blackstone Holdings IV GP Management L.L.C., Blackstone Holdings I L.P., Blackstone Holdings I/II GP L.L.C., Blackstone Inc., Blackstone Group Management L.L.C., SCHWARZMAN STEPHEN A | 10% Owner | $10.2M | 388,224 | $26.16 | [Form 4](https://www.sec.gov/Archives/edgar/data/1404071/000121390026123195/0001213900-26-123195-index.htm) |
-| **PAM** Pampa Energy Inc. | Mindlin Marcos Marcelo | Director, 10% Owner | $7.3M | 117,952 | $62.03 | [Form 4](https://www.sec.gov/Archives/edgar/data/2022936/000202293626000020/0002022936-26-000020-index.htm) |
-| **FRMI** Fermi Inc. | Wentz George R. Jr. | General Counsel | $6.4M | 2,223,624 | $2.90 | [Form 4](https://www.sec.gov/Archives/edgar/data/2071778/000121390026123347/0001213900-26-123347-index.htm) |
-| **SAFTX** Sound Point Alternative Income Fund | ASSURED GUARANTY LTD, Assured Guaranty US Holdings Inc., Assured Guaranty Municipal Holdings Inc., Assured Guaranty Inc., AG Asset Strategies LLC | 10% Owner | $5.0M | 245,098 | $20.40 | [Form 4](https://www.sec.gov/Archives/edgar/data/2027026/000162828026075581/0001628280-26-075581-index.htm) |
-| **ANT** Anthropic, PBC | LIDDELL CHRISTOPHER P | Director | $5.0M | 60,240 | $83.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2130357/000122182026000005/0001221820-26-000005-index.htm) |
-| **FUN** Six Flags Entertainment Corporation/NEW | JAFFER REHAN | Director | $4.3M | 375,000 | $11.43 | [Form 4](https://www.sec.gov/Archives/edgar/data/1364501/000199900126000124/0001999001-26-000124-index.htm) |
-| **ANAB** ANAPTYSBIO, INC | EcoR1 Capital, LLC, NODELMAN OLEG | Director, 10% Owner | $2.2M | 46,389 | $46.93 | [Form 4](https://www.sec.gov/Archives/edgar/data/1370053/000093583626000658/0000935836-26-000658-index.htm) |
-
-## Biggest insider sales · filed 2026-11-23
+## Biggest insider buys · filed 2026-11-24
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **ANT** Anthropic, PBC | Amodei Daniela | President, Director | $280.4M | 3,378,378 | $83.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2158120/000215812026000003/0002158120-26-000003-index.htm) |
-| **ANT** Anthropic, PBC | Amodei Dario | Chief Executive Officer, Director | $280.4M | 3,378,378 | $83.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/2157947/000215794726000004/0002157947-26-000004-index.htm) |
-| **TRON** Tron Inc. | SUN Weike, Bravemorning Ltd | Director, 10% Owner | $115.1M | 69,741,000 | $1.65 | [Form 4](https://www.sec.gov/Archives/edgar/data/2075159/000149315226053616/0001493152-26-053616-index.htm) |
-| **ARDT** Ardent Health, Inc. | CHAI TRUST CO LLC, EGI-AM Investments, L.L.C., EGI-AM Investor, L.L.C. | 10% Owner | $97.8M | 7,136,719 | $13.70 | [Form 4](https://www.sec.gov/Archives/edgar/data/1756655/000090514826005124/0000905148-26-005124-index.htm) |
-| **PLTR** Palantir Technologies Inc. | Sankar Shyam | See Remarks | $48.0M | 300,000 | $159.86 | [Form 4](https://www.sec.gov/Archives/edgar/data/1321655/000182415926000019/0001824159-26-000019-index.htm) |
+| **PLTR** Palantir Technologies Inc. | THIEL PETER | Director | $122.3M | 850,100 | $143.81 | [Form 4](https://www.sec.gov/Archives/edgar/data/1321655/000121106026000012/0001211060-26-000012-index.htm) |
+| **COHR** COHERENT CORP. | PAGLIUCA STEPHEN G | Director | $15.2M | 82,000 | $185.59 | [Form 4](https://www.sec.gov/Archives/edgar/data/820318/000089914026001411/0000899140-26-001411-index.htm) |
+| Apollo Origination II (UL) Capital Trust | Apollo Principal Holdings B GP, LLC, APH Holdings (DC), L.P., Apollo Origination Partnership II (Unlevered AIV), L.P., Apollo Origination Advisors II, L.P., Apollo Origination Advisors II GP, LLC | 10% Owner | $15.0M | 585,480 | $25.62 | [Form 4](https://www.sec.gov/Archives/edgar/data/2021690/000119312526476417/0001193125-26-476417-index.htm) |
+| **VANI** Vivani Medical, Inc. | Williams Gregg | Director, 10% Owner | $5.3M | 5,208,902 | $1.02 | [Form 4](https://www.sec.gov/Archives/edgar/data/1266806/000175392626002241/0001753926-26-002241-index.htm) |
+| **SNDA** SONIDA SENIOR LIVING, INC. | Simanovsky Michael, Conversant Capital LLC, Conversant Private GP LLC | Director, 10% Owner | $5.0M | 157,997 | $31.96 | [Form 4](https://www.sec.gov/Archives/edgar/data/1850901/000089534526000505/0000895345-26-000505-index.htm) |
+| **CSQR** Csquare, Inc. | BROOKFIELD Corp /ON/, Dawn Topco L.P., BIF III GP (Cayman) L.P. | 10% Owner | $4.3M | 297,797 | $14.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/2143874/000095014226003149/0000950142-26-003149-index.htm) |
+| **MNR** MACH NATURAL RESOURCES LP | WARD TOM L. | See Remarks, Director, 10% Owner | $2.0M | 247,000 | $7.98 | [Form 4](https://www.sec.gov/Archives/edgar/data/1980088/000121390026123676/0001213900-26-123676-index.htm) |
+| **TEAM** Atlassian Corp | Cannon-Brookes Michael | CEO, Co-Founder, Director, 10% Owner | $1.9M | 13,400 | $139.62 | [Form 4](https://www.sec.gov/Archives/edgar/data/1650372/000166612026000041/0001666120-26-000041-index.htm) |
+| **MNTS** Momentus Inc. | BURKLE RONALD W, OA3, LLC |  | $1.2M | 635,583 | $1.95 | [Form 4](https://www.sec.gov/Archives/edgar/data/1015899/000090514826005172/0000905148-26-005172-index.htm) |
+| **ASTS** AST SpaceMobile, Inc. | Cisneros Adriana | Director | $1.0M | 43,564 | $23.54 | [Form 4](https://www.sec.gov/Archives/edgar/data/1780312/000110465926131559/0001104659-26-131559-index.htm) |
 
-Full list: [`data/insider/2026/11/2026-11-23.md`](data/insider/2026/11/2026-11-23.md)
+## Biggest insider sales · filed 2026-11-24
+
+| Company | Insider | Role | Value | Shares | Avg price | Filing |
+|---|---|---|---:|---:|---:|---|
+| **SLDE** Slide Insurance Holdings, Inc. | Lucas Bruce | Chief Executive Officer, Director, 10% Owner | $160.2M | 6,580,000 | $24.35 | [Form 4](https://www.sec.gov/Archives/edgar/data/1552968/000119312526473141/0001193125-26-473141-index.htm) |
+| **YSWY** Yesway, Inc. | TRKLA THOMAS N., BW Gas & Convenience Aggregator, L.P., BW Gas & Convenience Aggregator II, L.P., BW Gas & Convenience Aggregator III, L.P. | See Remarks, Director, 10% Owner | $91.2M | 5,000,000 | $18.24 | [Form 4](https://www.sec.gov/Archives/edgar/data/1885831/000110465926131716/0001104659-26-131716-index.htm) |
+| **YSWY** Yesway, Inc. | TRKLA THOMAS N., Brookwood Advisors, LLC, BW Gas & Convenience Offshore Fund, L.P., BW Gas & Convenience Fund GP, LLC, BW Gas & Convenience Offshore Fund II, L.P., BW Gas & Convenience Fund II GP, LLC, BW Gas & Convenience Offshore Fund III, L.P., BW Gas & Convenience Fund III GP, LLC, Brookwood Financial Co., Inc. | See Remarks, Director, 10% Owner | $91.2M | 5,000,000 | $18.24 | [Form 4](https://www.sec.gov/Archives/edgar/data/1885832/000110465926131715/0001104659-26-131715-index.htm) |
+| **PLTR** Palantir Technologies Inc. | Karp Alexander C. | See Remarks, Director | $37.9M | 239,944 | $158.10 | [Form 4](https://www.sec.gov/Archives/edgar/data/1823951/000182395126000013/0001823951-26-000013-index.htm) |
+| **PLTR** Palantir Technologies Inc. | Karp Alexander C. | See Remarks, Director | $37.2M | 253,319 | $146.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/1823951/000182395126000011/0001823951-26-000011-index.htm) |
+
+Full list: [`data/insider/2026/11/2026-11-24.md`](data/insider/2026/11/2026-11-24.md)
 
 ## Latest weekly recap
 
