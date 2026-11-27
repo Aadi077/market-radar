@@ -2,7 +2,7 @@
 
 An automatically updated record of **insider trading** (SEC Form 4 open-market buys and sales) and **US market performance**, updated every weekday with a recap each Monday. Collected by GitHub Actions.
 
-**Last updated:** 2026-11-25
+**Last updated:** 2026-11-26
 
 ## Market close · 2026-11-25
 
@@ -18,32 +18,32 @@ An automatically updated record of **insider trading** (SEC Form 4 open-market b
 **Top large-cap gainers:** **META** +3.40% · **IBM** +3.33% · **DIS** +2.52% · **HD** +2.14% · **CRM** +2.04%  
 **Top large-cap decliners:** **ORCL** -5.13% · **NVDA** -3.91% · **AMZN** -3.12% · **GOOGL** -2.13% · **ABBV** -1.93%
 
-## Biggest insider buys · filed 2026-11-24
+## Biggest insider buys · filed 2026-11-25
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **PLTR** Palantir Technologies Inc. | THIEL PETER | Director | $122.3M | 850,100 | $143.81 | [Form 4](https://www.sec.gov/Archives/edgar/data/1321655/000121106026000012/0001211060-26-000012-index.htm) |
-| **COHR** COHERENT CORP. | PAGLIUCA STEPHEN G | Director | $15.2M | 82,000 | $185.59 | [Form 4](https://www.sec.gov/Archives/edgar/data/820318/000089914026001411/0000899140-26-001411-index.htm) |
-| Apollo Origination II (UL) Capital Trust | Apollo Principal Holdings B GP, LLC, APH Holdings (DC), L.P., Apollo Origination Partnership II (Unlevered AIV), L.P., Apollo Origination Advisors II, L.P., Apollo Origination Advisors II GP, LLC | 10% Owner | $15.0M | 585,480 | $25.62 | [Form 4](https://www.sec.gov/Archives/edgar/data/2021690/000119312526476417/0001193125-26-476417-index.htm) |
-| **VANI** Vivani Medical, Inc. | Williams Gregg | Director, 10% Owner | $5.3M | 5,208,902 | $1.02 | [Form 4](https://www.sec.gov/Archives/edgar/data/1266806/000175392626002241/0001753926-26-002241-index.htm) |
-| **SNDA** SONIDA SENIOR LIVING, INC. | Simanovsky Michael, Conversant Capital LLC, Conversant Private GP LLC | Director, 10% Owner | $5.0M | 157,997 | $31.96 | [Form 4](https://www.sec.gov/Archives/edgar/data/1850901/000089534526000505/0000895345-26-000505-index.htm) |
-| **CSQR** Csquare, Inc. | BROOKFIELD Corp /ON/, Dawn Topco L.P., BIF III GP (Cayman) L.P. | 10% Owner | $4.3M | 297,797 | $14.44 | [Form 4](https://www.sec.gov/Archives/edgar/data/2143874/000095014226003149/0000950142-26-003149-index.htm) |
-| **MNR** MACH NATURAL RESOURCES LP | WARD TOM L. | See Remarks, Director, 10% Owner | $2.0M | 247,000 | $7.98 | [Form 4](https://www.sec.gov/Archives/edgar/data/1980088/000121390026123676/0001213900-26-123676-index.htm) |
-| **TEAM** Atlassian Corp | Cannon-Brookes Michael | CEO, Co-Founder, Director, 10% Owner | $1.9M | 13,400 | $139.62 | [Form 4](https://www.sec.gov/Archives/edgar/data/1650372/000166612026000041/0001666120-26-000041-index.htm) |
-| **MNTS** Momentus Inc. | BURKLE RONALD W, OA3, LLC |  | $1.2M | 635,583 | $1.95 | [Form 4](https://www.sec.gov/Archives/edgar/data/1015899/000090514826005172/0000905148-26-005172-index.htm) |
-| **ASTS** AST SpaceMobile, Inc. | Cisneros Adriana | Director | $1.0M | 43,564 | $23.54 | [Form 4](https://www.sec.gov/Archives/edgar/data/1780312/000110465926131559/0001104659-26-131559-index.htm) |
+| **SHMD** SCHMID Group N.V. | Schuetz Arthur Josef Hermann | CFO Schmid Group N.V. | $103.9B | 60,000 | $1,731,429.00 | [Form 4](https://www.sec.gov/Archives/edgar/data/1987240/000212566726000005/0002125667-26-000005-index.htm) |
+| **COHR** COHERENT CORP. | PAGLIUCA STEPHEN G | Director | $34.7M | 169,910 | $203.95 | [Form 4](https://www.sec.gov/Archives/edgar/data/820318/000089914026001413/0000899140-26-001413-index.htm) |
+| **GOLD** Gold.com, Inc. | Tether Global Investments Fund, S.I.C.A.F., S.A., TPM, S.A. de C.V., Devasini Giancarlo | 10% Owner | $5.7M | 150,000 | $38.31 | [Form 4](https://www.sec.gov/Archives/edgar/data/2050373/000110465926131976/0001104659-26-131976-index.htm) |
+| **DXYZ** Destiny Tech100 Inc. | Saba Capital Management, L.P. | 10% Owner | $5.1M | 208,774 | $24.25 | [Form 4](https://www.sec.gov/Archives/edgar/data/1843974/000151028126000482/0001510281-26-000482-index.htm) |
+| **BORR** Borr Drilling Ltd | Troim Tor Olav | Director | $3.9M | 1,000,000 | $3.94 | [Form 4](https://www.sec.gov/Archives/edgar/data/1715497/000162828026075874/0001628280-26-075874-index.htm) |
+| **KDK** Kodiak AI, Inc. | Burnette Donald L. | Chief Executive Officer, Director, 10% Owner | $2.2M | 2,000,000 | $1.11 | [Form 4](https://www.sec.gov/Archives/edgar/data/2080471/000208047126000003/0002080471-26-000003-index.htm) |
+| **TEAM** Atlassian Corp | Cannon-Brookes Michael | CEO, Co-Founder, Director, 10% Owner | $1.9M | 13,400 | $142.38 | [Form 4](https://www.sec.gov/Archives/edgar/data/1650372/000166612026000042/0001666120-26-000042-index.htm) |
+| **TEAM** Atlassian Corp | Cannon-Brookes Michael | CEO, Co-Founder, Director, 10% Owner | $1.9M | 13,400 | $138.85 | [Form 4](https://www.sec.gov/Archives/edgar/data/1650372/000166612026000043/0001666120-26-000043-index.htm) |
+| **PLBY** Playboy, Inc. | Docler Holding S.a r.l., Byborg Enterprises S.A., Million S.a r.l., Gattyan Gyorgy | Director, 10% Owner | $1.7M | 1,482,000 | $1.15 | [Form 4](https://www.sec.gov/Archives/edgar/data/2044291/000101297526001116/0001012975-26-001116-index.htm) |
+| **WMB** WILLIAMS COMPANIES, INC. | Turner Robb E | Director | $978.6K | 15,000 | $65.24 | [Form 4](https://www.sec.gov/Archives/edgar/data/1405444/000140544426000010/0001405444-26-000010-index.htm) |
 
-## Biggest insider sales · filed 2026-11-24
+## Biggest insider sales · filed 2026-11-25
 
 | Company | Insider | Role | Value | Shares | Avg price | Filing |
 |---|---|---|---:|---:|---:|---|
-| **SLDE** Slide Insurance Holdings, Inc. | Lucas Bruce | Chief Executive Officer, Director, 10% Owner | $160.2M | 6,580,000 | $24.35 | [Form 4](https://www.sec.gov/Archives/edgar/data/1552968/000119312526473141/0001193125-26-473141-index.htm) |
-| **YSWY** Yesway, Inc. | TRKLA THOMAS N., BW Gas & Convenience Aggregator, L.P., BW Gas & Convenience Aggregator II, L.P., BW Gas & Convenience Aggregator III, L.P. | See Remarks, Director, 10% Owner | $91.2M | 5,000,000 | $18.24 | [Form 4](https://www.sec.gov/Archives/edgar/data/1885831/000110465926131716/0001104659-26-131716-index.htm) |
-| **YSWY** Yesway, Inc. | TRKLA THOMAS N., Brookwood Advisors, LLC, BW Gas & Convenience Offshore Fund, L.P., BW Gas & Convenience Fund GP, LLC, BW Gas & Convenience Offshore Fund II, L.P., BW Gas & Convenience Fund II GP, LLC, BW Gas & Convenience Offshore Fund III, L.P., BW Gas & Convenience Fund III GP, LLC, Brookwood Financial Co., Inc. | See Remarks, Director, 10% Owner | $91.2M | 5,000,000 | $18.24 | [Form 4](https://www.sec.gov/Archives/edgar/data/1885832/000110465926131715/0001104659-26-131715-index.htm) |
-| **PLTR** Palantir Technologies Inc. | Karp Alexander C. | See Remarks, Director | $37.9M | 239,944 | $158.10 | [Form 4](https://www.sec.gov/Archives/edgar/data/1823951/000182395126000013/0001823951-26-000013-index.htm) |
-| **PLTR** Palantir Technologies Inc. | Karp Alexander C. | See Remarks, Director | $37.2M | 253,319 | $146.77 | [Form 4](https://www.sec.gov/Archives/edgar/data/1823951/000182395126000011/0001823951-26-000011-index.htm) |
+| **MDLN** Medline Inc. | BCP 8 Holdings Mozart Manager L.L.C., BMA VIII L.L.C., Blackstone Holdings II L.P., Blackstone Holdings I/II GP L.L.C., Blackstone Inc., Blackstone Group Management L.L.C., SCHWARZMAN STEPHEN A | 10% Owner | $821.6M | 23,436,534 | $35.06 | [Form 4](https://www.sec.gov/Archives/edgar/data/2094484/000119312526478553/0001193125-26-478553-index.htm) |
+| **MDLN** Medline Inc. | BX Mozart ML-2 Holdco L.P., BX Mozart ML-1 Holdco L.P., Mozart Aggregator II UNLV Holdco L.P., Mozart Aggregator UNLV Holdco L.P., Mozart Aggregator II LP, BX Mozart ML-2 Holdco GP L.L.C., BX Mozart ML-1 Holdco GP L.L.C., BCP Mozart Aggregator L.P., Blackstone Management Associates VIII L.P. | 10% Owner | $821.6M | 23,436,534 | $35.06 | [Form 4](https://www.sec.gov/Archives/edgar/data/2094487/000119312526478552/0001193125-26-478552-index.htm) |
+| **MDLN** Medline Inc. | Hellman & Friedman Capital Partners X (Parallel), L.P., HFCP X (Parallel-A), L.P., Mend Partners II, L.P., Mend Investment Holdings I, L.P., Hellman & Friedman Investors X, L.P., Mend Partners GP, LLC, Mend Investment Holdings GP, LLC, Hellman & Friedman Capital Partners X, L.P., H&F Corporate Investors X, Ltd. | 10% Owner | $789.5M | 22,521,507 | $35.06 | [Form 4](https://www.sec.gov/Archives/edgar/data/1901930/000119312526478548/0001193125-26-478548-index.htm) |
+| **MDLN** Medline Inc. | Carlyle Group Inc., Carlyle Holdings I GP Inc., Carlyle Holdings I GP Sub L.L.C., Carlyle Holdings I L.P., CG Subsidiary Holdings L.L.C., TC Group, LLC, TC Group Sub L.P., TC Group VII S1, L.L.C., TC Group VII S1, L.P. | 10% Owner | $384.6M | 10,970,262 | $35.06 | [Form 4](https://www.sec.gov/Archives/edgar/data/1790577/000149315226054235/0001493152-26-054235-index.htm) |
+| **MDLN** Medline Inc. | CP Circle ML Holdco GP, LLC, CP Circle ML-1 Holdco GP, LLC, CP Circle ML-1 Holdco, L.P., CP Circle ML-2 Holdco, L.P., CP Circle ML-3 Holdco, L.P., CP Circle ML-4 Holdco, L.P., CP Circle ML-5 Holdco, L.P., CP Circle ML-6 Holdco, L.P., CP Circle ML-7 Holdco, L.P. | 10% Owner | $384.6M | 10,970,262 | $35.06 | [Form 4](https://www.sec.gov/Archives/edgar/data/2102777/000149315226054234/0001493152-26-054234-index.htm) |
 
-Full list: [`data/insider/2026/11/2026-11-24.md`](data/insider/2026/11/2026-11-24.md)
+Full list: [`data/insider/2026/11/2026-11-25.md`](data/insider/2026/11/2026-11-25.md)
 
 ## Latest weekly recap
 
